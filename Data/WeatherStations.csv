@@ -1,0 +1,2140 @@
+"","Location","Station.Name","State","TimeZone","DayTimeSaving","Latitude","Longitude","Elevation","City"
+"1","TAPA","Vc Bird Intl Airport Antigua","AG","A","n",17.117,-61.783,32.808,NA
+"2","TKPN","Charlestown/Newcast","AG","A","n",17.2,-62.583,55.774,NA
+"3","TRPM","Blackburne/Plymouth","AG","A","n",16.75,-62.167,39.37,NA
+"4","PAAK","Atka Airport","AK","K","y",52.217,-174.2,59.055,NA
+"5","PAAP","Port Alexander","AK","K","y",56.26,-134.66,3.281,NA
+"6","PAAQ","Palmer","AK","K","y",61.61,-149.09,232.94,NA
+"7","PABA","Barter Island","AK","K","y",70.14,-143.59,39.042,NA
+"8","PABE","Bethel","AK","K","y",60.78,-161.8,125,"Bethel"
+"9","PABI","Delta Junction/Allan AAF","AK","K","y",63.97,-145.7,1268.05,NA
+"10","PABL","Buckland Airport","AK","K","y",65.99,-161.12,32.808,NA
+"11","PABN","Nabesna / Devil Mountain","AK","K","y",62.41,-143,2893.7,NA
+"12","PABR","Barrow/Wiley Post","AK","K","y",71.29,-156.77,30.84,"Utqiaġvik (Barrow)"
+"13","PABT","Bettles Airport","AK","K","y",66.92,-151.52,644.029,NA
+"14","PABV","Birchwood","AK","K","y",61.42,-149.52,98.425,NA
+"15","PACD","Cold Bay Airport","AK","K","y",55.21,-162.72,96.129,NA
+"16","PACE","Central Airport","AK","K","y",65.5739,-144.781,937,NA
+"17","PACM","Scammon Bay Airport","AK","K","y",61.8453,-165.571,0,NA
+"18","PACV","Cordova/Merle K","AK","K","y",60.5,-145.5,41.01,"Cordova"
+"19","PACZ","Cape Romanzoff Airways Facilities Sector","AK","K","y",61.783,-166.033,403.871,NA
+"20","PADE","Deering Airport","AK","K","y",66.08,-162.75,29.528,NA
+"21","PADK","Adak Is. NAF","AK","K","y",51.89,-176.65,17.06,NA
+"22","PADL","Dillingham Municipal","AK","K","y",59.05,-158.52,95.144,"Dillingham"
+"23","PADM","Marshall Don Hunter Sr Airport","AK","K","y",61.8643,-162.026,0,NA
+"24","PADQ","Kodiak","AK","K","y",57.76,-152.5,15.092,"Kodiak"
+"25","PADT","Slana Airport","AK","K","y",62.71,-143.99,2395.01,NA
+"26","PADU","Unalaska","AK","K","y",53.89,-166.53,13.123,"Unalaska"
+"27","PAEC","Chulitna","AK","K","y",62.89,-149.84,1250,NA
+"28","PAED","Anchorage / Elmendorf Air Force Base","AK","K","y",61.25,-149.8,193.57,NA
+"29","PAEG","Eagle Airport","AK","K","y",64.78,-141.15,879.265,NA
+"30","PAEH","Cape Newenham Airways Facilities Sector","AK","K","y",58.66,-162.07,528.215,NA
+"31","PAEI","Fairbanks / Eielson Air Force Base","AK","K","y",64.65,-147.067,547.9,NA
+"32","PAEL","Elfin Cove Seaplane","AK","K","y",58.21,-136.35,0,NA
+"33","PAEM","Emmonak","AK","K","y",62.77,-164.5,13.123,NA
+"34","PAEN","Kenai Municipal Airport","AK","K","y",60.58,-151.25,85.958,"Kenai"
+"35","PAER","Merrill Pass West","AK","K","y",61.25,-153.817,1174.54,NA
+"36","PAFA","Fairbanks International Airport","AK","K","y",64.82,-147.87,436.024,"Fairbanks"
+"37","PAFB","Wainwright U. S. Army Airfield","AK","K","y",64.833,-147.617,465.879,NA
+"38","PAFE","Kake Airport","AK","K","y",56.97,-133.95,0,NA
+"39","PAFK","Farewell Lake Seaplane Base","AK","K","y",62.54,-153.62,1502.95,NA
+"40","PAFM","Ambler","AK","K","y",67.1,-157.85,288.714,NA
+"41","PAFS","Nikolai Airport","AK","K","y",63.0186,-154.358,0,NA
+"42","PAGA","Galena A.","AK","K","y",64.74,-156.94,160.761,NA
+"43","PAGB","Galbraith Lake","AK","K","y",68.49,-149.49,2670.6,NA
+"44","PAGK","Gulkana Airport","AK","K","y",62.15,-145.45,1569.88,NA
+"45","PAGL","Golovin Airport","AK","K","y",64.54,-163.04,26.247,NA
+"46","PAGM","Gambell Airport","AK","K","y",63.77,-171.74,24.934,NA
+"47","PAGN","Angoon Seaplane Base","AK","K","y",57.5036,-134.585,0,NA
+"48","PAGS","Gustavus","AK","K","y",58.42,-135.73,40.026,"Gustavus"
+"49","PAGY","Skagway","AK","K","y",59.48,-135.32,29.856,NA
+"50","PAHC","Holy Cross Airport","AK","K","y",62.1883,-159.775,0,NA
+"51","PAHL","Huslia Airport","AK","K","y",65.6979,-156.351,220,NA
+"52","PAHN","Haines Airport","AK","K","y",59.25,-135.52,30.84,NA
+"53","PAHO","Homer","AK","K","y",59.64,-151.5,85.302,"Homer"
+"54","PAHP","Hooper Bay Automatic Weather Observing / Reporting","AK","K","y",61.54,-166.16,19.685,NA
+"55","PAHS","Huslia","AK","K","y",65.7,-156.39,180.446,NA
+"56","PAHV","Healy River Airport","AK","K","y",63.89,-149.02,1299.21,NA
+"57","PAHY","Hydaburg Seaplane Base","AK","K","y",55.21,-132.84,0,NA
+"58","PAHZ","Hayes River","AK","K","y",61.99,-152.09,1000.66,NA
+"59","PAIG","Igiugig Airport","AK","K","y",59.324,-155.902,0,NA
+"60","PAII","Egegik Automatic Weather Observing / Reporting Sys","AK","K","y",58.42,-157.37,390.42,NA
+"61","PAIL","Iliamna / Iliamna Airport","AK","K","y",59.76,-154.92,186.024,NA
+"62","PAIM","Indian Mountain Airways Facilities Sector","AK","K","y",66,-153.7,1220.47,NA
+"63","PAIN","McKinley National Park Airport","AK","K","y",63.73,-148.92,1719.16,NA
+"64","PAIW","Wales Airport","AK","A","y",65.6226,-168.095,22,NA
+"65","PAJC","Chignik Airport","AK","K","y",56.31,-158.37,49.213,NA
+"66","PAJN","Juneau International Airport","AK","K","y",58.38,-134.58,12.139,"Juneau"
+"67","PAJV","Sutton","AK","K","y",61.72,-148.89,869.423,NA
+"68","PAKK","Koyuk Airport","AK","K","y",64.93,-165.15,124.672,NA
+"69","PAKN","King Salmon Airport","AK","K","y",58.68,-156.65,48.885,"King Salmon"
+"70","PAKP","Anaktuvuk Pass","AK","K","y",68.13,-151.73,2155.51,NA
+"71","PAKT","Ketchikan International Airport","AK","K","y",55.35,-131.7,76.115,"Ketchikan"
+"72","PAKU","Kuparuk Airport","AK","K","y",70.317,-149.583,65.617,NA
+"73","PAKV","Kaltag Airport","AK","K","y",64.33,-158.75,196.85,NA
+"74","PAKW","Klawock Airport","AK","K","y",55.59,-133.09,49.213,"Klawock"
+"75","PALG","Kalskag Airport","AK","K","y",61.5363,-160.341,0,NA
+"76","PALH","Lake Hood Seaplane","AK","K","y",61.19,-149.97,72.178,"Anchorage"
+"77","PALJ","Port Alsworth","AK","K","y",60.21,-154.31,278.871,NA
+"78","PALK","Snowshoe Lake","AK","K","y",62.03,-146.68,2411.42,NA
+"79","PALP","Alpine Airstrip","AK","K","y",70.3443,-150.945,0,NA
+"80","PALR","Chandalar Lake","AK","K","y",67.5,-148.49,1919.29,NA
+"81","PALU","Cape Lisburne Airways Fac Sec","AK","K","y",68.89,-166.14,9.843,NA
+"82","PALV","Big River Lake","AK","K","y",60.82,-152.31,39.37,NA
+"83","PAMB","Manokotak Airport","AK","K","y",58.9902,-159.05,0,NA
+"84","PAMC","McGrath Airport","AK","K","y",62.95,-155.61,344.16,NA
+"85","PAMD","Middleton Island, Ak","AK","K","y",59.44,-146.33,121.063,NA
+"86","PAMH","Minchumina","AK","K","y",63.91,-152.16,700.131,NA
+"87","PAMK","St Michael Airport","AK","K","y",63.4901,-162.11,0,NA
+"88","PAML","Manley Hot Springs","AK","K","y",65,-150.65,269.029,NA
+"89","PAMM","Metlakatla Seaplane Base","AK","K","y",55.08,-131.35,0,NA
+"90","PAMO","Mountain Village Airport","AK","K","y",62.0954,-163.682,0,NA
+"91","PAMR","Merrill Field","AK","K","y",61.214,-149.846,138.123,"Anchorage"
+"92","PAMX","McCarthy","AK","K","y",61.44,-142.94,1492.78,NA
+"93","PAMY","Mekoryuk","AK","K","y",60.37,-166.27,49.213,NA
+"94","PANC","Anchorage International Airport","AK","K","y",61.17,-150,113.845,"Anchorage"
+"95","PANI","Aniak","AK","K","y",61.58,-159.53,84.974,"Aniak"
+"96","PANN","Nenana Municipal Airport","AK","K","y",64.5473,-149.074,357.94,NA
+"97","PANT","Annette Island","AK","K","y",55.04,-131.57,108.924,NA
+"98","PANV","Anvik Airport","AK","K","y",62.65,-160.18,324.803,NA
+"99","PAOH","Hoonah Seaplane","AK","K","y",58.12,-135.45,19.685,NA
+"100","PAOM","Nome Airport","AK","K","y",64.5,-165.44,13.123,"Nome"
+"101","PAOO","Toksook Bay Airport","AK","K","y",60.5414,-165.087,0,NA
+"102","PAOR","Northway Airport","AK","K","y",62.97,-141.94,1712.93,NA
+"103","PAOT","Kotzebue, Wien Memorial Airport","AK","K","y",66.87,-162.64,9.843,"Kotzebue"
+"104","PAOU","Nelson Lagoon Airport","AK","K","y",56.0075,-161.16,0,NA
+"105","PAPB","St. George Airport","AK","K","y",56.35,-169.4,124.672,NA
+"106","PAPG","Petersburg","AK","K","y",56.82,-132.97,106.955,"Petersburg"
+"107","PAPH","Port Heiden","AK","K","y",56.96,-158.62,95.144,NA
+"108","PAPM","Platinum Airport","AK","K","y",59.0114,-161.82,0,NA
+"109","PAPN","Pilot Point Airport","AK","K","y",57.5804,-157.572,0,NA
+"110","PAPO","Point Hope Automatic Weather Observing / Reporting","AK","K","y",68.35,-166.81,13.123,NA
+"111","PAPR","Prospect Creek Airport","AK","K","y",66.817,-150.65,1099.08,NA
+"112","PAPT","Puntilla","AK","K","y",62.1,-152.75,1837.27,NA
+"113","PAQT","Nuiqsut Airport","AK","K","y",70.21,-151.01,55.774,NA
+"114","PARC","Arctic Village","AK","K","y",68.12,-145.57,2086.61,NA
+"115","PARD","Red Dog Airport","AK","K","y",68.08,-162.83,974.409,NA
+"116","PARL","Central Airport","AK","K","y",65.57,-144.77,826.772,NA
+"117","PARS","Russian Mission Airport","AK","K","y",61.7749,-161.319,0,NA
+"118","PARY","Ruby Airport","AK","K","y",64.7272,-155.47,0,NA
+"119","PASA","Savoonga Airport","AK","K","y",63.69,-170.5,55.774,NA
+"120","PASC","Deadhorse Airport","AK","K","y",70.2,-148.47,76.115,"Deadhorse"
+"121","PASD","Sand Point","AK","K","y",55.32,-160.52,22.966,NA
+"122","PASH","Shishmaref Automatic Wx Obs","AK","K","y",66.27,-166.05,6.562,NA
+"123","PASI","Sitka","AK","K","y",57.07,-135.35,15.092,"Sitka"
+"124","PASK","Selawik","AK","K","y",66.62,-160,26.247,NA
+"125","PASL","Sleetmute","AK","K","y",61.72,-157.15,177.165,NA
+"126","PASM","St. Marys Airport","AK","K","y",62.07,-163.3,311.68,"St. Mary's"
+"127","PASN","St. Paul Is.","AK","K","y",57.15,-170.22,21.982,NA
+"128","PASO","Seldovia Airport","AK","K","y",59.44,-151.7,311.68,NA
+"129","PASP","Sheep Mountain Airport","AK","K","y",61.82,-147.5,9708,NA
+"130","PASV","Sparrevohn","AK","K","y",61.1,-155.567,1587.93,NA
+"131","PASW","Skwentna","AK","K","y",61.97,-151.18,149.934,NA
+"132","PASX","Soldotna","AK","K","y",60.48,-151.03,111.549,NA
+"133","PASY","Shemya AFB","AK","K","y",52.72,174.12,101.706,NA
+"134","PATA","Tanana, Calhoun Memorial Airport","AK","K","y",65.17,-152.1,231.955,NA
+"135","PATC","Tin City Airways Facilities Sector","AK","K","y",65.57,-167.92,272.31,NA
+"136","PATG","Togiak Airport","AK","K","y",59.05,-160.41,19.685,NA
+"137","PATK","Talkeetna","AK","K","y",62.3,-150.1,345.144,NA
+"138","PATL","Tatalina LRRS Airport","AK","K","y",62.8944,-155.977,0,NA
+"139","PATO","Portage Glacier","AK","K","y",60.783,-148.833,95.144,NA
+"140","PATQ","Atqasuk Edward Burnell Sr. Memorial Airport","AK","K","y",70.4673,-157.436,0,NA
+"141","PATW","Cantwell","AK","K","y",63.41,-148.95,2191.6,NA
+"142","PAUN","Unalakleet","AK","K","y",63.89,-160.81,15.092,"Unalakleet"
+"143","PAUO","Willow Airport","AK","K","y",61.76,-150.06,226.378,NA
+"144","PAVC","King Cove Airport","AK","K","y",55.1163,-162.266,0,NA
+"145","PAVD","Valdez 2","AK","K","y",61.13,-146.25,124.672,"Valdez"
+"146","PAVL","Kivalina Airport","AK","K","y",67.73,-164.55,9.843,NA
+"147","PAVW","Valdez Weather Station Office","AK","K","y",61.13,-146.35,22.966,NA
+"148","PAWD","Seward Airport","AK","K","y",60.12,-149.45,59.055,NA
+"149","PAWG","Wrangell","AK","K","y",56.48,-132.37,42.651,"Wrangell"
+"150","PAWI","Wainwright Airport","AK","K","y",70.62,-159.86,88.911,NA
+"151","PAWN","Noatak","AK","K","y",67.57,-162.98,91.864,NA
+"152","PAWR","Whittier","AK","K","y",60.77,-148.69,29.528,NA
+"153","PAWS","Wasilla Airport","AK","K","y",61.58,-149.45,364.173,NA
+"154","PAXK","Paxson","AK","K","y",63.033,-145.5,2654.2,NA
+"155","PAYA","Yakutat","AK","K","y",59.52,-139.67,88.911,"Yakutat"
+"156","PAZK","Eureka","AK","K","y",61.93,-147.17,3287.4,NA
+"157","PFYU","Fort Yukon","AK","K","y",66.57,-145.27,444.882,NA
+"158","PPIZ","Point Lay LRRS","AK","K","y",69.73,-163.02,19.685,NA
+"159","K1M4","Posey Field Airport","AL","c","y",34.28,-87.6,930,NA
+"160","K4A9","Isbell Field Airport","AL","C","y",34.467,-85.717,875.984,NA
+"161","K79J","Andalusia-Opp Municipal Airport","AL","C","y",31.317,-86.4,308.399,NA
+"162","K8A0","Albertville Regional Airport-Thomas J Brumlik Fiel","AL","C","y",34.2291,-86.2558,1032,NA
+"163","KALX","Alexander City/T.C. Russell Field","AL","C","y",32.915,-85.963,685.696,NA
+"164","KANB","Anniston Metropolitan Airport","AL","C","y",33.59,-85.85,610.892,NA
+"165","KAUO","Auburn-Opelika Airport","AL","C","y",32.62,-85.44,774.278,NA
+"166","KBFM","Mobile Downtown Airport","AL","C","y",30.64,-88.07,25.919,NA
+"167","KBHM","Birmingham International Airport","AL","C","y",33.56,-86.75,629.921,"Birmingham"
+"168","KCKL","Centreville","AL","C","y",32.9,-87.25,459.318,NA
+"169","KCMD","Cullman Regional Airport-Folsom Field","AL","C","y",34.269,-86.858,964.567,NA
+"170","KDCU","Decatur, Pryor Field","AL","C","y",34.66,-86.94,590.551,NA
+"171","KDHN","Dothan Airport","AL","C","y",31.32,-85.45,320.866,"Dothan"
+"172","KEET","Calera, Shelby County Airport","AL","C","y",33.18,-86.78,583.99,NA
+"173","KGAD","Gadsden Municipal Automatic Weather Observing","AL","C","y",33.97,-86.09,567.585,NA
+"174","KGZH","Evergreen, Middleton Field","AL","C","y",31.42,-87.04,255.906,NA
+"175","KHEY","Hanchey Army Heliport (Fort Rucker)","AL","C","y",31.346,-86.654,317,NA
+"176","KHSV","Huntsville International / Jones Field","AL","C","y",34.66,-86.77,624.016,"Huntsville"
+"177","KHUA","Redstone Army Airfield","AL","C","y",34.683,-86.683,685.696,NA
+"178","KJKA","Jack Edwards Airport","AL","C","y",30.2896,-87.6718,17,NA
+"179","KM82","Huntsville, Madison County Executive Airport","AL","C","y",34.85,-86.55,757.874,NA
+"180","KMDQ","Huntsville-Madison Co Exec Airport","AL","C","y",34.86,-86.56,754.593,NA
+"181","KMGM","Montgomery, Dannelly Field","AL","C","y",32.3,-86.4,202.1,"Montgomery"
+"182","KMOB","Mobile Regional Airport","AL","C","y",30.68,-88.25,214.895,"Mobile"
+"183","KMSL","Muscle Shoals, North West Alabama Regional Airport","AL","C","y",34.75,-87.61,540.026,NA
+"184","KMXF","Maxwell Air Force Base / Montgomery","AL","C","y",32.383,-86.367,173.885,NA
+"185","KOZR","Cairns Army Air Field / Ozark","AL","C","y",31.283,-85.717,314.961,NA
+"186","KPRN","Mac Crenshaw Memorial Airport","AL","C","y",31.8457,-86.6107,451,NA
+"187","KTCL","Tuscaloosa Regional Airport","AL","C","y",33.23,-87.62,186.024,NA
+"188","KTOI","Troy Municipal Airport","AL","C","y",31.86,-86.01,394.029,NA
+"189","KARG","Walnut Ridge Automatic Weather Observing / Report","AR","C","y",36.1255,-90.9216,272.31,NA
+"190","KASG","Springdale Municipal","AR","C","y",36.19,-94.12,1351.71,NA
+"191","KAWM","West Memphis","AR","C","y",35.135,-90.234,209.974,NA
+"192","KBPK","Mountain Home, Ozark Regional Airport","AR","C","y",36.37,-92.47,928.478,NA
+"193","KBVX","Batesville Automatic Weather Observing / Reporting","AR","C","y",35.73,-91.65,462.598,NA
+"194","KBYH","Eaker Air Force Base","AR","C","y",35.967,-89.95,262.139,NA
+"195","KCCA","Clinton Municipal Airport","AR","C","y",35.598,-92.352,514,NA
+"196","KCDH","Harrell Field Airport","AR","C","y",33.623,-92.763,130,NA
+"197","KDEQ","De Queen, Helms Sevier County Airport","AR","C","y",34.05,-94.4,351.05,NA
+"198","KELD","El Dorado, So. Arkansas Regional at Goodwin Field","AR","C","y",33.23,-92.8,251.969,NA
+"199","KFLP","Flippin Automatic Weather Observing/Reporting Sys","AR","C","y",36.29,-92.59,1148.29,NA
+"200","KFSM","Fort Smith Regional Airport","AR","C","y",35.34,-94.37,449.147,"Fort Smith"
+"201","KFYV","Fayetteville, Drake Field","AR","C","y",36.01,-94.17,1250.98,NA
+"202","KHKA","Blytheville Municipal Airport","AR","C","y",35.94,-89.83,255.906,NA
+"203","KHOT","Hot Springs, Memorial Field Airport","AR","C","y",34.48,-93.1,554.462,NA
+"204","KHRO","Harrison, Boone County Airport","AR","C","y",36.28,-93.15,1105.97,NA
+"205","KJBR","Jonesboro Municipal Airport","AR","C","y",35.83,-90.65,269.029,NA
+"206","KLIT","Little Rock, Adams Field","AR","C","y",34.73,-92.23,275.919,"Little Rock"
+"207","KLLQ","Monticello Municipal Airport","AR","C","y",33.64,-91.75,118.11,NA
+"208","KLRF","Little Rock Air Force Base","AR","C","y",34.917,-92.15,337.927,NA
+"209","KM19","Newport Municipal Airport","AR","C","y",35.6,-91.2,239,NA
+"210","KM89","Dexter B Florence Memorial Field Airport","AR","C","y",34.1,-93.07,182,NA
+"211","KMEZ","Mena Intermountain Municipal Airport","AR","C","y",34.55,-93.583,702.1,NA
+"212","KMWT","Mount Ida","AR","C","y",34.547,-93.578,1066.27,NA
+"213","KPBF","Pine Bluff, Grider Field Airport","AR","C","y",34.18,-91.93,207.021,NA
+"214","KROG","Rogers Automatic Weather Observing / Reporting Sys","AR","C","y",36.38,-94.11,1361.55,NA
+"215","KRUE","Russellville Municipal Airport","AR","C","y",35.26,-93.09,403.543,NA
+"216","KSGT","Stuttgart Automatic Weather Observing / Reporting","AR","C","y",34.61,-91.57,223.097,NA
+"217","KSLG","Siloam Springs Automatic Weather Observing/Report","AR","C","y",36.19,-94.49,1194.23,NA
+"218","KTXK","Texarkana Regional-Webb Field","AR","C","y",33.46,-94,360.892,"Texarkana"
+"219","KVBT","Bentonville Automatic Weather Observing/Reporting","AR","C","y",36.35,-94.22,1295.93,NA
+"220","KXNA","Fayetteville/Springdale, NW Arkansas Regl Airport","AR","C","y",36.282,-94.307,1286.09,"Fayetteville"
+"221","NSTU","Pago Pago","AS","S","n",-14.333,-170.717,9.843,"Pago Pago, Tutuila"
+"222","TNCA","Queen Beatrix Airport","AW","A","n",12.5,-70.017,16.404,NA
+"223","K40G","Grand Canyon, Valle Airport","AZ","M","n",35.65,-112.15,600.066,NA
+"224","KCGZ","Casa Grande (awos)","AZ","M","n",32.96,-111.77,1463.26,NA
+"225","KCHD","Chandler Municipal Airport","AZ","M","n",33.27,-111.81,1243.44,NA
+"226","KCMR","H.A. Clark Memorial Field Airport","AZ","M","n",35.3055,-112.194,6680,NA
+"227","KDMA","Davis-Monthan AFB","AZ","M","n",32.18,-110.88,2618.11,NA
+"228","KDUG","Douglas Bisbee Intl Airport","AZ","M","n",31.45,-109.6,4136.15,NA
+"229","KDVT","Deer Valley/Phoenix","AZ","M","n",33.69,-112.08,1476.38,NA
+"230","KFFZ","Mesa/Falcon Field","AZ","M","n",33.46,-111.73,1391.08,NA
+"231","KFHU","Fort Huachuca/Libby","AZ","M","n",31.58,-110.33,4665.03,NA
+"232","KFLG","Flagstaff (amos)","AZ","M","n",35.14,-111.67,6993.11,"Flagstaff"
+"233","KGBN","Gila Bend (aaf)","AZ","M","n",32.89,-112.72,853.018,NA
+"234","KGCN","Grand Canyon Park","AZ","M","n",35.96,-112.15,6774.93,"Grand Canyon"
+"235","KGEU","Glendale","AZ","M","n",33.53,-112.3,1066.27,NA
+"236","KGYR","Goodyear Municipal","AZ","M","n",33.42,-112.39,967.848,NA
+"237","KIFP","Bull Head City","AZ","M","n",35.1575,-114.559,547.9,"Bullhead City"
+"238","KIGM","Kingman (amos)","AZ","M","n",35.28,-113.95,3389.11,NA
+"239","KINW","Winslow (aut)","AZ","M","n",35.03,-110.73,4881.89,NA
+"240","KIWA","Williams AFB/Chandl","AZ","M","n",33.3,-111.67,1352.03,"Mesa"
+"241","KLUF","Luke AFB/Phoenix","AZ","M","n",33.59,-112.37,1085.96,NA
+"242","KNYL","Yuma Mcas","AZ","M","n",32.39,-114.37,212.927,"Yuma"
+"243","KOLS","Nogales Intl Airport","AZ","M","n",31.42,-110.85,4055.12,NA
+"244","KPAN","Payson Airport","AZ","M","n",34.2568,-111.339,5157,NA
+"245","KPGA","Page Muni (amos)","AZ","M","n",36.94,-111.45,4278.21,"Page"
+"246","KPHX","Phoenix/Sky Harbor","AZ","M","n",33.44,-112.02,1111.88,"Phoenix"
+"247","KPRC","Prescott/Love Fld","AZ","M","n",34.65,-112.42,5042,"Prescott"
+"248","KRQE","Window Rock (was P34)","AZ","M","n",35.657,-109.061,6738.85,NA
+"249","KSAD","Safford Municipal","AZ","M","n",32.85,-109.64,3116.8,NA
+"250","KSDL","Scottsdale Muni","AZ","M","n",33.61,-111.91,1509.19,NA
+"251","KSEZ","Sedona Airport","AZ","M","N",34.8486,-111.788,4830,NA
+"252","KSJN","St. Johns Air Park","AZ","M","n",34.52,-109.38,5731.63,NA
+"253","KSOW","Show Low Municipal","AZ","M","n",34.28,-110,6410.76,NA
+"254","KTUS","Tucson Intl Airport","AZ","M","n",32.12,-110.93,2548.89,"Tucson"
+"255","KWTR","Whiteriver Airport","AZ","M","n",41.4,-104.867,6194.23,NA
+"256","KYUM","Yuma","AZ","M","n",32.667,-114.6,206.037,NA
+"257","TBPB","Grantley Adams","BB","A","n",13.067,-59.483,183.727,NA
+"258","MYNN","Nassau Bahamas","BH","A","y",25.05,-77.467,22.966,NA
+"259","K3A6","Newhall","CA","P","y",34.4,-118.6,1400.92,NA
+"260","K87Q","Pt Piedras(cg/Amos)","CA","P","y",35.68,-121.28,68.898,NA
+"261","K9L2","Edwards Air Force Aux No Base","CA","P","y",34.983,-117.867,2299.87,NA
+"262","KAAT","Alturas (was O00)","CA","P","y",41.491,-120.564,4399.61,NA
+"263","KACV","Arcata/Eureka Airport","CA","P","y",40.98,-124.1,203.084,"Arcata/Eureka"
+"264","KAJO","Corona Airport","CA","P","y",33.87,-117.57,163,NA
+"265","KAPC","Napa Co. Airport","CA","P","y",38.21,-122.28,32.808,NA
+"266","KAUN","Auburn Muni Airport","CA","P","y",38.955,-121.082,1532.15,NA
+"267","KAVX","Avalon, Catalina Airport","CA","P","y",33.41,-118.42,1575.13,NA
+"268","KBAB","Beale AFB/Marysville","CA","P","y",39.14,-121.44,125,NA
+"269","KBFL","Bakersfield/Meadows","CA","P","y",35.43,-119.05,492.126,"Bakersfield"
+"270","KBIH","Bishop Airport","CA","P","y",37.37,-118.37,4146.98,NA
+"271","KBLH","Blythe Airport","CA","P","y",33.62,-114.72,390.092,NA
+"272","KBLU","Blue Canyon (amos)","CA","P","y",39.29,-120.7,5279.86,NA
+"273","KBNY","Burney","CA","P","y",40.883,-121.667,3158.14,NA
+"274","KBUR","Burbank/Glendale","CA","P","y",34.2,-118.36,725.066,"Burbank"
+"275","KCCR","Concord/Buchanan","CA","P","y",37.98,-122.05,22.966,"Concord"
+"276","KCEC","Crescent City","CA","P","y",41.79,-124.24,56.102,NA
+"277","KCIC","Chico Municipal","CA","P","y",39.79,-121.85,239.501,NA
+"278","KCMA","Camarillo (awos)","CA","P","y",34.21,-119.09,75.459,NA
+"279","KCNO","Chino Airport","CA","P","y",33.97,-117.64,649.606,NA
+"280","KCQT","Los Angeles Downtown/Usc","CA","P","y",34.02,-118.28,270.013,NA
+"281","KCRQ","Carlsbad/Palomar","CA","P","y",33.14,-117.28,328.084,NA
+"282","KCXL","Calexico International Airport","CA","P","y",0,0,NA,NA
+"283","KCZZ","Campo (awrs)","CA","P","y",32.62,-116.47,2631.23,NA
+"284","KDAG","Barstow-Daggett","CA","P","y",34.88,-116.78,1921.92,NA
+"285","KDVO","Novato/Gnoss Field Airport","CA","P","Y",38.1436,-122.556,100,NA
+"286","KEDW","Edwards AFB","CA","P","y",34.91,-117.87,2315.95,NA
+"287","KEED","Needles Airport","CA","P","y",34.78,-114.62,914.042,NA
+"288","KEKA","Eureka","CA","P","y",40.8,-124.167,59.055,NA
+"289","KEMT","El Monte","CA","P","y",34.09,-118.03,295.276,NA
+"290","KFAT","Fresno Air Terminal","CA","P","y",36.78,-119.72,333.005,"Fresno"
+"291","KFUL","Fullerton Municipal","CA","P","y",33.87,-117.98,95.144,NA
+"292","KHHR","Hawthorne Municipal","CA","P","y",33.93,-118.34,68.898,NA
+"293","KHJO","Hanford","CA","P","y",36.318,-119.629,246.063,NA
+"294","KHWD","Hayward Air Term","CA","P","y",37.66,-122.12,45.932,NA
+"295","KIPL","Imperial","CA","P","y",32.84,-115.57,-55.774,NA
+"296","KIYK","Inyokern","CA","P","y",35.66,-117.83,2457.35,NA
+"297","KIZA","Santa Ynez Airport","CA","P","y",34.6,-120.067,672.572,NA
+"298","KL35","Big Bear City Airport","CA","P","y",34.27,-116.85,2057,NA
+"299","KLAX","Los Angeles Intl Airport","CA","P","y",33.94,-118.4,125,"Los Angeles"
+"300","KLGB","Long Beach Airport","CA","P","y",33.83,-118.15,24.934,"Long Beach"
+"301","KLPC","Lompoc (awos)","CA","P","y",34.67,-120.47,88.583,NA
+"302","KLVK","Livermore Municipal","CA","P","y",37.7,-121.82,396.982,NA
+"303","KMAE","Madera Municipal Airport","CA","P","y",36.99,-120.11,252.625,NA
+"304","KMCC","McClellan Airfield","CA","P","y",38.667,-121.4,82.021,NA
+"305","KMCE","Merced/Macready Fld","CA","P","y",37.29,-120.52,154.199,NA
+"306","KMER","Castle Airport","CA","P","y",37.3805,-120.568,191,NA
+"307","KMHR","Mather Field","CA","P","y",38.58,-121.3,95.144,NA
+"308","KMHS","Mount Shasta (amos)","CA","P","y",41.33,-122.32,3535.1,NA
+"309","KMHV","Mojave","CA","P","y",35.07,-118.16,2785.43,NA
+"310","KMMH","Mammoth/June Lakes","CA","P","y",37.64,-118.92,7129.27,"Mammoth Lakes"
+"311","KMOD","Modesto City/Sham","CA","P","y",37.63,-120.95,97.113,NA
+"312","KMRY","Monterey Peninsula","CA","P","y",36.59,-121.84,164.042,"Monterey"
+"313","KMWS","Mount Wilson","CA","P","y",34.233,-118.067,5711.94,NA
+"314","KMYF","San Diego/Montg","CA","P","y",32.83,-117.13,423.228,NA
+"315","KMYV","Marysville/Yuba Co.","CA","P","y",39.11,-121.57,62.336,NA
+"316","KNFG","Camp Pendleton Mcas","CA","P","y",33.3,-117.35,65.945,NA
+"317","KNID","China Lake (naf)","CA","P","y",35.69,-117.68,2220.14,NA
+"318","KNJK","El Centro Naf","CA","P","y",32.83,-115.68,-42.979,NA
+"319","KNKX","Miramar MCAS","CA","P","y",32.88,-117.15,458.99,NA
+"320","KNLC","Lemoore Nas/Reeves","CA","P","y",36.3,-119.9,240.157,NA
+"321","KNRS","Imperial Beach/Ream","CA","P","y",32.58,-117.12,20.013,NA
+"322","KNSI","San Nicolas Island","CA","P","y",33.26,-119.45,892.06,NA
+"323","KNTD","Pt Mugu Naws","CA","P","y",34.12,-119.12,9.843,NA
+"324","KNUC","Naval Auxiliary Landing Field","CA","P","y",33.03,-118.58,170.932,NA
+"325","KNUQ","Moffett Nas/Mtn Vie","CA","P","y",37.43,-122.05,39.042,NA
+"326","KNXP","Twentynine Palms","CA","P","y",34.3,-116.17,33.136,NA
+"327","KNZY","North Island Nas","CA","P","y",32.71,-117.2,48.885,NA
+"328","KO87","Shelter Cove","CA","P","y",40.04,-124.07,68.898,NA
+"329","KOAK","Oakland","CA","P","y",37.7,-122.22,6.89,"Oakland"
+"330","KOKB","Oceanside Municipal (was L32)","CA","P","y",33.219,-117.349,29.528,NA
+"331","KONT","Ontario Intl Arpt","CA","P","y",34.06,-117.6,941.601,"Ontario"
+"332","KOVE","Oroville","CA","P","y",39.49,-121.62,187.008,NA
+"333","KOXR","Oxnard","CA","P","y",34.21,-119.2,36.089,NA
+"334","KPAO","Palo Alto Airport","CA","P","y",37.48,-122.12,6.562,NA
+"335","KPMD","Palmdale Production","CA","P","y",34.63,-118.08,2523.95,NA
+"336","KPOC","La Verne/Brackett","CA","P","y",34.11,-117.78,1010.5,NA
+"337","KPRB","Paso Robles Muni","CA","P","y",35.68,-120.63,799.869,NA
+"338","KPSP","Palm Springs Rgnl","CA","P","y",33.84,-116.5,475.722,"Palm Springs"
+"339","KPTV","Porterville (awos)","CA","P","y",36.04,-119.07,442.913,NA
+"340","KRAL","Riverside Municipal","CA","P","y",33.95,-117.45,839.895,NA
+"341","KRBL","Red Bluff Municipal","CA","P","y",40.15,-122.25,349.081,NA
+"342","KRDD","Redding Municipal","CA","P","y",40.51,-122.3,501.969,"Redding"
+"343","KRHV","San Jose/Reid/Hillv","CA","P","y",37.34,-121.82,134.514,NA
+"344","KRIV","March AFB/Riverside","CA","P","y",33.89,-117.27,1516.08,NA
+"345","KRNM","Ramona Airport","CA","P","y",33.04,-116.91,1391.08,NA
+"346","KSAC","Sacramento/Executiv","CA","P","y",38.52,-121.5,15.092,NA
+"347","KSAN","San Diego/Lindbergh","CA","P","y",32.73,-117.17,36.089,"San Diego"
+"348","KSBA","Santa Barbara Muni","CA","P","y",34.44,-119.83,8.858,"Santa Barbara"
+"349","KSBP","San Luis Obispo","CA","P","y",35.24,-120.64,216.535,"San Luis Obispo"
+"350","KSCK","Stockton Metro","CA","P","y",37.91,-121.25,21.982,"Stockton"
+"351","KSDB","Sandberg (aut)","CA","P","y",34.76,-118.73,4517.06,NA
+"352","KSDM","San Diego/Brown Fld","CA","P","y",32.58,-116.98,522.966,NA
+"353","KSEE","San Diego/Gillespie","CA","P","y",32.83,-116.97,383.858,NA
+"354","KSFO","San Francisco Intl Airport","CA","P","y",37.62,-122.37,7.874,"San Francisco"
+"355","KSIY","Montague/Siskiyou","CA","P","y",41.79,-122.47,2634.84,NA
+"356","KSJC","San Jose International Airport","CA","P","y",37.37,-121.93,51.837,"San Jose"
+"357","KSLI","Los Alamitos Aaf","CA","P","y",33.79,-118.05,36.089,NA
+"358","KSMF","Sacramento Metro","CA","P","y",38.7,-121.6,22.966,"Sacramento"
+"359","KSMO","Santa Monica Muni","CA","P","y",34.03,-118.45,173.885,NA
+"360","KSMX","Santa Maria Public","CA","P","y",34.91,-120.45,253.937,"Santa Maria"
+"361","KSNA","Santa Ana/John-Wayne","CA","P","y",33.68,-117.88,33.136,"Orange County"
+"362","KSNS","Salinas Municipal","CA","P","y",36.66,-121.61,51.837,NA
+"363","KSQL","San Carlos Airport","CA","P","y",37.53,-122.25,3.281,NA
+"364","KSTS","Santa Rosa (awos)","CA","P","y",38.51,-122.81,124.672,"Santa Rosa"
+"365","KSUU","Travis AFB/Fairfield","CA","P","y",38.28,-121.93,68.898,NA
+"366","KTOA","Torrance Municipal","CA","P","y",33.8,-118.33,104.987,NA
+"367","KTRK","Truckee-Tahoe","CA","P","y",39.33,-120.13,5898.95,NA
+"368","KTRM","Thermal Airport","CA","P","y",33.64,-116.17,-111.877,NA
+"369","KTSP","Tehachapi Municipal Airport","CA","P","y",35.135,-118.439,4001,NA
+"370","KTVL","South Lake Tahoe","CA","P","y",38.91,-120,6263.12,NA
+"371","KUKI","Ukiah Muni (awos)","CA","P","y",39.14,-123.2,619.094,NA
+"372","KVBG","Vandenberg AFB","CA","P","y",34.73,-120.55,396.982,NA
+"373","KVCB","Nut Tree Airport","CA","P","y",38.378,-121.957,111.549,NA
+"374","KVCV","Southern California Logisitics Airport","CA","P","y",34.583,-117.383,2874.02,NA
+"375","KVIS","Visalia Muni","CA","P","y",36.33,-119.4,291.995,NA
+"376","KVNY","Van Nuys Airport","CA","P","y",34.21,-118.49,770.013,NA
+"377","KWHP","Los Angeles-Whiteman Airport","CA","P","y",34.26,-118.41,1003.94,NA
+"378","KWJF","Lancaster/Fox F","CA","P","y",34.73,-118.22,2338.91,NA
+"379","KWVI","Bami11","CA","P","y",36.94,-121.79,157.48,NA
+"380","KXVW","Vandenberg Range","CA","P","y",34.717,-120.567,328.084,NA
+"381","K04V","Saguache","CO","M","y",38.1,-106.167,7824.8,NA
+"382","K20V","Kremmling/McElroy Field","CO","M","y",40.05,-106.36,7411.42,NA
+"383","K33V","Walden/Jackson County Airport","CO","M","y",40.75,-106.271,8153,NA
+"384","K3MW","Mount Werner","CO","M","y",40.267,-106.45,10633.2,NA
+"385","K4BM","Wilkerson Pass","CO","M","y",39.05,-105.514,11279.5,NA
+"386","K5SM","Sunlight","CO","M","y",39.417,-107.367,10603.7,NA
+"387","K7BM","Cottonwood Pass","CO","M","y",38.8,-106.217,9826.12,NA
+"388","KABH","Ellicott/USAF Academy Bullseye Auxiliary Airstrip","CO","M","y",38.7578,-104.308,6037,NA
+"389","KAEJ","Central Colorado Regional Airport","CO","M","y",38.8142,-106.121,7946,NA
+"390","KAFF","Air Force Academy","CO","M","y",38.98,-104.82,6571.85,NA
+"391","KAIB","Hopkins Field Airport","CO","M","y",38.2388,-108.563,5940,NA
+"392","KAJZ","Blake Field Airport","CO","M","y",38.7864,-108.064,5193,NA
+"393","KAKO","Akron/Washington Co","CO","M","y",40.17,-103.22,4662.07,NA
+"394","KALS","Alamosa Muni(awos)","CO","M","y",37.46,-105.87,7539.04,NA
+"395","KANK","Salida/Harriet Alexander Field","CO","M","y",38.5383,-106.049,7523,NA
+"396","KAPA","Denver/Centennial","CO","M","y",39.57,-104.85,5882.55,NA
+"397","KASE","Aspen/Sardy Field","CO","M","y",39.22,-106.87,8018.37,"Aspen"
+"398","KBDU","Boulder Municipal Airport","CO","M","y",40.039,-105.226,5288,NA
+"399","KBJC","Broomfield/Rocky Mtn Metro Airport","CO","M","y",39.91,-105.12,5656.17,NA
+"400","KBKF","Buckley AFB/Aurora","CO","M","y",39.702,-104.75,5570.87,NA
+"401","KCAG","Craig-Moffat(amos)","CO","M","y",40.51,-107.53,6282.81,NA
+"402","KCCU","Copper Mountain (12,400 feet)","CO","M","y",39.475,-106.153,12073.5,NA
+"403","KCEZ","Cortez/Montezuma Co","CO","M","y",37.3,-108.63,5915.35,NA
+"404","KCOS","Colorado Springs","CO","M","y",38.83,-104.72,6201.12,"Colorado Springs"
+"405","KCPW","Wolf Creek Pass (11,760 feet)","CO","M","y",37.464,-106.804,11758.5,NA
+"406","KCRV","Corona Pass (11,608 feet)","CO","M","y",40.0503,-105.584,NA,NA
+"407","KDEN","Denver Intnl Arpt","CO","M","y",39.87,-104.67,5414.04,"Denver"
+"408","KDRO","Durango/La Plata Co","CO","M","y",37.16,-107.75,6686.35,"Durango"
+"409","KEEO","Meeker","CO","M","y",40.04,-107.89,6391.08,NA
+"410","KEGE","Eagle Co. Regional","CO","M","y",39.66,-106.92,6497.05,"Eagle/Vail"
+"411","KEIK","Erie Municipal Airport","CO","M","y",40.01,-105.05,5130,NA
+"412","KFCS","Fort Carson/Butts","CO","M","y",38.69,-104.77,5871.06,NA
+"413","KFNL","Fort Collins (awos)","CO","M","y",40.46,-105.01,5016.4,NA
+"414","KFTG","Front Range Airport","CO","M","y",39.785,-104.543,5606.96,NA
+"415","KGJT","Grand Junction","CO","M","y",39.12,-108.53,4839.9,"Grand Junction"
+"416","KGUC","Gunnison Co. (awos)","CO","M","y",38.55,-106.92,7673.88,"Gunnison"
+"417","KGXY","Greeley/Weld (awos)","CO","M","y",40.43,-104.63,4658.79,NA
+"418","KHDN","Hayden/Yampa (awos)","CO","M","y",40.51,-107.25,6601.05,"Hayden"
+"419","KHEQ","Holyoke Airport","CO","M","y",40.5694,-102.273,3703,NA
+"420","KITR","Burlington","CO","M","y",39.24,-102.29,4215.88,NA
+"421","KLAA","Lamar","CO","M","y",38.07,-102.68,3704.07,NA
+"422","KLHX","La Junta Municipal","CO","M","y",38.05,-103.52,4203.08,NA
+"423","KLIC","Limon Municipal","CO","M","y",39.26,-103.66,5562.01,NA
+"424","KLMO","Vance Brand Airport","CO","M","y",40.1643,-105.164,5055,NA
+"425","KLXV","Leadville/Lake Co.","CO","M","y",39.22,-106.32,9927.82,NA
+"426","KMNH","Elbert Mountain","CO","M","y",39.219,-104.641,7060.37,NA
+"427","KMTJ","Montrose Co. Arpt","CO","M","y",38.51,-107.88,5757.87,"Montrose"
+"428","KMYP","Monarch Pass (12,030 feet)","CO","M","y",38.497,-106.32,12030.8,NA
+"429","KPSO","Stevens Field Airport","CO","M","Y",37.24,-107.03,7664,NA
+"430","KPUB","Pueblo Memorial(aw)","CO","M","y",38.29,-104.52,4684.06,"Pueblo"
+"431","KRIL","Rifle/Garfield Rgnl","CO","M","y",39.54,-107.72,5547.9,NA
+"432","KSBS","Steamboat Springs","CO","M","y",40.48,-106.82,7050.52,NA
+"433","KSPD","Springfield/Comanche Natl Grass","CO","M","y",37.28,-102.61,4379.92,NA
+"434","KSTK","Sterling Municipal Airport","CO","M","y",40.6153,-103.265,4040,NA
+"435","KTAD","Trinidad/Animas Co.","CO","M","y",37.26,-104.33,5745.08,NA
+"436","KTEX","Telluride Regional","CO","M","y",37.94,-107.77,9084.65,NA
+"437","KVTP","South La Veta Pass (10,216 feet)","CO","M","y",37.512,-105.171,10216.5,NA
+"438","KBDL","Windsor Locks, Bradley International Airport","CT","E","y",41.94,-72.68,160.105,"Hartford"
+"439","KBDR","Bridgeport/Igor|Sikorsky Memorial","CT","E","y",41.18,-73.13,13.123,NA
+"440","KDXR","Danbury Municipal Airport","CT","E","y",41.37,-73.48,456.037,NA
+"441","KGON","Groton / New London Airport","CT","E","y",41.33,-72.05,9.843,NA
+"442","KHFD","Hartford-Brainard Airport","CT","E","y",41.73,-72.65,20.013,NA
+"443","KHVN","New Haven/Tweed","CT","E","y",41.28,-72.88,5.906,"New Haven"
+"444","KIJD","Willimantic, Windham Airport","CT","E","y",41.75,-72.18,249.344,NA
+"445","KMMK","Meriden Markham Municipal Airport","CT","E","y",41.51,-72.83,101.706,NA
+"446","KOXC","Oxford Automatic Weather Observing / Reporting Sys","CT","E","y",41.41,-73.1,728.346,NA
+"447","KSNC","Chester","CT","E","y",41.3839,-72.5058,NA,NA
+"448","KDOV","Dover Air Force Base","DE","E","y",39.14,-75.47,22.966,NA
+"449","KGED","Georgetown, Sussex County Airport","DE","E","y",38.7,-75.36,52.493,NA
+"450","KILG","Wilmington, New Castle County Airport","DE","E","y",39.68,-75.6,74.147,NA
+"451","TDCF","Canefield Airport","DM","A","n",15.533,-61.4,16.404,NA
+"452","NFFN","Nandi","FJ","R","n",-17.75,177.45,59.055,NA
+"453","NFNA","Nausori","FJ","R","n",-18.05,178.567,22.966,NA
+"454","K0J4","Florala Municipal Airport","FL","E","y",31.033,-86.317,1030.18,NA
+"455","K40J","Perry-Foley Airport","FL","E","y",30.07,-83.57,42.651,NA
+"456","K42J","Keystone Airpark","FL","E","y",29.8448,-82.0475,196,NA
+"457","KAAF","Apalachicola","FL","E","y",29.728,-85.027,20.013,NA
+"458","KAMX","Miami Nexrad","FL","E","y",25.617,-80.417,111.549,NA
+"459","KAPF","Naples Municipal","FL","E","y",26.15,-81.77,9.843,NA
+"460","KBCT","Boca Raton Airport","FL","E","y",26.38,-80.1,13.123,NA
+"461","KBKV","Brooksville, Hernando County Airport","FL","E","y",28.47,-82.45,75.459,NA
+"462","KBOW","Bartow Municipal","FL","E","y",27.95,-81.78,127.953,NA
+"463","KCEW","Crestview, Sikes Airport","FL","C","y",30.79,-86.52,189.961,NA
+"464","KCOF","Cocoa Beach / Patrick Air Force Base","FL","E","y",28.23,-80.6,9.843,NA
+"465","KCRG","Jacksonville, Craig Municipal Airport","FL","E","y",30.33,-81.52,39.37,NA
+"466","KCTY","Cross City Airport","FL","E","y",29.64,-83.1,38.058,NA
+"467","KDAB","Daytona Beach International Airport","FL","E","y",29.18,-81.05,28.871,"Daytona Beach"
+"468","KDED","Deland Municipal Airport","FL","E","y",29.07,-81.28,80,NA
+"469","KDTS","Destin, Ft. Walton Beach Airport","FL","C","y",30.4,-86.47,22.966,NA
+"470","KECP","Northwest Florida - Panama City International Airp","FL","C","y",30.3582,-85.7956,69,"Panama City"
+"471","KEVB","New Smyrna Beach Municipal Airport","FL","E","y",29.05,-80.95,9.843,NA
+"472","KEYW","Key West Airport","FL","E","y",24.55,-81.75,3.937,"Key West"
+"473","KFHB","Fernandina Beach Municipal Airport","FL","E","y",30.6118,-81.4612,16,NA
+"474","KFLL","Fort Lauderdale / Hollywood Intl Airport","FL","E","y",26.07,-80.15,7.874,"Fort Lauderdale"
+"475","KFMY","Fort Myers, Page Field","FL","E","y",26.58,-81.87,15.092,NA
+"476","KFPR","Fort Pierce, St. Lucie County Intl Airport","FL","E","y",27.5,-80.37,22.966,NA
+"477","KFXE","Fort Lauderdale Executive Airport","FL","E","y",26.2,-80.17,13.123,NA
+"478","KGIF","Gilbert Field","FL","E","y",28.05,-81.75,144.357,NA
+"479","KGNV","Gainesville Regional Airport","FL","E","y",29.68,-82.27,133.858,"Gainesville"
+"480","KHRT","Hurlburt Field","FL","E","y",30.43,-86.68,39.042,NA
+"481","KHST","Homestead Air Force Base","FL","E","y",25.48,-80.38,9.843,NA
+"482","KHWO","Hollywood, North Perry Airport","FL","E","y",26,-80.24,6.562,NA
+"483","KISM","Orlando, Kissimmee Municipal Airport","FL","E","y",28.29,-81.437,82.021,NA
+"484","KJAX","Jacksonville International Airport","FL","E","y",30.43,-81.7,39.042,"Jacksonville"
+"485","KLAL","Lakeland Regional","FL","E","y",28.04,-81.95,144.357,NA
+"486","KLEE","Leesburg International Airport","FL","E","y",28.82,-81.81,76,NA
+"487","KMAI","Marianna Municipal Airport","FL","C","y",30.8,-85.21,112.861,NA
+"488","KMCF","Macdill Air Force Base, Fl.","FL","E","y",27.86,-82.52,13.123,NA
+"489","KMCO","Orlando International Airport","FL","E","y",28.43,-81.32,98.097,"Orlando"
+"490","KMIA","Miami International Airport","FL","E","y",25.78,-80.32,35.105,"Miami"
+"491","KMLB","Melbourne International Airport","FL","E","y",28.11,-80.63,35.105,"Melbourne"
+"492","KMTH","Marathon Airport","FL","E","y",24.74,-81.05,6.562,NA
+"493","KNIP","Jacksonville, Naval Air Station","FL","E","y",30.23,-81.68,29.856,NA
+"494","KNPA","Pensacola, Naval Air Station","FL","C","y",30.36,-87.32,33.136,NA
+"495","KNQX","Boca Chica Naval Air Station","FL","E","y",24.57,-81.68,22.966,NA
+"496","KNRB","Mayport Naval Station","FL","E","y",30.4,-81.42,16.076,NA
+"497","KNSE","Milton, Whiting Field North","FL","C","y",30.72,-87.02,176.837,NA
+"498","KOBE","Okeechobee County Airport","FL","E","y",27.26,-80.85,34,NA
+"499","KOCF","Ocala Municipal Automatic Weather Observing","FL","E","y",29.18,-82.22,88.583,NA
+"500","KOMN","Ormond Beach Municipal Airport","FL","E","y",29.3,-81.1,29.528,NA
+"501","KOPF","Miami, Opa Locka Airport","FL","E","y",25.91,-80.28,9.843,NA
+"502","KORL","Orlando Executive Airport","FL","E","y",28.55,-81.33,104.987,NA
+"503","KPAM","Tyndall Air Force Base","FL","C","y",30.07,-85.59,22.966,NA
+"504","KPBI","West Palm Beach, Palm Beach International Airport","FL","E","y",26.68,-80.12,20.013,"West Palm Beach"
+"505","KPCM","Plant City Airport","FL","E","y",28.0002,-82.1642,154,NA
+"506","KPFN","Panama City-Bay County Intl Airport","FL","C","y",30.2,-85.68,19.685,NA
+"507","KPGD","Punta Gorda, Charlotte County Airport","FL","E","y",26.92,-81.99,22.966,"Punta Gorda"
+"508","KPIE","St. Petersburg / Clea","FL","E","y",27.91,-82.69,9.843,"St. Petersburg"
+"509","KPMP","Pompano Beach Airpark","FL","E","y",26.25,-80.11,19.685,NA
+"510","KPNS","Pensacola International Airport","FL","C","y",30.47,-87.2,111.877,"Pensacola"
+"511","KRSW","Fort Myers, SW Florida Intl Airport","FL","E","y",26.54,-81.76,29.528,"Fort Myers"
+"512","KSFB","Orlando / Sanford Airport","FL","E","y",28.78,-81.24,55.118,"Sanford"
+"513","KSGJ","St. Augustine Airport","FL","E","y",29.97,-81.33,9.843,NA
+"514","KSPG","St. Petersburg, Whitted Airport","FL","E","y",27.77,-82.63,7.874,NA
+"515","KSRQ","Sarasota-Bradenton Intl Airport","FL","E","y",27.4,-82.55,32.808,"Sarasota"
+"516","KSUA","Stuart, Witham Field Airport","FL","E","y",27.182,-80.221,19.685,NA
+"517","KTIX","Titusville","FL","E","y",28.52,-80.8,36.089,NA
+"518","KTLH","Tallahassee Regional Airport","FL","E","y",30.4,-84.35,68.898,"Tallahassee"
+"519","KTMB","Miami, Kendall-Tamiami Executive Airport","FL","E","y",25.65,-80.43,9.843,NA
+"520","KTPA","Tampa International Airport","FL","E","y",27.97,-82.53,9.843,"Tampa"
+"521","KTPF","Peter O Knight Airport","FL","E","y",27.9156,-82.4493,8,NA
+"522","KTTS","NASA Shuttle Landing Facility","FL","E","y",28.62,-80.72,9.843,NA
+"523","KVDF","Vandenberg Airport","FL","E","y",28.01,-82.35,22.966,NA
+"524","KVPS","Valparaiso / Eglin Air Force Base","FL","C","y",30.48,-86.53,65.945,"Fort Walton Beach"
+"525","KVQQ","Jacksonville, Cecil Field Airport","FL","E","y",30.217,-81.876,88.911,NA
+"526","KVRB","Vero Beach Municipal Airport","FL","E","y",27.65,-80.42,23.95,"Vero Beach"
+"527","KVVG","The Villages","FL","E","y",28.962,-81.97,88.583,NA
+"528","KXFL","Flagler County Airport","FL","E","y",29.4674,-81.2063,33,NA
+"529","KXMR","Cape Canaveral Air Force Station Skid Strip","FL","E","y",28.4677,-80.5668,10,NA
+"530","PTKK","Chuuk Intl Weno Is","FM","G","n",7.47,151.85,4.921,NA
+"531","PTPN","Pohnpei Intl Airport","FM","F","n",6.97,158.22,120.079,NA
+"532","PTSA","Kosrae Island Airport","FM","F","n",5.333,163.033,13.123,NA
+"533","PTTP","Pohnpei","FM","F","n",6.95,158.25,127.953,NA
+"534","PTYA","Yap Intl Airport","FM","G","n",9.483,138.083,43.963,NA
+"535","K11J","Early County Airport","GA","E","y",31.397,-84.895,213.255,NA
+"536","K27A","Elbert Co. Airport-Patz Field","GA","E","y",34.095,-82.816,603.675,NA
+"537","K3J7","Greene County Regional Airport","GA","E","y",33.6,-83.133,675.853,NA
+"538","KABY","Albany, Southwest Georgia Regional Airport","GA","E","y",31.54,-84.18,189.961,"Albany"
+"539","KAGS","Augusta, Bush Field","GA","E","y",33.38,-81.97,131.89,"Augusta"
+"540","KAHN","Athens Airport","GA","E","y",33.96,-83.32,799.869,NA
+"541","KAMG","Alma, Bacon County Airport","GA","E","y",31.54,-82.5,206.037,NA
+"542","KATL","Hartsfield-Jackson/Atlanta International Airport","GA","E","y",33.66,-84.42,1009.84,"Atlanta"
+"543","KAYS","Waycross / Ware County","GA","E","y",31.25,-82.4,140.092,NA
+"544","KBGE","Bainbridge","GA","E","y",30.97,-84.63,141.076,NA
+"545","KBIJ","Early County Airport","GA","E","y",31.3969,-84.895,NA,NA
+"546","KBQK","Brunswick / Glynco","GA","E","y",31.15,-81.38,26.247,"Brunswick"
+"547","KCCO","Newnan Coweta County Airport","GA","E","y",33.31,-84.77,971.129,NA
+"548","KCNI","Cherokee County Airport","GA","E","y",34.3106,-84.4239,1219,NA
+"549","KCSG","Columbus Metropolitan Airport","GA","E","y",32.53,-84.93,387.139,"Columbus"
+"550","KDBN","W H `Bud` Barron Airport","GA","E","y",32.567,-82.983,308.399,NA
+"551","KDNL","Augusta, Daniel Field","GA","E","y",33.47,-82.03,419.948,NA
+"552","KDNN","Dalton Municipal Airport","GA","E","y",34.72,-84.87,708.661,NA
+"553","KDQH","Douglas Municipal Airport","GA","E","y",31.477,-82.861,255.906,NA
+"554","KDZJ","Blairsville Airport","GA","E","y",34.8544,-83.9973,1911,NA
+"555","KFFC","Atlanta, Peachtree City-Falcon Field","GA","E","y",33.35,-84.56,808,NA
+"556","KFTY","Atlanta, Fulton County Airport-Brown Field","GA","E","y",33.78,-84.52,862.861,NA
+"557","KGVL","Gainesville, Gilmer Memorial Airport","GA","E","y",34.26,-83.83,1276.25,NA
+"558","KHOE","Homerville Airport","GA","E","y",31.0559,-82.7741,186,NA
+"559","KHQU","Thomson-McDuffie County Airport","GA","E","y",33.53,-82.516,498.688,NA
+"560","KIIY","Washington-Wilkes County Airport","GA","E","y",33.78,-82.82,646.325,NA
+"561","KJES","Jesup-Wayne County Airport","GA","E","y",31.554,-81.8825,107,NA
+"562","KJYL","Plantation Airpark","GA","E","y",32.645,-81.596,187.008,NA
+"563","KLGC","La Grange-Callawy Airport","GA","E","y",33.009,-85.073,692.257,NA
+"564","KLHW","Ft. Stewart","GA","E","y",31.88,-81.57,45.932,NA
+"565","KLSF","Fort Benning","GA","E","y",32.34,-85,226.05,NA
+"566","KLZU","Lawrenceville, Gwinnett Co-Briscoe Field Airport","GA","E","y",33.978,-83.962,1059.71,NA
+"567","KMCN","Macon, Middle Georgia Regional Airport","GA","E","y",32.71,-83.65,354.003,"Macon"
+"568","KMGE","Marietta / Dobbins Air Force Base","GA","E","y",33.93,-84.52,1009.84,NA
+"569","KMGR","Moultrie Municipal Airport","GA","E","y",31.085,-83.803,295.276,NA
+"570","KMLJ","Baldwin County Airport","GA","E","y",33.15,-83.233,383.858,NA
+"571","KOPN","Thomaston-Upson County Airport","GA","E","y",32.955,-84.263,797.244,NA
+"572","KPDK","Atlanta, DeKalb-Peachtree Airport","GA","E","y",33.88,-84.3,1026.9,NA
+"573","KRMG","Rome, R. B. Russell Airport","GA","E","y",34.36,-85.17,639.108,NA
+"574","KRYY","Marietta, Cobb County-McCollum Field Airport","GA","E","y",34.013,-84.599,1040.03,NA
+"575","KSAV","Savannah International Airport","GA","E","y",32.14,-81.2,45.932,"Savannah"
+"576","KSSI","Brunswick/Malcom-McKinnon","GA","E","y",31.15,-81.38,14.108,NA
+"577","KSVN","Hunter U. S. Army Airfield","GA","E","y",32.03,-81.15,42.651,NA
+"578","KTBR","Statesboro-Bulloch County Airport","GA","E","y",32.482,-81.737,187.008,NA
+"579","KVAD","Moody Air Force Base","GA","E","y",30.97,-83.2,232.94,NA
+"580","KVDI","Vidalia Municipal Airport","GA","E","y",32.193,-82.372,275.591,NA
+"581","KVLD","Valdosta Regional Airport","GA","E","y",30.79,-83.28,200.131,"Valdosta"
+"582","KVPC","Cartersville Airport","GA","E","y",34.13,-84.85,751.312,NA
+"583","KWDR","Winder-Barrow Airport","GA","E","y",33.982,-83.668,941.601,NA
+"584","KWRB","Robins Air Force Base","GA","E","y",32.64,-83.6,301.837,NA
+"585","TGPY","Point Salines Airport","GD","A","n",12,-61.783,22.966,NA
+"586","PGRO","Rota/Intl","GU","G","n",14.18,145.25,587.27,"Rota Island"
+"587","PGSN","Saipan Intl Airport","GU","G","n",15.12,145.73,104.987,"Obyan, Saipan Island"
+"588","PGUA","Andersen AFB","GU","G","n",13.58,144.93,531.496,NA
+"589","PGUM","Guam International","GU","G","n",13.48,144.8,253.937,"Agana / Tamuning"
+"590","PGWT","West Tinian Tinian Is","GU","G","n",14.97,145.6,278.871,"Tinian Island"
+"591","PHBK","Kekaha / Barking Sand","HI","H","n",22.07,-159.78,13.123,NA
+"592","PHHI","Wheeler Army Airfield","HI","H","n",21.48,-158.03,827.1,NA
+"593","PHHN","Hana","HI","H","n",20.784,-156.014,78.74,NA
+"594","PHJH","Lahaina / West Maui","HI","H","n",21.02,-156.63,262.467,NA
+"595","PHJR","Kalaeloa Airport","HI","H","n",21.32,-158.07,48.885,NA
+"596","PHKO","Kailua / Kona, Keahole Airport","HI","H","n",19.65,-156,49.213,"Kailua-Kona, Hawaii"
+"597","PHLI","Lihue Airport","HI","H","n",21.98,-159.35,103.018,"Lihue, Kauai"
+"598","PHMK","Molokai Airport","HI","H","n",21.15,-157.1,449.475,"Kaunakakai, Molokai"
+"599","PHNG","Kaneohe Bay MCAF","HI","H","n",21.45,-157.783,9.843,NA
+"600","PHNL","Honolulu International Airport","HI","H","n",21.35,-157.93,6.89,"Honolulu, Oahu"
+"601","PHNY","Lanai City Airport","HI","H","n",20.78,-156.95,1341.86,"Lanai City, Lanai"
+"602","PHOG","Kahului Airport","HI","H","n",20.9,-156.43,47.9,"Kahului, Maui"
+"603","PHSF","Bradshaw Army Air Field","HI","H","n",19.78,-155.55,6345.14,NA
+"604","PHTO","Hilo International Airport","HI","H","n",19.72,-155.07,29.856,"Hilo, Hawaii"
+"605","PMDY","Midway NAF","HI","S","n",28.22,-177.37,22.966,NA
+"606","PWAK","Wake Island Airfield","HI","R","n",19.283,166.5,13.123,NA
+"607","KADU","Audubon County Airport","IA","C","y",41.7,-94.92,1286.09,NA
+"608","KAIO","Atlantic","IA","C","y",41.4,-95.05,1181.1,NA
+"609","KALO","Waterloo Municipal Airport","IA","C","y",42.55,-92.4,865.157,"Waterloo"
+"610","KAMW","Ames Municipal Airport","IA","C","y",41.99,-93.62,954.724,NA
+"611","KAWG","Washington","IA","C","y",41.28,-91.67,754.593,NA
+"612","KAXA","Algona","IA","C","y",43.08,-94.27,1220.47,NA
+"613","KBNW","Boone Municipal","IA","C","y",42.05,-93.85,1161.42,NA
+"614","KBRL","Burlington Regional Airport","IA","C","y",40.79,-91.12,691.929,NA
+"615","KCAV","Clarion","IA","C","y",42.75,-93.77,1161.42,NA
+"616","KCBF","Council Bluffs","IA","C","y",41.27,-95.77,1253.28,NA
+"617","KCCY","Charles City","IA","C","y",43.07,-92.62,1125.33,NA
+"618","KCID","Cedar Rapids, The Eastern Iowa Airport","IA","C","y",41.89,-91.7,839.895,"Cedar Rapids"
+"619","KCIN","Carroll","IA","C","y",42.05,-94.78,1230.31,NA
+"620","KCKP","Cherokee Municipal Airport","IA","C","y",42.732,-95.556,1227.03,NA
+"621","KCNC","Chariton","IA","C","y",41.03,-93.37,1049.87,NA
+"622","KCSQ","Creston","IA","C","y",41.02,-94.37,1292.65,NA
+"623","KCWI","Clinton Municipal Automatic Weather Observing","IA","C","y",41.84,-90.34,708.661,NA
+"624","KDBQ","Dubuque Regional Airport","IA","C","y",42.41,-90.7,1056.1,"Dubuque"
+"625","KDEH","Decorah","IA","C","y",43.28,-91.73,1158.14,NA
+"626","KDNS","Denison","IA","C","y",41.98,-95.38,1272.97,NA
+"627","KDSM","Des Moines International Airport","IA","C","y",41.54,-93.65,957.021,"Des Moines"
+"628","KDVN","Davenport Municipal Airport","IA","C","y",41.62,-90.58,753,NA
+"629","KEBS","Webster City","IA","C","y",42.43,-93.87,1122.05,NA
+"630","KEOK","Keokuk Municipal","IA","C","y",40.47,-91.43,672.572,NA
+"631","KEST","Estherville Municipal Airport","IA","C","y",43.4,-94.75,1315.62,NA
+"632","KFFL","Fairfield","IA","C","y",41.05,-91.98,800.525,NA
+"633","KFOD","Fort Dodge","IA","C","y",42.55,-94.18,1164.7,NA
+"634","KFSW","Fort Madison","IA","C","y",40.67,-91.33,725.066,NA
+"635","KFXY","Forest City Municipal Airport","IA","C","y",43.235,-93.624,1230,NA
+"636","KGGI","Grinnell Regional Airport","IA","C","y",41.7092,-92.7349,1008,NA
+"637","KHNR","Harlan Municipal Airport","IA","C","y",41.584,-95.34,1230.31,NA
+"638","KI75","Osceola Municipal Airport","IA","C","y",41.0522,-93.6597,1109,NA
+"639","KICL","Clarinda","IA","C","y",40.72,-95.03,994.094,NA
+"640","KIFA","Iowa Falls Municipal Airport","IA","C","y",42.4708,-93.27,1137,NA
+"641","KIIB","Independence Muni Airport","IA","C","y",42.454,-91.948,977.69,NA
+"642","KIKV","Ankeny Regional Airport","IA","C","y",41.69,-93.57,902.231,NA
+"643","KIOW","Iowa City Municipal Airport","IA","C","y",41.633,-91.543,649.934,NA
+"644","KLRJ","Le Mars Municipal Airport","IA","C","y",42.78,-96.2,1197.51,NA
+"645","KLWD","Lamoni Municipal Airport","IA","C","y",40.631,-93.901,1122.05,NA
+"646","KMCW","Mason City Municipal Airport","IA","C","y",43.16,-93.33,1193.9,NA
+"647","KMIW","Marshalltown Municipal Airport","IA","C","y",42.11,-92.91,971.129,NA
+"648","KMPZ","Mount Pleasant Muni Airport","IA","C","y",40.95,-91.51,734.908,NA
+"649","KMUT","Muscatine","IA","C","y",41.37,-91.15,547.9,NA
+"650","KMXO","Monticello Municipal","IA","C","y",42.23,-91.17,849.738,NA
+"651","KOLZ","Oelwein Municipal Airport","IA","C","y",42.68,-91.96,1076.11,NA
+"652","KOOA","Oskaloosa Municipal Airport","IA","C","y",41.233,-92.483,839.895,NA
+"653","KORC","Orange City","IA","C","y",42.98,-96.07,1414.04,NA
+"654","KOTM","Ottumwa Industrial Airport","IA","C","y",41.11,-92.45,841.864,NA
+"655","KOXV","Knoxville","IA","C","y",41.3,-93.12,928.478,NA
+"656","KPEA","Pella Muni Airport","IA","C","y",41.4,-92.95,885.827,NA
+"657","KPRO","Perry Municipal Airport","IA","C","y",41.828,-94.1598,1013,NA
+"658","KRDK","Red Oak","IA","C","y",41.02,-95.27,1043.31,NA
+"659","KSDA","Shenandoah Municipal","IA","C","y",40.75,-95.42,971.129,NA
+"660","KSHL","Sheldon","IA","C","y",43.22,-95.83,1417.32,NA
+"661","KSLB","Storm Lake","IA","C","y",42.6,-95.23,1489.5,NA
+"662","KSPW","Spencer Municipal Airport","IA","C","y",43.17,-95.21,1338.58,NA
+"663","KSUX","Sioux Gateway Airport","IA","C","y",42.41,-96.38,1102.03,"Sioux City"
+"664","KTNU","Newton Municipal","IA","C","y",41.68,-93.02,951.444,NA
+"665","KTVK","Centerville Municipal Airport","IA","C","y",40.6839,-92.901,1028,NA
+"666","KVTI","Vinton Veterans Mem Airpark Airport","IA","C","y",42.219,-92.026,846.457,NA
+"667","K77M","Malta","ID","M","y",42.3,-113.37,4540.03,NA
+"668","KBOI","Boise Municipal","ID","M","y",43.58,-116.22,2707.02,"Boise"
+"669","KBYI","Burley Municipal","ID","M","y",42.54,-113.77,4157.15,NA
+"670","KCOE","COEUR D'ALENE(AWOS)","ID","P","y",47.78,-116.82,2319.55,NA
+"671","KDIJ","Driggs-Reed Memorial Airport","ID","M","y",43.7417,-111.098,NA,NA
+"672","KEUL","Caldwell","ID","M","y",43.64,-116.64,2427.82,NA
+"673","KGIC","Grangeville, Idaho County Airport, ID","ID","P","y",45.9426,-116.123,3314,NA
+"674","KIDA","Idaho Falls/Fanning","ID","M","y",43.53,-112.07,4729,"Idaho Falls"
+"675","KJER","Jerome County Airport","ID","M","y",42.728,-114.453,4045.28,NA
+"676","KLLJ","Challis (amos)","ID","M","y",44.523,-114.215,5072.18,NA
+"677","KLWS","Lewiston (amos)","ID","P","y",46.39,-117.02,1420.93,"Lewiston"
+"678","KMLD","Malad City","ID","M","y",42.18,-112.32,4481.96,NA
+"679","KMLP","Mullan Pass Vor","ID","M","y",47.45,-115.67,6027.89,NA
+"680","KMUO","Mountain Home AFB","ID","M","y",43.05,-115.87,2992.13,NA
+"681","KMYL","Mc Call","ID","M","y",44.89,-116.1,5019.69,NA
+"682","KP69","Lowell","ID","P","y",46.15,-115.6,4097.77,NA
+"683","KPIH","Pocatello Municipal","ID","M","y",42.93,-112.6,4469.16,"Pocatello"
+"684","KRXE","Rexburg-Madison County Airport","ID","M","y",43.83,-111.81,4858.92,NA
+"685","KS14","Spencer","ID","P","y",44.3,-112.1,5882.55,NA
+"686","KSMN","Salmon/Lemhi (awos)","ID","M","y",45.12,-113.88,4045.28,NA
+"687","KSNT","Stanley Ranger Station","ID","M","y",44.17,-114.93,6496.06,NA
+"688","KSUN","Hailey/Friedman Mem","ID","M","y",43.51,-114.3,5314.96,"Hailey / Sun Valley"
+"689","KSZT","Sandpoint Airport","ID","M","y",48.3,-116.55,2125.98,NA
+"690","KTWF","Twin Falls/Joslin","ID","M","y",42.48,-114.48,4255.25,"Twin Falls"
+"691","KU78","Soda Springs/Tigert","ID","M","y",42.66,-111.58,5839.9,NA
+"692","K1H2","Effingham","IL","C","y",39.07,-88.53,587.27,NA
+"693","K3LF","Litchfield Municipal Airport","IL","C","Y",39.163,-89.675,688.976,NA
+"694","KAAA","Logan County Airport","IL","C","y",40.16,-89.33,583.99,NA
+"695","KAJG","Mount Carmel Municipal Airport","IL","C","Y",38.607,-87.727,429.79,NA
+"696","KALN","Alton / St. Louis Regional","IL","C","y",38.91,-90.05,557.743,NA
+"697","KARR","Aurora Municipal Airport","IL","C","y",41.77,-88.47,705.381,NA
+"698","KBLV","Scott Air Force Base / Belleville","IL","C","y",38.55,-89.85,442.913,"Belleville"
+"699","KBMI","Bloomington / Normal","IL","C","y",40.48,-88.93,892.388,"Bloomington / Normal"
+"700","KC09","Morris Muni-James R Washburn Field Airport","IL","C","y",41.43,-88.42,583.99,NA
+"701","KC75","Lacon","IL","C","y",41.02,-89.39,567.585,NA
+"702","KCIR","Cairo Regional Airport","IL","C","y",37.067,-89.217,351.05,NA
+"703","KCMI","Champaign / Urbana, University of Illinois-Willard","IL","C","y",40.04,-88.28,774.278,"Champaign / Urbana / Savoy"
+"704","KCPS","Cahokia / St. Louis, St. Louis Downtown Airport","IL","C","y",38.58,-90.15,413.386,NA
+"705","KCUL","Carmi Municipal Airport","IL","C","y",38.09,-88.123,387.139,NA
+"706","KDEC","Decatur Airport","IL","C","y",39.84,-88.87,698.819,NA
+"707","KDKB","DeKalb Taylor Municipal Airport","IL","C","y",41.93,-88.72,915.354,NA
+"708","KDNV","Danville, Vermilion County Airport","IL","C","y",40.2,-87.6,695.538,NA
+"709","KDPA","Chicago / West Chicago, Dupage Airport","IL","C","y",41.93,-88.25,757.874,NA
+"710","KENL","Centralia Municipal Airport","IL","C","y",38.52,-89.08,534.777,NA
+"711","KFEP","Albertus Airport","IL","C","y",42.25,-89.58,859.58,NA
+"712","KFOA","Flora Municipal Airport","IL","C","y",38.67,-88.45,472.441,NA
+"713","KFWC","Fairfield Municipal Airport","IL","C","y",38.38,-88.42,436.352,NA
+"714","KGBG","Galesburg Municipal Airport","IL","C","y",40.94,-90.43,764.436,NA
+"715","KHSB","Harrisburg-Raleigh Airport","IL","C","y",37.82,-88.55,396.982,NA
+"716","KIGQ","Lansing Municipal Airport","IL","C","y",41.53,-87.53,616.798,NA
+"717","KIJX","Jacksonville Municipal Airport","IL","C","y",39.78,-90.23,623.36,NA
+"718","KIKK","Greater Kankakee Airport","IL","C","y",41.07,-87.85,646.325,NA
+"719","KJOT","Joliet Park district","IL","C","y",41.52,-88.18,594.16,NA
+"720","KLOT","Chicago/Romeoville, Lewis University Airport","IL","C","y",41.61,-88.1,757.874,NA
+"721","KLWV","Lawrenceville-Vincennes Intl Airport","IL","C","y",38.76,-87.6,429.79,NA
+"722","KM30","Metropolis Municipal Airport","IL","C","y",37.183,-88.75,383.858,NA
+"723","KMDH","Carbondale/Murphysboro, Southern Illinois Airport","IL","C","y",37.79,-89.25,419.948,NA
+"724","KMDW","Chicago Midway Airport","IL","C","y",41.79,-87.75,611.877,"Chicago"
+"725","KMLI","Moline, Quad-City Airport","IL","C","y",41.46,-90.52,591.864,"Moline"
+"726","KMQB","Macomb Muni Airport","IL","C","y",40.52,-90.65,708.661,NA
+"727","KMTO","Mattoon/Charleston, Coles County Memorial Airport","IL","C","y",39.48,-88.28,721.785,NA
+"728","KMVN","Mount Vernon Automatic Weather Observing/Reporting","IL","C","y",38.33,-88.87,479.003,NA
+"729","KMWA","Marion Regional","IL","C","y",37.76,-89,472.441,"Marion"
+"730","KOLY","Olney-Noble Airport","IL","C","y",38.73,-88.18,482.283,NA
+"731","KORD","Chicago/O'Hare","IL","C","y",41.98,-87.9,658.136,"Chicago"
+"732","KPIA","General Downing - Peoria International Airport","IL","C","y",40.66,-89.68,682.087,"Peoria"
+"733","KPNT","Pontiac Municipal Airport","IL","C","y",40.92,-88.63,659.449,NA
+"734","KPPQ","Pittsfield Penstone Municipal Airport","IL","C","y",39.63,-90.78,708.661,NA
+"735","KPRG","Edgar County Airport","IL","C","y",39.7,-87.67,652.887,NA
+"736","KPWK","Chicago Executive Airport","IL","C","y",42.11,-87.9,646.325,NA
+"737","KRFD","Chicago Rockford International Airport","IL","C","y",42.21,-89.1,732.94,"Rockford"
+"738","KRPJ","Rochelle Muni-Koritz Field Airport","IL","C","y",41.89,-89.08,780.84,NA
+"739","KRSV","Robinson Municipal Airport","IL","C","y",39.016,-87.65,462.598,NA
+"740","KSAR","Sparta Community-Hunter Field Airport","IL","C","y",38.15,-89.7,538.058,NA
+"741","KSFY","Tri-Township Airport","IL","C","y",42.05,-90.1,616.798,NA
+"742","KSLO","Salem-Leckrone","IL","C","y",38.65,-88.97,570.866,NA
+"743","KSPI","Springfield, Capital Airport","IL","C","y",39.86,-89.67,585.958,"Springfield"
+"744","KSQI","Sterling Rock Falls","IL","C","y",41.75,-89.67,646.325,NA
+"745","KTAZ","Taylorville Municipal Airport","IL","C","y",39.53,-89.33,623.36,NA
+"746","KTIP","Rantoul Natl Avn Cntr-Frank Elliot Field Airport","IL","C","y",40.29,-88.14,738.189,NA
+"747","KUGN","Chicago / Waukegan, Waukegan Regional Airport","IL","C","y",42.42,-87.87,728.346,NA
+"748","KUIN","Quincy Regional-Baldwin Field Airport","IL","C","y",39.94,-91.2,763.123,"Quincy"
+"749","KVYS","Illinois Valley Rgnl-Walter A Duncan Field Airport","IL","C","y",41.35,-89.15,652.887,NA
+"750","KAID","Anderson Municipal","IN","E","y",40.12,-85.62,918.635,NA
+"751","KASW","Warsaw Municipal Airport","IN","E","y",41.275,-85.84,849.738,NA
+"752","KBAK","Columbus / Bakalar","IN","E","y",39.26,-85.88,655.84,NA
+"753","KBMG","Bloomington, Monroe County Airport","IN","E","y",39.14,-86.62,866.142,NA
+"754","KEKM","Elkhart Municipal","IN","E","y",41.73,-86,797.244,NA
+"755","KEVV","Evansville Regional Airport","IN","C","y",38.05,-87.53,380.906,"Evansville"
+"756","KEYE","Indianapolis, Eagle Creek Airpark","IN","E","y",39.825,-86.296,820.21,NA
+"757","KFWA","Fort Wayne International Airport","IN","E","y",41.01,-85.2,816.929,"Fort Wayne"
+"758","KGEZ","Shelbyville Municipal Airport","IN","E","y",39.596,-85.8,803.806,NA
+"759","KGGP","Logansport/Cass County Airport","IN","E","y",40.7113,-86.3727,738,NA
+"760","KGSH","Goshen Municipal Airport","IN","E","y",41.53,-85.79,827.1,NA
+"761","KGUS","Grissom Air Force Base / Peru","IN","E","y",40.65,-86.15,830.052,NA
+"762","KGWB","DeKalb County Airport","IN","E","Y",41.4,-84.99,817,NA
+"763","KGYY","Gary Chicago International","IN","C","y",41.62,-87.42,606.955,NA
+"764","KHNB","Huntingburg","IN","C","y",38.26,-86.95,528.215,NA
+"765","KHUF","Terre Haute International Airport","IN","E","y",39.46,-87.3,575.131,NA
+"766","KIND","Indianapolis International Airport","IN","E","y",39.73,-86.27,810.039,"Indianapolis"
+"767","KLAF","Lafayette, Purdue University Airport","IN","E","y",40.43,-86.93,623.031,NA
+"768","KMGC","Michigan City Municipal Airport-Phillips Field","IN","C","y",41.7033,-86.8212,655,NA
+"769","KMIE","Muncie, Delaware County-Johnson Field","IN","E","y",40.242,-85.396,961.286,NA
+"770","KMZZ","Marion Municipal Airport","IN","E","y",40.4899,-85.6798,859,NA
+"771","KOKK","Kokomo Muni Airport","IN","E","y",40.53,-86.06,830.052,NA
+"772","KOXI","Starke County Airport","IN","E","y",41.33,-86.664,685,NA
+"773","KPPO","La Porte Municipal Airport","IN","C","y",41.5725,-86.7345,812,NA
+"774","KRCR","Fulton County Airport","IN","E","y",41.0655,-86.1817,790,NA
+"775","KSBN","South Bend Regional Airport","IN","E","y",41.71,-86.32,772.966,"South Bend"
+"776","KTYQ","Indianapolis Executive Airport","IN","E","y",40.0306,-86.2514,922,NA
+"777","KVPZ","Valparaiso, Porter County Municipal Airport","IN","C","y",41.45,-87.01,790.682,NA
+"778","NGTA","Tarawa","KB","G","n",1.35,172.917,13.123,NA
+"779","KAAO","Wichita Colonel James Jabara Airport","KS","C","y",37.75,-97.22,1420.6,NA
+"780","KCFV","Coffeyville Municipal Airport","KS","C","y",37.08,-95.57,754.593,NA
+"781","KCNK","Concordia, Blosser Municipal Airport","KS","C","y",39.55,-97.65,1469.16,NA
+"782","KCNU","Chanute Martin Johnson Airport","KS","C","y",37.68,-95.48,979.003,NA
+"783","KDDC","Dodge City Regional Airport","KS","C","y",37.78,-99.97,2594.16,NA
+"784","KEHA","Elkhart Automatic Weather Observing / Reporting","KS","C","y",37.01,-101.88,3605.64,NA
+"785","KEMP","Emporia","KS","C","y",38.34,-96.2,1208.99,NA
+"786","KEWK","Newton Automatic Weather Observing / Reporting Sys","KS","C","y",38.05,-97.29,1532.15,NA
+"787","KFOE","Topeka, Forbes Field","KS","C","y",38.96,-95.67,1063.98,NA
+"788","KFRI","Fort Riley","KS","C","y",39.05,-96.767,1062.99,NA
+"789","KGBD","Great Bend Automatic Weather Observing / Reporting","KS","C","y",38.34,-98.86,1886.48,NA
+"790","KGCK","Garden City Regional Airport","KS","C","y",37.94,-100.72,2881.89,"Garden City"
+"791","KGLD","Goodland, Renner Field","KS","M","y",39.38,-101.7,3645.01,NA
+"792","KHLC","Hill City Municipal Airport","KS","C","y",39.39,-99.83,2187.99,NA
+"793","KHUT","Hutchinson Municipal Airport","KS","C","y",38.08,-97.87,1521.98,NA
+"794","KHYS","Hays Municipal Automatic Weather Observing/Report","KS","C","y",38.86,-99.27,1998.03,"Hays"
+"795","KIAB","McConnell Air Force Base","KS","C","y",37.617,-97.267,1388.12,NA
+"796","KICT","Wichita Mid-Continent Airport","KS","C","y",37.66,-97.43,1319.88,"Wichita"
+"797","KIXD","Olathe, New Century Aircenter","KS","C","y",38.83,-94.89,1086.94,NA
+"798","KLBL","Liberal Municipal Automatic Weather Observing","KS","C","y",37.05,-100.97,2956.04,NA
+"799","KLWC","Lawrence Municipal Airport","KS","C","y",39.02,-95.22,833.333,NA
+"800","KMHK","Manhattan Regional Airport","KS","C","y",39.16,-96.67,1082.68,"Manhattan"
+"801","KOJC","Olathe, Johnson County Executive Airport","KS","C","y",38.85,-94.74,1095.8,NA
+"802","KP28","Medicine Lodge","KS","C","y",37.3,-98.58,1535.1,NA
+"803","KPPF","Parsons, Tri-City Airport","KS","C","y",37.3,-95.5,898.95,NA
+"804","KPTT","Pratt Industrial Airport","KS","C","y",37.702,-98.747,1952.1,NA
+"805","KRSL","Russell Municipal Airport","KS","C","y",38.87,-98.81,1863.84,NA
+"806","KSLN","Salina Municipal Airport","KS","C","y",38.8,-97.65,1271,"Salina"
+"807","KTOP","Topeka, Philip Billard Municipal Airport","KS","C","y",39.08,-95.62,883.858,NA
+"808","KUKL","Coffey County Airport","KS","C","Y",38.3,-95.717,1174.54,NA
+"809","KWLD","Winfield / Arkansas City, Strother Field","KS","C","y",37.16,-97.03,1158.14,NA
+"810","NCRG","Rarotonga","KU","G","n",-21.2,-159.817,22.966,NA
+"811","NIUE","Alofi/Niue","KU","G","n",-19.067,-169.917,72.178,NA
+"812","K1A6","Middlesboro-Bell County Airport","KY","E","y",36.611,-83.737,1154.86,NA
+"813","KBWG","Bowling Green-Warren County Regional Airport","KY","C","y",36.96,-86.42,527.887,NA
+"814","KCVG","Covington / Cincinnati / Northern Kentucky","KY","E","y",39.05,-84.67,886.155,"Cincinnati/Covington"
+"815","KDVK","Stuart Powell Field Airport","KY","E","Y",37.5779,-84.7697,1022,NA
+"816","KEHR","Henderson City","KY","C","y",37.82,-87.69,383.858,NA
+"817","KEKQ","Wayne County Airport","KY","E","y",36.855,-84.856,962.927,NA
+"818","KFFT","Frankfort, Capital City Airport","KY","E","y",38.18,-84.9,803.806,NA
+"819","KFTK","Fort Knox","KY","E","y",37.9,-85.967,784.121,NA
+"820","KGLW","Glasgow Municipal Airport","KY","C","y",36.963,-85.946,715.223,NA
+"821","KHOP","Fort Campbell U. S. Army Airfield","KY","C","y",36.669,-87.496,561.024,NA
+"822","KI16","Kee Field Airport","KY","E","y",37.6,-81.559,1784.78,NA
+"823","KI39","Madison Airport","KY","E","y",37.6308,-84.3323,1002,NA
+"824","KJKL","Julian Carroll Airport","KY","E","y",37.6,-83.32,1365.16,NA
+"825","KLEX","Lexington, Blue Grass Airport","KY","E","y",38.05,-84.6,980.971,"Lexington"
+"826","KLOU","Louisville, Bowman Field Airport","KY","E","y",38.23,-85.67,540.026,NA
+"827","KLOZ","London-Corbin Airport-Magee Field","KY","E","y",37.09,-84.04,1206.04,NA
+"828","KOWB","Owensboro / Daviess","KY","C","y",37.76,-87.17,416.667,"Owensboro"
+"829","KPAH","Paducah, Barkley Regional Airport","KY","C","y",37.07,-88.77,407.152,"Paducah"
+"830","KSDF","Louisville, Standiford Field","KY","E","y",38.19,-85.73,480.971,"Louisville"
+"831","KSME","Somerset-Pulaski County-J.T. Wilson Field Airport","KY","E","y",37.055,-84.614,928.478,NA
+"832","KY15","Brennan Farm Airport","KY","E","y",45.65,-84.467,577.428,NA
+"833","K1B7","Boothville Heliport","LA","C","y",29.35,-89.433,3.281,NA
+"834","K2F8","Morehouse Memorial Airport","LA","C","y",32.7558,-91.8806,NA,NA
+"835","K2GL","Galliano Heliport","LA","C","y",29.417,-90.3,6.562,NA
+"836","K3B6","Eugene Island 300","LA","C","y",28.083,-92.7,3.281,NA
+"837","K7R3","Amelia / Lake Palourd","LA","C","y",29.7,-91.1,6.562,NA
+"838","K7R4","Intracoastal City","LA","C","y",29.783,-92.133,16.404,NA
+"839","K7R5","Cameron Heliport","LA","C","y",29.783,-93.3,3.281,NA
+"840","K7R8","South Marsh Island","LA","C","y",28.3,-91.983,3.281,NA
+"841","KACP","Allen Parish Airport","LA","C","y",30.7506,-92.6886,NA,NA
+"842","KAEX","Alexandria International Airport","LA","C","y",31.33,-92.55,88.911,"Alexandria"
+"843","KAQV","Ft. Polk/Peason Ridge","LA","C","y",31.4,-93.283,364.173,NA
+"844","KARA","New Iberia, Acadiana Regional Airport","LA","C","y",30.03,-91.88,25.919,NA
+"845","KASD","Slidell Airport","LA","C","y",30.35,-89.82,26.247,NA
+"846","KBAD","Barksdale Air Force Base","LA","C","y",32.5,-93.683,166.995,NA
+"847","KBKB","Ft. Polk/Fullerton Landing","LA","C","y",31,-92.967,308.399,NA
+"848","KBQP","Morehouse Memorial Airport","LA","C","y",32.7561,-91.8806,168,NA
+"849","KBTR","Baton Rouge Metropolitan, Ryan Field","LA","C","y",30.54,-91.15,59.055,"Baton Rouge"
+"850","KBVE","Boothville","LA","C","y",29.333,-89.4,15.092,NA
+"851","KCWF","Chenault Airpark","LA","C","y",30.22,-93.15,16.076,NA
+"852","KDNK","Ft. Polk/Self Strip","LA","C","y",31.1,-93,374.016,NA
+"853","KDRI","Beauregard Regional Airport","LA","C","y",30.833,-93.333,206.693,NA
+"854","KDTN","Shreveport Downtown Airport","LA","C","y",32.53,-93.75,180.446,NA
+"855","KE12","East Cameron 345","LA","C","y",28.083,-92.7,0,NA
+"856","KESF","Alexandria Esler Regional Airport","LA","C","y",31.4,-92.3,111.877,NA
+"857","KF24","Minden Airport","LA","C","y",32.646,-93.2981,278,NA
+"858","KGAO","South Lafourche Airport","LA","C","y",29.4447,-90.2611,NA,NA
+"859","KGSM","Ship Shoal 207A","LA","C","y",28.533,-90.983,3.281,NA
+"860","KH08","High Island 264C","LA","C","y",28.467,-93.733,98.425,NA
+"861","KHDC","Hammond Municipal Airport","LA","C","y",30.52,-90.42,42.651,NA
+"862","KHUM","Houma-Terrebonne","LA","C","y",29.57,-90.67,9.843,NA
+"863","KIER","Natchitoches Regional Airport","LA","C","y",31.733,-93.1,121.391,NA
+"864","KLCH","Lake Charles Regional Airport","LA","C","y",30.12,-93.22,15.092,"Lake Charles"
+"865","KLFT","Lafayette Regional Airport","LA","C","y",30.2,-92,38.058,"Lafayette"
+"866","KMLU","Monroe Regional Airport","LA","C","y",32.51,-92.04,132.874,"Monroe"
+"867","KMNE","Minden, LA","LA","C","y",32.646,-93.298,278,NA
+"868","KMSY","New Orleans International Airport","LA","C","y",29.98,-90.25,3.937,"New Orleans"
+"869","KNBG","New Orleans, Naval Air Station","LA","C","y",29.833,-90.017,-0.984,NA
+"870","KNEW","New Orleans Lakefront Airport","LA","C","y",30.04,-90.03,8.858,NA
+"871","KP92","Salt Point","LA","C","y",29.6,-91.3,9.843,NA
+"872","KPOE","Fort Polk","LA","C","y",31.05,-93.183,334.974,NA
+"873","KPTN","Patterson Memorial","LA","C","y",29.72,-91.33,9.843,NA
+"874","KRSN","Ruston Regional Airport","LA","C","y",32.5144,-92.5883,NA,NA
+"875","KS58","South Timbalier","LA","C","y",28.32,-90.35,3.281,NA
+"876","KSHV","Shreveport Regional Airport","LA","C","y",32.45,-93.83,253.937,"Shreveport"
+"877","KSRN","South Marsh 268A","LA","C","y",29.117,-91.867,3.281,NA
+"878","KTVR","Vicksburg / Tallulah Regional Airport","LA","C","y",32.35,-91.03,75.459,NA
+"879","KW60","West Cameron 560","LA","C","y",29.15,-93.35,0,NA
+"880","KXCN","Green Canyon 184","LA","C","y",27.767,-91.517,0,NA
+"881","TLPC","Vigie","LC","A","n",14.017,-61,6.562,NA
+"882","TLPL","Hewanorra Intl Airport","LC","A","n",13.75,-60.95,32.808,NA
+"883","KUXL","Southland Field Airport","LS","C","y",0,0,NA,NA
+"884","KACK","Nantucket Memorial Airport","MA","E","y",41.26,-70.07,44.948,"Nantucket"
+"885","KAQW","North Adams, Harriman-And-West Airport","MA","E","y",42.71,-73.17,659.449,NA
+"886","KBAF","Westfield, Barnes Municipal Airport","MA","E","y",42.16,-72.72,270.997,NA
+"887","KBED","Bedford, Hanscom Field","MA","E","y",42.47,-71.29,132.874,"Bedford"
+"888","KBOS","Boston, Logan International Airport","MA","E","y",42.38,-71.03,20.013,"Boston"
+"889","KBVY","Beverly Municipal Airport","MA","E","y",42.59,-70.92,111.549,NA
+"890","KCEF","Chicopee Falls / Westover Air Force Base","MA","E","y",42.21,-72.53,246.063,NA
+"891","KCHH","Chatham","MA","E","y",41.667,-69.967,52.493,NA
+"892","KCQX","Chatham Municipal Airport","MA","E","y",41.7,-69.99,62.336,NA
+"893","KEWB","New Bedford Regional Airport","MA","E","y",41.69,-70.97,82.021,NA
+"894","KFIT","Fitchburg Municipal Airport","MA","E","y",42.55,-71.76,348.097,NA
+"895","KFMH","Cape Cod Coast Guard Air Station","MA","E","y",41.66,-70.52,131.234,NA
+"896","KHYA","Hyannis, Barnstable Municipal-Boardman Airport","MA","E","y",41.68,-70.28,55.774,"Hyannis"
+"897","KLWM","Lawrence Municipal Airport","MA","E","y",42.73,-71.12,150.919,NA
+"898","KMQE","Blue Hill - Milton","MA","E","y",42.21,-71.11,629.921,NA
+"899","KMVY","Marthas Vineyard Airport","MA","E","y",41.41,-70.62,68.898,"Vineyard Haven"
+"900","KORE","Orange Municipal Airport","MA","E","y",42.58,-72.28,538.058,NA
+"901","KORH","Worcester Regional Airport","MA","E","y",42.28,-71.87,985.892,"Worcester"
+"902","KOWD","Norwood Memorial Airport","MA","E","y",42.19,-71.17,49.213,NA
+"903","KPSF","Pittsfield Municipal Airport","MA","E","y",42.43,-73.29,1193.9,NA
+"904","KPVC","Provincetown Automatic Weather Observing/Reporting","MA","E","y",42.01,-70.2,6.562,"Provincetown"
+"905","KPYM","Plymouth Municipal Airport","MA","E","y",41.91,-70.73,147.638,NA
+"906","KTAN","Taunton","MA","E","y",41.89,-71.02,42.651,NA
+"907","K2G4","Garrett County Airport","MD","E","y",39.5803,-79.3394,2933,NA
+"908","KADW","Camp Springs / Andrews Air Force Base","MD","E","y",38.83,-76.87,282.152,NA
+"909","KAPG","Phillips Army Air Field / Aberdeen","MD","E","y",39.47,-76.17,59.055,NA
+"910","KBWI","Baltimore-Washington International Airport","MD","E","y",39.19,-76.67,147.966,"Baltimore"
+"911","KCBE","Greater Cumberland Regional Airport","MD","E","y",39.617,-78.767,774.278,NA
+"912","KCGE","Cambridge-Dorchester Airport","MD","E","y",38.5393,-76.0304,20,NA
+"913","KCGS","College Park Airport","MD","E","y",0,0,NA,NA
+"914","KDMH","Baltimore, Inner Harbor","MD","E","y",39.28,-76.61,19.029,NA
+"915","KDMW","Carroll County Regional Airport/Jack B Poage Field","MD","E","y",39.36,-77,240,NA
+"916","KESN","Easton/Newman Field Airport","MD","E","y",38.8,-76.067,72.178,NA
+"917","KFDK","Frederick Municipal Airport","MD","E","y",39.418,-77.374,308.071,NA
+"918","KFME","Ft Meade/Tipton","MD","E","y",39.083,-76.767,0,NA
+"919","KGAI","Montgomery County Airpark","MD","E","Y",39.1683,-77.166,538,NA
+"920","KHGR","Hagerstown Regional Airport","MD","E","y",39.71,-77.73,721.785,"Hagerstown"
+"921","KMTN","Baltimore / Martin","MD","E","y",39.34,-76.42,22.966,NA
+"922","KNAK","Annapolis (U.S. Naval Academy)","MD","E","y",38.98,-76.48,6.562,NA
+"923","KNHK","Patuxent River, Naval Air Station","MD","E","y",38.29,-76.4,45.932,NA
+"924","KNUI","Webster Naval Outlying Field","MD","E","y",38.1489,-76.42,NA,NA
+"925","KOXB","Ocean City Municipal Airport","MD","E","y",38.308,-75.124,13.123,NA
+"926","KSBY","Salisbury-Wicomico County Regional Airport","MD","E","y",38.34,-75.5,49.869,"Salisbury"
+"927","K40B","Clayton Lake","ME","E","y",46.617,-69.533,1030.18,NA
+"928","KAUG","Augusta State Airport","ME","E","y",44.32,-69.8,350.066,NA
+"929","KBGR","Bangor International Airport","ME","E","y",44.81,-68.83,149.934,"Bangor"
+"930","KBHB","Bar Harbor Automatic Weather Observing / Reporting","ME","E","y",44.46,-68.37,85.302,NA
+"931","KCAR","Caribou Municipal Airport","ME","E","y",46.88,-68.02,624.016,NA
+"932","KFVE","Frenchville, Northern Aroostook Regional Airport","ME","E","y",47.29,-68.32,1013.78,NA
+"933","KGNR","Greenville","ME","E","y",45.462,-69.595,1036.74,NA
+"934","KGYX","Portland","ME","E","y",43.883,-70.25,82.021,NA
+"935","KHUL","Houlton International Airport","ME","E","y",46.14,-67.78,492.126,NA
+"936","KIWI","Wiscasset Airport","ME","E","y",43.95,-69.7,68.898,NA
+"937","KIZG","Fryeburg, Eastern Slopes Regional Airport","ME","E","y",43.98,-70.95,449.475,NA
+"938","KLEW","Auburn-Lewiston","ME","E","y",44.05,-70.29,288.714,NA
+"939","KMLT","Millinocket Municipal Airport","ME","E","y",45.65,-68.7,408.136,NA
+"940","KNHZ","Brunswick, Naval Air Station","ME","E","y",43.89,-69.93,68.898,NA
+"941","KOLD","Old Town / Dewitt Field Airport","ME","E","y",44.95,-68.667,134.843,NA
+"942","KPQI","Presque Isle","ME","E","y",46.69,-68.05,535.105,"Presque Isle"
+"943","KPWM","Portland International Jetport","ME","E","y",43.65,-70.301,79.068,"Portland"
+"944","KRKD","Rockland / Knox Automatic Weather Observing","ME","E","y",44.08,-69.12,55.774,"Rockland"
+"945","KSFM","Sanford Municipal Automatic Weather Observing","ME","E","y",43.4,-70.7,242.782,NA
+"946","KWVL","Waterville Automatic Weather Observing / Reporting","ME","E","y",44.54,-69.69,331.365,NA
+"947","PKMJ","Marjuro WSO AP","MH","R","n",7.083,171.383,9.843,NA
+"948","PKMR","Majuro Atoll","MH","R","n",7.06,171.27,13.123,NA
+"949","PKWA","Kwajalein Atoll","MH","R","n",8.733,167.733,6.89,NA
+"950","K78D","Caro","MI","C","y",43.45,-83.45,702.1,NA
+"951","K7D2","Troy","MI","C","y",42.55,-83.183,728.346,NA
+"952","KACB","Bellaire, Antrim County Airport","MI","E","y",44.99,-85.2,623.36,NA
+"953","KADG","Adrian, Lenawee County Airport","MI","E","y",41.87,-84.07,800.525,NA
+"954","KAMN","Alma, Gratiot Community Airport","MI","E","y",43.32,-84.69,754.593,NA
+"955","KANJ","Sault Ste. Marie","MI","E","y",46.485,-84.366,717.848,NA
+"956","KAPN","Alpena County Regional Airport","MI","E","y",45.08,-83.57,688.976,"Alpena"
+"957","KARB","Ann Arbor Municipal Airport","MI","E","y",42.22,-83.75,839.895,NA
+"958","KAZO","Kalamazoo / Battle Creek International","MI","E","y",42.24,-85.55,895.669,"Kalamazoo"
+"959","KBAX","Bad Axe, Huron County Memorial Airport","MI","E","y",43.79,-82.99,767.717,NA
+"960","KBEH","Benton Harbor, Southwest Michigan Regional Airport","MI","E","y",42.14,-86.44,643.045,NA
+"961","KBIV","West Michigan Regional Airport","MI","E","y",42.75,-86.1,688.976,NA
+"962","KBTL","Battle Creek, Kellogg Airport","MI","E","y",42.3,-85.25,938.976,NA
+"963","KCAD","Cadillac / Wexford County","MI","E","y",44.29,-85.42,1299.87,NA
+"964","KCFS","Caro","MI","E","y",43.459,-83.445,702.1,NA
+"965","KCIU","Chippewa International Automatic Weather Observing","MI","E","y",46.26,-84.47,820.21,"Sault Ste. Marie"
+"966","KCMX","Hancock, Houghton County Memorial Airport","MI","E","y",47.18,-88.5,1074.15,"Hancock"
+"967","KCVX","Charlevoix Municipal Airport","MI","E","y",45.3,-85.27,669.291,NA
+"968","KD95","Dupont-Lapeer Airport","MI","E","y",43.0665,-83.2715,835,NA
+"969","KDET","Detroit City Airport","MI","E","y",42.4,-83.017,625,NA
+"970","KDRM","Drummond Island Airport","MI","C","y",0,0,NA,NA
+"971","KDTW","Detroit Metropolitan Wayne County Airport","MI","E","y",42.23,-83.33,636.155,"Detroit"
+"972","KDUH","Toledo Suburban Airport","MI","E","y",41.73,-83.65,669.291,NA
+"973","KERY","Newberry, Luce County Airport","MI","E","y",46.31,-85.46,869.423,NA
+"974","KESC","Escanaba-Delta County Airport","MI","E","y",45.73,-87.08,613.517,"Escanaba"
+"975","KFFX","Fremont Municipal Airport","MI","E","y",43.26,-85.594,722,NA
+"976","KFKS","Frankfort","MI","C","y",44.617,-86.2,633.202,NA
+"977","KFNT","Flint, Bishop International Airport","MI","E","y",42.98,-83.73,766.076,"Flint"
+"978","KFPK","Fitch Beach Airport","MI","E","y",42.57,-84.81,889.108,NA
+"979","KGLR","Gaylord, Otsego County Airport","MI","E","y",45.024,-84.678,1332.02,NA
+"980","KGOV","Grayling AAF Airport","MI","E","y",44.68,-84.72,1158.14,NA
+"981","KGRR","Grand Rapids, Gerald R. Ford International Airport","MI","E","y",42.89,-85.52,792.979,"Grand Rapids"
+"982","KHAI","Three Rivers Municipal Dr Haines Airport","MI","C","y",41.959,-85.59,824.147,NA
+"983","KHTL","Houghton Lake, Roscommon County Airport","MI","E","y",44.38,-84.68,1150.92,NA
+"984","KHYX","Saginaw County H.W. Browne Airport","MI","E","y",43.433,-83.862,600.394,NA
+"985","KIKW","Jack Barstow Airport","MI","E","Y",43.6629,-84.2613,635,NA
+"986","KIMT","Iron Mountain / Kingsford, Ford Airport","MI","C","y",45.81,-88.11,1181.1,"Iron Mountain"
+"987","KIRS","Sturgis, Kirsch Municipal Airport","MI","E","y",41.81,-85.44,925.197,NA
+"988","KISQ","Manistique, Schoolcraft County Airport","MI","E","y",45.97,-86.17,685.696,NA
+"989","KIWD","Ironwood Automatic Weather Observing / Reporting","MI","C","y",46.54,-90.13,1230.31,NA
+"990","KJXN","Jackson County-Reynolds Field Airport","MI","E","y",42.27,-84.47,998.031,NA
+"991","KJYM","Hillsdale Municipal Airport","MI","E","y",41.921,-84.586,1181.1,NA
+"992","KLAN","Lansing, Capital City Airport","MI","E","y",42.78,-84.6,840.879,"Lansing"
+"993","KLDM","Ludington, Mason County Airport","MI","E","y",43.96,-86.41,646.325,NA
+"994","KLWA","South Haven","MI","E","y",42.351,-86.256,666.01,NA
+"995","KMBL","Manistee County-Blacker Airport","MI","E","y",44.28,-86.25,620.079,NA
+"996","KMBS","Saginaw, MBS International Airport","MI","E","y",43.53,-84.08,662.073,"Saginaw"
+"997","KMCD","Mackinac Island Airport","MI","E","y",45.86,-84.64,984.252,NA
+"998","KMGN","Harbor Springs Airport","MI","E","y",45.42,-84.91,685.696,NA
+"999","KMKG","Muskegon County Airport","MI","E","y",43.18,-86.27,625,"Muskegon"
+"1000","KMNM","Menominee Automatic Weather Observing / Reporting","MI","C","y",45.12,-87.63,626.64,NA
+"1001","KMOP","Mount Pleasant Municipal Airport","MI","E","y",43.62,-84.74,754.593,NA
+"1002","KMQT","Marquette","MI","E","y",46.533,-87.55,1415.03,NA
+"1003","KMTC","Selfridge Air National Guard Base","MI","E","y",42.62,-82.84,576.115,NA
+"1004","KOEB","Coldwater, Branch County Memorial Airport","MI","E","y",41.93,-85.05,958.005,NA
+"1005","KONZ","Grosse Ile Municipal Airport","MI","E","y",42.1,-83.16,577.428,NA
+"1006","KOSC","Oscoda-Wurtsmith Airport","MI","E","y",44.46,-83.4,604.003,NA
+"1007","KOZW","Howell, Livingston County Airport","MI","E","y",42.63,-83.98,961.286,NA
+"1008","KP53","Munising","MI","E","y",46.4,-86.65,613.517,NA
+"1009","KP58","Port Hope","MI","E","y",44.022,-82.793,600.394,NA
+"1010","KP59","Copper Harbor","MI","E","y",47.45,-87.9,610.236,NA
+"1011","KP75","Marquette","MI","E","y",45.93,-85.92,583.99,NA
+"1012","KPHN","St. Clair County International","MI","E","y",42.92,-82.53,649.606,NA
+"1013","KPLN","Pellston Regional Airport of Emmet County","MI","E","y",45.58,-84.8,714.895,"Pellston"
+"1014","KPTK","Pontiac, Oakland County International Airport","MI","E","y",42.67,-83.42,1003.94,NA
+"1015","KPZQ","Presque Isle County Airport","MI","E","y",45.4,-83.817,669.291,NA
+"1016","KRMY","Marshall, Brooks Field Airport","MI","E","y",42.24,-84.96,941.601,NA
+"1017","KRNP","Owosso Community Airport","MI","E","y",42.993,-84.139,734.908,NA
+"1018","KRQB","Big Rapids, Roben-Hood Airport","MI","E","y",43.72,-85.5,990.814,NA
+"1019","KSAW","Gwinn, Sawyer Airport","MI","E","y",46.354,-87.394,1253.28,"Marquette"
+"1020","KSJX","Beaver Island Airport","MI","E","y",45.7,-85.57,669.291,NA
+"1021","KSLH","Cheboygan Co Airport","MI","E","y",45.65,-84.52,639.764,NA
+"1022","KTEW","Mason Jewett Field Airport","MI","E","y",42.57,-84.42,918.635,NA
+"1023","KTTF","Monroe, Custer Airport","MI","E","y",41.94,-83.43,616.798,NA
+"1024","KTVC","Traverse City, Cherry Capital Airport","MI","E","y",44.73,-85.58,618.11,"Traverse City"
+"1025","KVLL","Troy","MI","E","y",42.543,-83.178,728.346,NA
+"1026","KY70","Ionia County Airport","MI","C","",42.938,-85.0606,818,NA
+"1027","KYIP","Detroit, Willow Run Airport","MI","E","y",42.23,-83.53,715.879,NA
+"1028","K04W","Field of Dreams Airport","MN","C","y",46.0229,-92.8952,1021,NA
+"1029","K14Y","Todd Field Airport - Long Prairie, MN","MN","C","Y",45.8983,-94.8739,1333,NA
+"1030","K21D","Lake Elmo Airport - Lake Elmo, MN","MN","C","y",44.9975,-92.8557,933,NA
+"1031","KACQ","Waseca Muni Airport","MN","C","y",44.07,-93.55,1125.33,NA
+"1032","KADC","Wadena Municipal Airport","MN","C","y",46.447,-95.212,1371.39,NA
+"1033","KAEL","Albert Lea Automatic Weather Observing / Reporting","MN","C","y",43.69,-93.37,1256.56,NA
+"1034","KAIT","Aitkin NDB Automatic Weather Observing / Reporting","MN","C","y",46.55,-93.69,1204.07,NA
+"1035","KANE","Minneapolis / Blaine","MN","C","y",45.16,-93.22,912.073,NA
+"1036","KAQP","Appleton Municipal Airport","MN","C","y",45.23,-96,1017.06,NA
+"1037","KAUM","Austin Municipal","MN","C","y",43.67,-92.94,1230.31,NA
+"1038","KAXN","Alexandria, Chandler Field","MN","C","y",45.87,-95.41,1419.95,NA
+"1039","KBBB","Benson Municipal","MN","C","y",45.32,-95.65,1040.03,NA
+"1040","KBDE","Baudette International Airport","MN","C","y",48.73,-94.6,1082.02,NA
+"1041","KBDH","Willmar Municipal Airport","MN","C","y",45.12,-95.13,1131.89,NA
+"1042","KBFW","Silver Bay","MN","C","y",47.21,-91.41,1085.96,NA
+"1043","KBJI","Bemidji","MN","C","y",47.51,-94.93,1377.95,"Bemidji"
+"1044","KBRD","Brainerd-Crow Wing County Regional Airport","MN","C","y",46.4,-94.13,1227.03,"Brainerd"
+"1045","KCBG","Cambridge Municipal","MN","C","y",45.57,-93.27,941.601,NA
+"1046","KCDD","Crane Lake, Scotts Seaplane Base","MN","C","y",48.27,-92.57,1148.29,NA
+"1047","KCFE","Buffalo Municipal Airport","MN","C","y",45.159,-93.843,967,NA
+"1048","KCKC","Grand Marais/Cook County Airport","MN","C","y",47.84,-90.38,1656.82,NA
+"1049","KCKN","Crookston Municipal Field","MN","C","y",47.86,-96.62,895.669,NA
+"1050","KCNB","Canby Myers Field Airport","MN","C","y",44.72,-96.26,1192.91,NA
+"1051","KCOQ","Cloquet Automatic Weather Observing / Reporting","MN","C","y",46.71,-92.5,1279.53,NA
+"1052","KCQM","Cook Municipal Airport","MN","C","y",47.82,-92.69,1318.9,NA
+"1053","KD39","Sauk Centre Municipal Airport","MN","C","y",45.7066,-94.9334,1244,NA
+"1054","KDLH","Duluth International Airport","MN","C","y",46.84,-92.18,1423.89,"Duluth"
+"1055","KDTL","Detroit Lakes Automatic Weather Observing / Report","MN","C","y",46.83,-95.88,1397.64,NA
+"1056","KDVP","Slayton Municipal Airport","MN","C","y",43.987,-95.783,1624.02,NA
+"1057","KDXX","Madison-Lac Qui Parle County Airport","MN","C","y",44.99,-96.18,1082.68,NA
+"1058","KDYT","Sky Harbor Airport","MN","C","y",46.72,-92.04,610.236,NA
+"1059","KELO","Ely Municipal Automatic Weather Observing / Report","MN","C","y",47.91,-91.82,1492.78,NA
+"1060","KETH","Wheaton NDB Automatic Weather Observing/Reporting","MN","C","y",45.71,-96.5,1026.9,NA
+"1061","KEVM","Eveleth Municipal Automatic Weather Observing","MN","C","y",47.41,-92.5,1381.23,NA
+"1062","KFBL","Faribault Municipal Automatic Weather Observing","MN","C","y",44.34,-93.31,1056.43,NA
+"1063","KFCM","Minneapolis, Flying Cloud Airport","MN","C","y",44.84,-93.47,928.478,NA
+"1064","KFFM","Fergus Falls Automatic Weather Observing/Reporting","MN","C","y",46.3,-96.07,1184.38,NA
+"1065","KFGN","Flag Island","MN","C","y",49.32,-94.88,1076.11,NA
+"1066","KFKA","Preston-Fillmore Co Airport","MN","C","y",43.677,-92.18,1276.25,NA
+"1067","KFOZ","Bigfork Municipal Airport","MN","C","y",47.78,-93.65,1348.43,NA
+"1068","KFRM","Fairmont Municipal Automatic Weather Observing","MN","C","y",43.66,-94.42,1161.42,NA
+"1069","KFSE","Fosston Automatic Weather Observing/Reporting Sys","MN","C","y",47.593,-95.773,1272.97,NA
+"1070","KGDB","Granite Falls Municipal Airport","MN","C","y",44.7533,-95.556,1047,NA
+"1071","KGHW","Glenwood Automatic Surface Observing System","MN","C","y",45.65,-95.32,1394.36,NA
+"1072","KGNA","The Bay of Grand Marais","MN","C","y",47.75,-90.34,610.236,NA
+"1073","KGPZ","Grand Rapids Automatic Weather Observing/Reporting","MN","C","y",47.23,-93.52,1354.99,NA
+"1074","KGYL","Glencoe Municipal Airport","MN","C","y",44.757,-94.082,990.814,NA
+"1075","KHCD","Hutchinson Automatic Weather Observing / Reporting","MN","C","y",44.87,-94.39,1059.71,NA
+"1076","KHCO","Hallock Municipal Airport","MN","C","y",48.79,-96.95,820.21,NA
+"1077","KHIB","Chisholm-Hibbing Airport","MN","C","y",47.39,-92.85,1347.11,"Hibbing"
+"1078","KHZX","Isedor Iverson Airport","MN","C","y",46.617,-93.317,1227.03,NA
+"1079","KILL","Willmar / Rice Automatic Weather Observing/Report","MN","C","y",45.11,-95.09,1131.89,NA
+"1080","KINL","Falls International Airport","MN","C","y",48.58,-93.38,1179.13,"International Falls"
+"1081","KJKJ","Moorhead Municipal Airport","MN","C","y",46.84,-96.66,918.635,NA
+"1082","KJMR","Mora Municipal Airport","MN","C","y",45.89,-93.27,1013.78,NA
+"1083","KJYG","St. James Municipal Airport","MN","C","y",43.99,-94.56,1066.27,NA
+"1084","KLJF","Litchfield Municipal Airport","MN","C","y",45.14,-94.52,1138.45,NA
+"1085","KLVN","Minneapolis, Airlake Airport","MN","C","y",44.64,-93.24,961.286,NA
+"1086","KLXL","Little Falls Automatic Weather Observing/Reporting","MN","C","y",45.96,-94.35,1122.05,NA
+"1087","KLYV","Luverne-Quentin Aanenson Field","MN","C","y",43.621,-96.216,1430.45,NA
+"1088","KMGG","Maple Lake Municipal Airport","MN","C","y",45.236,-93.986,1026.9,NA
+"1089","KMIC","Minneapolis, Crystal Airport","MN","C","y",45.08,-93.38,869.423,NA
+"1090","KMJQ","Jackson Municipal Automatic Weather Observing","MN","C","y",43.66,-94.99,1446.85,NA
+"1091","KMKT","Mankato Automatic Weather Observing / Reporting","MN","C","y",44.23,-93.92,1020.34,NA
+"1092","KMML","Marshall / Ryan Automatic Weather Observing","MN","C","y",44.46,-95.82,1177.82,NA
+"1093","KMOX","Morris Municipal Automatic Weather Observing","MN","C","y",45.57,-95.97,1138.45,NA
+"1094","KMSP","Minneapolis-St. Paul International Airport","MN","C","y",44.89,-93.22,833.99,"Minneapolis and St. Paul"
+"1095","KMVE","Montevideo Automatic Weather Observing / Reporting","MN","C","y",44.97,-95.72,1033.46,NA
+"1096","KMWM","Windom Municipal Airport","MN","C","y",43.91,-95.11,1345.14,NA
+"1097","KMZH","Moose Lake Carlton County Airport","MN","C","y",46.417,-92.8,1076.11,NA
+"1098","KONA","Winona Municipal Automatic Weather Observing","MN","C","y",44.09,-91.7,656.168,NA
+"1099","KORB","Orr","MN","C","y",48.02,-92.87,1302.49,NA
+"1100","KOTG","Worthington Automatic Weather Observing/Reporting","MN","C","y",43.66,-95.58,1574.8,NA
+"1101","KOVL","Olivia Regional Airport","MN","C","y",44.78,-95.03,1076.11,NA
+"1102","KOWA","Owatonna Automatic Weather Observing / Reporting","MN","C","y",44.12,-93.25,1148.29,NA
+"1103","KPEX","Paynesville Municipal Airport","MN","C","y",45.3722,-94.7464,NA,NA
+"1104","KPKD","Park Rapids Municipal Airport","MN","C","y",46.91,-95.07,1434.06,NA
+"1105","KPNM","Princeton","MN","C","y",45.56,-93.61,1003.94,NA
+"1106","KPQN","Pipestone Automatic Weather Observing / Reporting","MN","C","y",43.99,-96.32,1735.56,NA
+"1107","KPWC","Pine River Regional Airport","MN","C","y",46.72,-94.38,1295.93,NA
+"1108","KRAD","Warroad Automatic Weather Observing/Reporting Sys","MN","C","y",48.9333,-95.3333,NA,NA
+"1109","KRGK","Red Wing Municipal Airport","MN","C","y",44.59,-92.49,784.121,NA
+"1110","KROS","Rush City Regional Airport","MN","C","y",45.698,-92.953,921.916,NA
+"1111","KROX","Roseau Municipal Automatic Weather Observing","MN","C","y",48.86,-95.69,1059.71,NA
+"1112","KRRT","Warroad International Memorial Airport","MN","C","y",48.94,-95.35,1072.83,NA
+"1113","KRST","Rochester International Airport","MN","C","y",43.93,-92.5,1304.13,"Rochester"
+"1114","KRWF","Redwood Falls Municipal Airport","MN","C","y",44.55,-95.08,1023.62,NA
+"1115","KSAZ","Staples Municipal Airport","MN","C","y",46.38,-94.81,1286.09,NA
+"1116","KSGS","South St. Paul Municipal-Richard E","MN","C","y",44.85,-93.15,820.21,NA
+"1117","KSTC","St. Cloud Regional Airport","MN","C","y",45.55,-94.07,1021,"St. Cloud"
+"1118","KSTP","St. Paul Downtown Holman Field","MN","C","y",44.94,-93.05,721.129,NA
+"1119","KSYN","Stanton Airfield","MN","C","y",44.467,-93.017,918.635,NA
+"1120","KTKC","Tracy Municipal Airport","MN","C","y",44.249,-95.607,1338.58,NA
+"1121","KTOB","Dodge Center Airport","MN","C","y",44.018,-92.831,1305.77,NA
+"1122","KTVF","Thief River Automatic Weather Observing/Reporting","MN","C","y",48.08,-96.18,1115.49,NA
+"1123","KTWM","Two Harbors","MN","C","y",47.05,-91.75,1076.11,NA
+"1124","KULM","New Ulm Municipal Automatic Weather Observing","MN","C","y",44.32,-94.5,1010.5,NA
+"1125","KVVV","Ortonville Municipal-Martinson Field Airport","MN","C","y",45.31,-96.42,1099.08,NA
+"1126","KVWU","Waskish Municipal Airport","MN","C","y",48.15,-94.52,1181.1,NA
+"1127","KXVG","Longville Municipal Airport","MN","C","y",46.992,-94.2,1335.3,NA
+"1128","KY63","Elbow Lake Municipal Airport - Elbow Lake, MN","MN","C","Y",45.9861,-95.992,1205,NA
+"1129","KAIZ","Kaiser Memorial Automatic Weather Observing","MO","C","y",38.11,-92.55,869.423,NA
+"1130","KBBG","Branson Airport","MO","C","Y",36.5321,-93.2005,1303,NA
+"1131","KCDJ","Chillicothe Agri-Science Center","MO","C","y",39.82,-93.58,767.717,NA
+"1132","KCGI","Cape Girardeau Regional Airport","MO","C","y",37.23,-89.58,336.942,NA
+"1133","KCOU","Columbia Regional Airport","MO","C","y",38.83,-92.22,893.045,"Columbia"
+"1134","KDMO","Sedalia Memorial Airport","MO","C","y",38.71,-93.16,908.793,NA
+"1135","KFAM","Farmington Airport","MO","C","y",37.76,-90.43,898.95,NA
+"1136","KGLY","Clinton Memorial Airport","MO","C","y",38.3566,-93.6842,823,NA
+"1137","KHAE","Hannibal Regional Airport","MO","C","y",39.7252,-91.4439,769,NA
+"1138","KHFJ","Monett Municipal Airport","MO","C","Y",36.9062,-94.0128,1314,NA
+"1139","KIRK","Kirksville Regional Airport","MO","C","y",40.11,-92.55,971.129,NA
+"1140","KJEF","Jefferson City Memorial Airport","MO","C","y",38.59,-92.16,547.9,NA
+"1141","KJLN","Joplin Regional Airport","MO","C","y",37.18,-94.5,981.955,"Joplin"
+"1142","KLXT","Lees Summit","MO","C","y",38.964,-94.374,1003.94,NA
+"1143","KMCI","Kansas City International Airport","MO","C","y",39.3,-94.73,979.003,"Kansas City"
+"1144","KMKC","Charles B Wheeler Downtown Airport","MO","C","y",39.12,-94.6,757.874,NA
+"1145","KPOF","Poplar Bluff Municipal Airport","MO","C","y",36.77,-90.32,479.003,NA
+"1146","KRCM","Skyhaven Airport","MO","C","y",38.784,-93.803,798,NA
+"1147","KSET","St. Charles County Smartt Airport","MO","C","y",38.931,-90.433,436.352,NA
+"1148","KSGF","Springfield-Branson National Airport","MO","C","y",37.23,-93.38,1258.86,"Springfield"
+"1149","KSTJ","Rosecrans Memorial Airport near St Joseph","MO","C","y",39.77,-94.91,256.89,NA
+"1150","KSTL","Lambert-St. Louis International Airport","MO","C","y",38.76,-90.37,567.913,"St. Louis"
+"1151","KSUS","Spirit Of St. Louis Airport","MO","C","y",38.66,-90.63,461.942,NA
+"1152","KSZL","Whiteman Air Force Base","MO","C","y",38.733,-93.567,836.942,NA
+"1153","KTBN","Fort Leonard Wood","MO","C","y",37.733,-92.15,1151.9,NA
+"1154","KUNO","West Plains Municipal Airport","MO","C","y",36.88,-91.9,1227.03,NA
+"1155","KVIH","Rolla National Airport","MO","C","y",38.14,-91.77,1102.03,NA
+"1156","TFFF","Le Lamentin","MQ","A","n",14.6,-61,22.966,NA
+"1157","KBIX","Keesler Air Force Base / Biloxi","MS","C","y",30.417,-88.917,25.919,NA
+"1158","KCBM","Columbus Air Force Base","MS","C","y",33.633,-88.45,209.974,NA
+"1159","KCKM","Fletcher Field Airport","MS","C","y",34.2997,-90.5123,173,NA
+"1160","KCRX","Corinth - Roscoe Turner Airport","MS","C","y",34.915,-88.6035,425,NA
+"1161","KGLH","Greenville Municipal Airport","MS","C","y",33.48,-90.98,138.123,NA
+"1162","KGPT","Gulfport-Biloxi Regional Airport","MS","C","y",30.4,-89.07,29.528,"Gulfport / Biloxi"
+"1163","KGTR","Golden Tri Automatic Weather Observing / Reporting","MS","C","y",33.46,-88.58,262.467,"Columbus"
+"1164","KGWO","Greenwood-LeFlore Airport","MS","C","y",33.51,-90.08,154.856,NA
+"1165","KHBG","Hattiesburg, Bobby L Chain Municipal Airport","MS","C","y",31.27,-89.25,150.919,NA
+"1166","KHEZ","Natchez / Hardy Automatic Weather Observing/Report","MS","C","y",31.62,-91.25,272.31,NA
+"1167","KHKS","Jackson, Hawkins Field Airport","MS","C","y",32.33,-90.22,341.207,NA
+"1168","KJAN","Jackson International Airport","MS","C","y",32.33,-90.08,310.039,"Jackson"
+"1169","KM97","Tunica Municipal Airport","MS","C","y",34.683,-90.333,193.57,NA
+"1170","KMCB","McComb / Pike County / John E Lewis Field","MS","C","y",31.18,-90.47,413.058,NA
+"1171","KMEI","Meridian, Key Field","MS","C","y",32.34,-88.75,312.008,"Meridian"
+"1172","KNMM","Meridian, Naval Air Station","MS","C","y",32.55,-88.567,270.997,NA
+"1173","KOLV","Olive Branch Airport","MS","C","y",34.98,-89.79,401.903,NA
+"1174","KPGL","Pascagoula / Jackson","MS","C","y",30.4,-88.483,9.843,NA
+"1175","KPIB","Pine Belt Regional Automatic Weather Observing","MS","C","y",31.47,-89.33,305.118,NA
+"1176","KPQL","Pascagoula, Lott International Airport","MS","C","y",30.46,-88.53,16.404,NA
+"1177","KSTF","George M Bryan Airport","MS","C","y",33.4331,-88.8486,333,NA
+"1178","KTUP","Tupelo Regional Airport","MS","C","y",34.28,-88.77,360.892,"Tupelo"
+"1179","KUTA","Tunica Municipal Airport","MS","C","y",34.6831,-90.3472,194,NA
+"1180","K3DU","Drummond","MT","M","y",46.68,-113.15,4000,NA
+"1181","K3HT","Harlowton","MT","M","y",46.44,-109.84,4160.1,NA
+"1182","K3TH","Thompson Falls","MT","M","y",47.6,-115.367,2378.61,NA
+"1183","KBHK","Baker","MT","M","y",46.333,-104.25,2959.32,NA
+"1184","KBIL","Billings/Logan Intl Airport","MT","M","y",45.8,-108.53,3585.96,"Billings"
+"1185","KBTM","Butte/Bert Mooney","MT","M","y",45.96,-112.5,5540.03,"Butte"
+"1186","KBZN","Bozeman/Gallatin","MT","M","y",45.79,-111.15,4426.84,"Bozeman"
+"1187","KCTB","Cut Bank (awos)","MT","M","y",48.61,-112.37,3763.12,NA
+"1188","KDLN","Dillon Airport","MT","M","y",45.26,-112.55,5241.14,NA
+"1189","KFCA","Kalispell/Glacier","MT","M","y",48.3,-114.27,2971.13,NA
+"1190","KGDV","Glendive(awos)","MT","M","y",47.14,-104.8,2457.35,NA
+"1191","KGFA","Malmstrom Air Morce Base","MT","M","y",47.517,-111.183,3464.9,NA
+"1192","KGGW","Glasgow Intl Arpt","MT","M","y",48.21,-106.63,2293.96,NA
+"1193","KGPI","Glacier Park International Airport","MT","M","y",48.3042,-114.264,NA,"Kalispell"
+"1194","KGTF","Great Falls Intl Airport","MT","M","y",47.47,-111.38,3687.99,"Great Falls"
+"1195","KHLN","Helena Regional","MT","M","y",46.61,-112,3828.08,"Helena"
+"1196","KHVR","Havre (amos)","MT","M","y",48.55,-109.77,2584.97,NA
+"1197","KJDN","Jordan (ramos)","MT","M","y",47.33,-106.93,2660.76,NA
+"1198","KLVM","Livingston/Mission","MT","M","y",45.71,-110.43,4652.89,NA
+"1199","KLWT","Lewistown Municipal","MT","M","y",47.05,-109.45,4124.02,NA
+"1200","KMLS","Miles City","MT","M","y",46.44,-105.87,2627.95,NA
+"1201","KMSO","Missoula/Bell Field","MT","M","y",46.92,-114.1,3191.93,"Missoula"
+"1202","KOLF","Wolf Point Intl Airport","MT","M","y",48.09,-105.58,1984.91,NA
+"1203","KSDY","Sidney-Richland","MT","M","y",47.73,-104.18,1984.91,"Sidney"
+"1204","KWEY","West Yellowstone","MT","M","y",44.66,-111.1,6663.39,NA
+"1205","KWYS","West Yellowstone","MT","M","y",44.683,-111.117,6811.02,"West Yellowstone"
+"1206","MMCS","MMCS Ob Site","MX","M","y",31.633,-106.417,3940.29,NA
+"1207","MMUN","Cancun Mexico","MX","C","y",21.03,-86.87,19.685,NA
+"1208","K1A5","Franklin/Macon County Airport","NC","E","y",35.217,-83.417,2021,NA
+"1209","K45J","Rockingham","NC","E","y",34.883,-79.75,357.612,NA
+"1210","K9W7","Currituck","NC","E","y",36.3989,-76.0161,NA,NA
+"1211","KAKH","Gastonia Municipal Airport","NC","E","y",35.2,-81.15,797.244,NA
+"1212","KASJ","Ahoskie, Tri-County Airport","NC","E","y",36.3,-77.17,68.898,NA
+"1213","KAVL","Asheville Regional Airport","NC","E","y",35.44,-82.55,2140.09,"Asheville"
+"1214","KBBP","Marlboro County Jetport - H.E. Avent Field","NC","E","Y",34.6217,-79.7344,147,NA
+"1215","KBUY","Burlington Alamance Regional Airport","NC","E","y",36.05,-79.47,616.798,NA
+"1216","KCLT","Charlotte/Douglas International Airport","NC","E","y",35.21,-80.94,757.874,"Charlotte"
+"1217","KCPC","Whiteville-Columbus Co Muni Airport","NC","E","y",34.28,-78.71,98.425,NA
+"1218","KCTZ","Sampson County Airport","NC","E","y",34.983,-78.367,147.638,NA
+"1219","KDPL","Kenansville, Duplin County Airport","NC","E","y",35,-77.98,137.795,NA
+"1220","KECG","Elizabeth City Coast Guard Air Sta","NC","E","y",36.26,-76.17,13.123,NA
+"1221","KEDE","Edenton, Northeastern Regional Airport","NC","E","y",36.03,-76.57,19.685,NA
+"1222","KEHO","Shelby Municipal Airport","NC","E","y",35.25,-81.6,846.457,NA
+"1223","KEQY","Monroe Airport","NC","E","y",35.017,-80.617,679.134,NA
+"1224","KETC","Tarboro-Edgecombe Airport","NC","E","y",35.9373,-77.5465,53,NA
+"1225","KEWN","New Bern, Craven County Regional Airport","NC","E","y",35.09,-77.05,16.076,"New Bern"
+"1226","KEXX","Lexington, Davidson County Airport","NC","E","y",35.783,-80.3,731.627,NA
+"1227","KEYF","Elizabethtown-Curtis L Brown Field Airport","NC","E","y",34.602,-78.579,131.234,NA
+"1228","KFAY","Fayetteville Regional Airport","NC","E","y",34.99,-78.88,193.57,"Fayetteville"
+"1229","KFBG","Fort Bragg / Simmons Army Airfield","NC","E","y",35.14,-78.93,246.063,NA
+"1230","KFFA","First Flight Airport","NC","E","y",36.017,-75.667,13.123,NA
+"1231","KFQD","Rutherfordton/Rutherford Co-Marchman Field Airport","NC","E","y",35.43,-81.94,1079.4,NA
+"1232","KGEV","Jefferson, Ashe County Airport","NC","E","y",36.43,-81.42,3179.13,NA
+"1233","KGSB","Seymour-Johnson Air Force Base","NC","E","y",35.34,-77.97,82.021,NA
+"1234","KGSO","Greensboro, Piedmont Triad International Airport","NC","E","y",36.01,-79.95,901.903,"Greensboro"
+"1235","KGWW","Goldsboro-Wayne Muni Airport","NC","E","y",35.46,-77.96,134.514,NA
+"1236","KHBI","Asheboro Municipal Airport","NC","E","y",35.65,-79.9,672.572,NA
+"1237","KHFF","Mackall U. S. Army Airfield","NC","E","y",35.033,-79.5,377.297,NA
+"1238","KHKY","Hickory Regional Airport","NC","E","y",35.76,-81.38,1165.03,NA
+"1239","KHNZ","Henderson-Oxford Airport","NC","E","y",36.36,-78.53,528.215,NA
+"1240","KHRJ","Erwin, Harnett County Airport","NC","E","y",35.38,-78.73,196.85,NA
+"1241","KHSE","Hatteras, Mitchell Field","NC","E","y",35.23,-75.62,9.843,NA
+"1242","KHSS","Hot Springs Aviation Weather Reporting Station","NC","E","y",35.9,-82.817,1479.66,NA
+"1243","KIGX","Chapel Hill, Williams Airport","NC","E","y",35.94,-79.07,508.53,NA
+"1244","KILM","Wilmington, New Hanover International Airport","NC","E","y",34.28,-77.92,45.932,"Wilmington"
+"1245","KINT","Winston Salem, Smith Reynolds Airport","NC","E","y",36.13,-80.22,970.144,NA
+"1246","KIPJ","Lincolnton-Lincoln County Regional Airport","NC","E","y",35.483,-81.167,875.984,NA
+"1247","KISO","Kinston / Stallings","NC","E","y",35.33,-77.63,95.144,NA
+"1248","KIXA","Halifax-Northampton County Regional Airport","NC","E","y",36.3298,-77.6352,145,NA
+"1249","KJNX","Smithfield, Johnston County Airport","NC","E","y",35.541,-78.39,164.042,NA
+"1250","KJQF","Concord Regional Airport","NC","E","y",35.39,-80.71,708.661,"Concord"
+"1251","KLBT","Lumberton Municipal Airport","NC","E","y",34.61,-79.06,125.984,NA
+"1252","KLHZ","Louisburg","NC","E","y",36.023,-78.33,370.735,NA
+"1253","KMEB","Laurinburg-Maxton Airport","NC","E","y",34.79,-79.37,219.816,NA
+"1254","KMQI","Manteo / Dare County Regional","NC","E","y",35.92,-75.7,13.123,NA
+"1255","KMRH","Beaufort, Michael J Smith Field Airport","NC","E","y",34.717,-76.65,9.843,NA
+"1256","KMRN","Foothills Regional Airport","NC","E","y",35.82,-81.61,1269.69,NA
+"1257","KMWK","Mount Airy / Surry County Airport","NC","E","y",36.46,-80.55,1246.72,NA
+"1258","KNCA","Jacksonville, New River, Marine Corps Air Station","NC","E","y",34.71,-77.43,16.076,NA
+"1259","KNKT","Cherry Point, Marine Corps Air Station","NC","E","y",34.86,-76.88,36.089,NA
+"1260","KOAJ","Jacksonville Automatic Weather Observing/Reporting","NC","E","y",34.83,-77.62,95.144,"Jacksonville"
+"1261","KOCW","Washington, Warren Field Airport","NC","E","y",35.57,-77.05,39.37,NA
+"1262","KONX","Currituck County Airport","NC","E","y",36.3989,-76.0161,NA,NA
+"1263","KPGV","Pitt-Greenville Airport","NC","E","y",35.63,-77.4,26.247,"Greenville"
+"1264","KPOB","Pope Air Force Base","NC","E","y",35.18,-79.02,217.848,NA
+"1265","KRDU","Raleigh-Durham International Airport","NC","E","y",35.88,-78.78,416.01,"Raleigh"
+"1266","KRHP","Andrews-Murphy Airport","NC","E","y",35.19,-83.86,1699.47,NA
+"1267","KRUQ","Salisbury, Rowan County Airport","NC","E","y",35.65,-80.517,774.278,NA
+"1268","KRWI","Rocky Mount-Wilson Regional Airport","NC","E","y",35.86,-77.88,164.042,NA
+"1269","KRZZ","Roanoke Rapids, Halifax County Airport","NC","E","y",36.44,-77.71,252.625,NA
+"1270","KSIF","Shiloh Airport","NC","E","y",0,0,NA,NA
+"1271","KSOP","Southern Pines Automatic Weather Observing/Report","NC","E","y",35.24,-79.41,462.598,NA
+"1272","KSUT","Brunswick County Airport","NC","E","y",33.93,-78.07,26.247,NA
+"1273","KSVH","Statesville Municipal Airport","NC","E","y",35.76,-80.96,964.567,NA
+"1274","KTDF","Roxboro, Person County Airport","NC","E","y",36.285,-78.984,610.236,NA
+"1275","KTNB","Boone, Watauga County Hospital Heliport","NC","E","y",36.199,-81.651,3146.32,NA
+"1276","KTTA","Sanford-Lee County Regional Airport","NC","E","y",35.58,-79.1,246.063,NA
+"1277","KUKF","North Wilkesboro, Wilkes County Airport","NC","E","y",36.22,-81.1,1299.21,NA
+"1278","KVUJ","Albemarle, Stanly County Airport","NC","E","y",35.417,-80.151,610.236,NA
+"1279","K2C8","Cavalier Municipal Airport","ND","C","y",48.7837,-97.632,892,NA
+"1280","KBIS","Bismarck Municipal Airport","ND","C","y",46.78,-100.75,1683.07,"Bismarck"
+"1281","KBPP","Bowman Municipal Airport","ND","C","y",46.1869,-103.428,NA,NA
+"1282","KBWP","Harry Stern Airport","ND","C","y",46.233,-96.6,967.848,NA
+"1283","KD55","Robertson Field Airport","ND","C","y",48.7531,-98.3937,1608,NA
+"1284","KDIK","Dickinson Theodore Roosevelt Regional Airport","ND","M","y",46.79,-102.8,2584.97,"Dickinson"
+"1285","KDVL","Devils Lake Automatic Weather Observing/Reporting","ND","C","y",48.12,-98.9,1453.41,NA
+"1286","KFAR","Fargo, Hector International Airport","ND","C","y",46.91,-96.8,899.934,"Fargo"
+"1287","KGFK","Grand Forks International Airport","ND","C","y",47.96,-97.18,838.911,"Grand Forks"
+"1288","KHEI","Hettinger Municipal Airport","ND","M","y",46,-102.65,2703.41,NA
+"1289","KISN","Williston, Sloulin Field International Airport","ND","C","y",48.16,-103.6,1902.89,NA
+"1290","KJMS","Jamestown Municipal Airport","ND","C","y",46.93,-98.68,1492.13,"Jamestown"
+"1291","KMIB","Minot Air Force Base","ND","C","y",48.417,-101.35,1630.91,NA
+"1292","KMOT","Minot International Airport","ND","C","y",48.28,-101.28,1714.9,"Minot"
+"1293","KN60","Garrison","ND","C","y",47.61,-101.4,1925.85,NA
+"1294","KRDR","Grand Forks Air Force Base","ND","C","y",47.933,-97.383,905.84,NA
+"1295","KAFK","Nebraska City Municipal Airport","NE","C","y",40.6,-95.87,1161.42,NA
+"1296","KAHQ","Wahoo Municipal Airport","NE","C","y",41.2406,-96.5946,1224,NA
+"1297","KAIA","Alliance Municipal Airport","NE","M","y",42.05,-102.8,3930.45,NA
+"1298","KANW","Ainsworth Municipal","NE","C","y",42.59,-99.99,2588.58,NA
+"1299","KAUH","Aurora Municipal Airport","NE","C","y",40.88,-98,1797.9,NA
+"1300","KBBW","Broken Bow Municipal Airport","NE","C","y",41.44,-99.66,2545.93,NA
+"1301","KBFF","Scottsbluff, Heilig Field","NE","M","y",41.88,-103.6,3953.08,"Scottsbluff"
+"1302","KBIE","Beatrice Municipal","NE","C","y",40.3,-96.75,1322.18,NA
+"1303","KBTA","Blair Municipal Airport","NE","C","y",41.4148,-96.109,1325,NA
+"1304","KBVN","Albion Municipal Airport","NE","C","y",41.733,-98.05,1807.74,NA
+"1305","KCDR","Chadron Municipal Airport","NE","M","y",42.84,-103.08,3317.91,NA
+"1306","KCZD","Cozad Municipal Airport","NE","C","y",40.867,-100,2500,NA
+"1307","KEAR","Kearney Municipal Automatic Weather Observing","NE","C","y",40.73,-99,2129.26,NA
+"1308","KFAK","Nebraska City","NE","C","y",40.6069,-95.8644,1162,NA
+"1309","KFET","Fremont Municipal Airport","NE","C","y",41.45,-96.53,1243.44,NA
+"1310","KFNB","Falls City, Brenner Field Airport","NE","C","y",40.08,-95.58,984.252,NA
+"1311","KGRI","Grand Island, Central Nebraska Regional Airport","NE","C","y",40.98,-98.32,1859.91,"Grand Island"
+"1312","KHDE","Brewster Field Airport","NE","C","y",40.45,-99.33,2309.71,NA
+"1313","KHJH","Hebron Municipal Airport","NE","C","y",40.152,-97.587,1466.54,NA
+"1314","KHSI","Hastings Municipal Airport","NE","C","y",40.61,-98.43,1955.38,NA
+"1315","KIBM","Kimball Municipal Airport","NE","M","y",41.188,-103.677,4924.54,NA
+"1316","KIML","Imperial Municipal Airport","NE","M","y",40.54,-101.63,3273.95,NA
+"1317","KJYR","York Municipal Airport","NE","C","y",40.9,-97.62,1669.95,NA
+"1318","KK46","Blair Municipal Airport","NE","C","y",41.4181,-96.1136,1325,NA
+"1319","KLBF","North Platte Regional Airport","NE","C","y",41.14,-100.68,2778.87,"North Platte"
+"1320","KLCG","Wayne Municipal Airport","NE","C","y",42.242,-96.981,1430.45,NA
+"1321","KLNK","Lincoln Municipal Airport","NE","C","y",40.86,-96.75,1184.06,"Lincoln"
+"1322","KLXN","Lexington, Jim Kelly Field Airport","NE","C","y",40.78,-99.77,2414.7,NA
+"1323","KMCK","McCook Municipal Airport","NE","C","y",40.23,-100.58,2578.74,NA
+"1324","KMHN","Mullen / Hooker County","NE","C","y",42.05,-101.067,3261.16,NA
+"1325","KMLE","Millard Airport","NE","C","y",41.196,-96.112,1049.87,NA
+"1326","KODX","Ord, Evelyn Sharp Field Airport","NE","C","y",41.62,-98.95,2070.21,NA
+"1327","KOFF","Omaha / Offutt Air Force Base","NE","C","y",41.117,-95.917,1046.92,NA
+"1328","KOFK","Norfolk, Stefan Memorial Airport","NE","C","y",41.98,-97.43,1549.87,NA
+"1329","KOGA","Ogallala, Searle Field Airport","NE","M","y",41.05,-101.8,3274.28,NA
+"1330","KOLU","Columbus Municipal Automatic Weather Observing","NE","C","y",41.46,-97.35,1479.66,NA
+"1331","KOMA","Omaha, Eppley Airfield","NE","C","y",41.3,-95.9,981.955,"Omaha"
+"1332","KONL","O Neill (Baker Field)","NE","C","y",42.48,-98.68,2030.84,NA
+"1333","KPMV","Plattsmouth Municipal Airport","NE","C","y",40.9484,-95.9174,0,NA
+"1334","KSNY","Sidney Municipal Airport","NE","M","y",41.11,-102.98,4291.01,NA
+"1335","KTIF","Thomas County Airport","NE","C","y",41.962,-100.569,2926.51,NA
+"1336","KTQE","Tekamah Municipal Airport","NE","C","y",41.71,-96.1,1023.62,NA
+"1337","KVTN","Valentine, Miller Field","NE","C","y",42.86,-100.55,2589.9,NA
+"1338","K1P1","Plymouth Municipal Airport","NH","E","y",43.78,-71.53,505,NA
+"1339","KAFN","Jaffrey Municipal-Silver Ranch Airport","NH","E","y",42.8,-72,1040.03,NA
+"1340","KASH","Nashua / Boire Field","NH","E","y",42.79,-71.52,200.131,NA
+"1341","KBML","Berlin Municipal Airport","NH","E","y",44.59,-71.18,1158.14,NA
+"1342","KCON","Concord Municipal Airport","NH","E","y",43.21,-71.5,346.129,NA
+"1343","KDAW","Rochester, Skyhaven Airport","NH","E","y",43.278,-70.92,321.522,NA
+"1344","KEEN","Keene / Dillant Automatic Weather Observing/Report","NH","E","y",42.91,-72.27,501.969,NA
+"1345","KHIE","Whitefield, Mount Washington Regional Airport","NH","E","y",44.36,-71.53,1072.83,NA
+"1346","KLCI","Laconia Municipal Automatic Weather Observing","NH","E","y",43.58,-71.43,544.619,NA
+"1347","KLEB","Lebanon Municipal Airport","NH","E","y",43.63,-72.3,597,"Lebanon"
+"1348","KMHT","Manchester Airport","NH","E","y",42.94,-71.43,225.066,"Manchester"
+"1349","KMWN","Mount Washington","NH","E","y",44.28,-71.3,6266.4,NA
+"1350","KPSM","Pease Air Force Base / Portsmouth","NH","E","y",43.09,-70.82,101.706,"Portsmouth"
+"1351","K12N","Aeroflex-Andover Airport","NJ","E","y",41.01,-74.74,583.99,NA
+"1352","KACY","Atlantic City International Airport","NJ","E","y",39.46,-74.57,60.039,"Atlantic City"
+"1353","KBLM","Belmar-Farmingdale","NJ","E","y",40.18,-74.13,84.974,NA
+"1354","KCDW","Caldwell, Essex County Airport","NJ","E","y",40.88,-74.28,173.885,NA
+"1355","KEWR","Newark International Airport","NJ","E","y",40.71,-74.17,9.843,"New York / Newark"
+"1356","KFWN","Sussex Airport","NJ","E","y",41.21,-74.63,419.948,NA
+"1357","KMIV","Millville Municipal Airport","NJ","E","y",39.38,-75.07,69.882,NA
+"1358","KMJX","Robert J. Miller Air Park","NJ","E","y",39.9275,-74.2924,82,NA
+"1359","KMMU","Morristown Municipal","NJ","E","y",40.8,-74.42,190.289,NA
+"1360","KNEL","Lakehurst Naval Air Station","NJ","E","y",40.04,-74.32,111.877,NA
+"1361","KSMQ","Somerville, Somerset Airport","NJ","E","y",40.624,-74.669,104.987,NA
+"1362","KTEB","Teterboro Airport","NJ","E","y",40.86,-74.05,9.843,NA
+"1363","KTTN","Trenton, Mercer County Airport","NJ","E","y",40.29,-74.82,212.927,"Trenton"
+"1364","KVAY","Mount Holly, South Jersey Regional Airport","NJ","E","y",39.95,-74.84,52.493,NA
+"1365","KWRI","Mcguire Air Force Base","NJ","E","y",40.02,-74.6,147.966,NA
+"1366","KWWD","Wildwood Automatic Weather Observing / Reporting","NJ","E","y",39.01,-74.9,22.966,NA
+"1367","NWWW","La Tontouta Nlle-Caledonia","NL","G","n",-22.017,166.217,45.932,NA
+"1368","K0E0","Moriarty Airport","NM","M","y",34.9823,-106.005,6199,NA
+"1369","K4CR","Corona/Lincoln","NM","M","y",34.11,-105.68,6499.34,NA
+"1370","K4MY","Moriarty","NM","M","y",34.98,-106.05,6200.79,NA
+"1371","K4SL","Torreon","NM","M","y",36.03,-106.95,6909.45,NA
+"1372","KABQ","Albuquerque Intl Airport","NM","M","y",35.05,-106.62,5310.04,"Albuquerque"
+"1373","KAEG","Double Eagle II Apt","NM","M","y",35.15,-106.8,5836.61,NA
+"1374","KALM","Alamogordo-White","NM","M","y",32.84,-105.99,4307.74,NA
+"1375","KATS","Artesia Municipal Airport","NM","M","y",32.85,-104.47,3540.03,NA
+"1376","KAXX","Angel Fire Airport","NM","M","y",36.42,-105.29,8380,NA
+"1377","KCAO","Clayton Muni(amos)","NM","M","y",36.46,-103.15,4959.97,NA
+"1378","KCNM","Carlsbad/Cavern Cty","NM","M","y",32.34,-104.27,3231.96,NA
+"1379","KCQC","Clines Corners","NM","M","y",35,-105.66,7906.82,NA
+"1380","KCVN","Clovis Muni (awos)","NM","M","y",34.43,-103.08,4212.6,NA
+"1381","KCVS","Cannon AFB/Clovis","NM","M","y",34.39,-103.32,4294.95,NA
+"1382","KDMN","Deming Municipal","NM","M","y",32.26,-107.7,4422.57,NA
+"1383","KE33","Chama","NM","M","y",36.91,-106.57,7851.05,NA
+"1384","KE80","Alexander Municipal (Belen)","NM","M","y",34.645,-106.834,5194,NA
+"1385","KFMN","Farmington Regional","NM","M","y",36.76,-108.23,5495.08,NA
+"1386","KGNT","Grants-Milan Municipal Airport","NM","M","y",35.18,-107.9,6520.01,NA
+"1387","KGUP","Gallup Muni/Clarke","NM","M","y",35.53,-108.78,6465.88,NA
+"1388","KHMN","Holloman AFB","NM","M","y",32.86,-106.1,4094.49,NA
+"1389","KHOB","Hobbs/Lea Co.","NM","M","y",32.69,-103.2,3654.86,"Hobbs"
+"1390","KLAM","Los Alamos Airport","NM","M","y",35.883,-106.283,7171.92,NA
+"1391","KLRU","Las Cruces Intl Airport","NM","M","y",32.3,-106.77,4570.21,NA
+"1392","KLVS","Las Vegas Municipal","NM","M","y",35.66,-105.15,6866.14,NA
+"1393","KONM","Socorro Municipal Airport","NM","M","Y",34.0225,-106.903,4875,NA
+"1394","KROW","Roswell/Industrial","NM","M","y",33.31,-104.51,3648.95,"Roswell"
+"1395","KRTN","Raton Municipal Crews Field","NM","M","y",36.74,-104.5,6349.08,NA
+"1396","KSAF","Santa Fe County Municipal Airport","NM","M","y",35.62,-106.08,6344.16,"Santa Fe"
+"1397","KSKX","Taos Muni Apt(awos)","NM","M","y",36.46,-105.67,7089.9,NA
+"1398","KSRR","Ruidoso Regional","NM","M","y",33.36,-105.67,6817.58,NA
+"1399","KSVC","Silver City/Grant","NM","M","y",32.64,-108.16,5376.97,NA
+"1400","KTCC","Tucumcari Municipal","NM","M","y",35.19,-103.6,4050.85,NA
+"1401","KTCS","Truth Or Consequenc","NM","M","y",33.23,-107.27,4850.07,NA
+"1402","K9BB","Wells","NV","P","y",41.16,-114.97,5679.13,NA
+"1403","KAWH","Wildhorse Res/Elko","NV","P","y",41.67,-115.79,6240.16,NA
+"1404","KB23","Battle Mountain","NV","P","y",40.61,-116.87,4540.03,NA
+"1405","KBJN","Tonopah Range #74 Nellis AFB","NV","P","y",37.617,-116.25,5761.15,NA
+"1406","KDRA","Mercury/Desert Rock","NV","P","y",36.62,-116.02,3300.85,NA
+"1407","KEKO","Elko","NV","P","y",40.825,-115.792,5080.05,"Elko"
+"1408","KELY","Ely/Yelland Field","NV","P","y",39.295,-114.845,6262.14,NA
+"1409","KHND","Las Vegas-Henderson Airport","NV","P","y",35.976,-115.133,2457.35,NA
+"1410","KHTH","Hawthorne Municipal Airport","NV","P","y",38.55,-118.633,4215.88,NA
+"1411","KINS","Creech AFB, Indian Springs","NV","P","y",36.583,-115.667,3133.2,NA
+"1412","KLAS","Las Vegas/Mccarran","NV","P","y",36.0789,-115.155,2162.07,"Las Vegas"
+"1413","KLOL","Lovelock/Derby Fld","NV","P","y",40.0664,-118.565,3899.93,NA
+"1414","KLSV","Nellis AFB","NV","P","y",36.23,-115.03,1879.92,NA
+"1415","KNFL","Fallon Nas","NV","P","y",39.4322,-118.686,3934.05,NA
+"1416","KOWY","Owyhee","NV","P","y",41.95,-116.1,5396.98,NA
+"1417","KP38","Caliente (amos)","NV","P","y",37.617,-114.517,4379.92,NA
+"1418","KP68","Eureka (ramos)","NV","P","y",39.6014,-116.006,6538.71,NA
+"1419","KRNO","Reno Tahoe International Airport","NV","P","y",39.4839,-119.771,4493.11,"Reno"
+"1420","KTPH","Tonopah Airport","NV","P","y",38.0603,-117.087,5430.12,NA
+"1421","KU31","Austin","NV","P","y",39.5,-117.083,6607.61,NA
+"1422","KVGT","North Las Vegas","NV","P","y",36.21,-115.2,2201.44,NA
+"1423","KWMC","Winnemucca Muni","NV","P","y",40.9019,-117.807,4296.92,NA
+"1424","KALB","Albany International Airport","NY","E","y",42.76,-73.8,291.995,"Albany"
+"1425","KART","Watertown International Airport","NY","E","y",44.01,-76.02,317.913,"Watertown"
+"1426","KBGM","Binghamton Regional Airport","NY","E","y",42.23,-75.98,1600.07,"Binghamton"
+"1427","KBUF","Greater Buffalo International Airport","NY","E","y",42.94,-78.73,711.942,"Buffalo"
+"1428","KDKK","Chautauqua County / Dunkirk Airport","NY","E","y",42.5,-79.28,666.01,NA
+"1429","KDSV","Dansville Municipal Airport","NY","E","y",42.567,-77.717,659.449,NA
+"1430","KELM","Elmira / Corning Regional Airport","NY","E","y",42.18,-76.9,955.052,"Elmira"
+"1431","KELZ","Wellsville Municipal Airport","NY","E","y",42.1,-77.983,2119.42,NA
+"1432","KFOK","Westhampton Beach, The Gabreski Airport","NY","E","y",40.84,-72.63,66.929,NA
+"1433","KFRG","Farmingdale, Republic Airport","NY","E","y",40.73,-73.41,85.302,NA
+"1434","KFZY","Fulton, Oswego County Airport","NY","E","y",43.36,-76.39,475.722,NA
+"1435","KGFL","Glens Falls, Warren County Airport","NY","E","y",43.36,-73.62,320.866,NA
+"1436","KGTB","Fort Drum / Wheeler-Sack U. S. Army Airfield","NY","E","y",44.05,-75.74,679.134,NA
+"1437","KHPN","White Plains, Westchester County Airport","NY","E","y",41.08,-73.72,399.934,"White Plains"
+"1438","KHTO","East Hampton Airport","NY","E","y",40.98,-72.25,55.774,NA
+"1439","KHWV","Shirley, Brookhaven Airport","NY","E","y",40.817,-72.867,82.021,NA
+"1440","KIAG","Niagara Falls International Airport","NY","E","y",43.11,-78.95,590.879,"Niagara Falls"
+"1441","KISP","Islip, Long Island Mac Arthur Airport","NY","E","y",40.8,-73.1,83.99,"Islip"
+"1442","KITH","Ithaca / Tompkins County","NY","E","y",42.48,-76.47,1099.08,"Ithaca"
+"1443","KJFK","New York/John F. Kennedy Intl Airport","NY","E","y",40.66,-73.78,25.919,"New York"
+"1444","KJHW","Jamestown Automatic Weather Observing / Reporting","NY","E","y",42.16,-79.25,1722.44,NA
+"1445","KLGA","New York, La Guardia Airport","NY","E","y",40.78,-73.88,11.155,"New York"
+"1446","KMGJ","Montgomery, Orange County Airport","NY","E","y",41.51,-74.26,364.173,NA
+"1447","KMSS","Massena International-Richards Field","NY","E","y",44.94,-74.85,213.911,NA
+"1448","KMSV","Monticello Automatic Weather Observing / Reporting","NY","E","y",41.71,-74.8,1404.2,NA
+"1449","KMTP","Montauk Airport","NY","E","y",41.08,-71.92,6.562,NA
+"1450","KNYC","New York City, Central Park","NY","E","y",40.783,-73.967,144.029,NA
+"1451","KPBG","Plattsburgh International Airport","NY","E","y",44.6509,-73.4681,271,"Plattsburgh"
+"1452","KPEO","Penn Yan Airport","NY","E","y",42.65,-77.05,902.231,NA
+"1453","KPOU","Poughkeepsie, Dutchess County Airport","NY","E","y",41.64,-73.88,154.856,NA
+"1454","KRME","Rome Griffiss Airfield","NY","E","y",43.234,-75.407,504,NA
+"1455","KROC","Greater Rochester International Airport","NY","E","y",43.12,-77.67,600.066,"Rochester"
+"1456","KSCH","Schenectady Airport","NY","E","y",42.86,-73.93,331.037,NA
+"1457","KSLK","Saranac Lake, Adirondack Regional Airport","NY","E","y",44.39,-74.2,1706.04,NA
+"1458","KSWF","Newburgh / Stewart","NY","E","y",41.51,-74.1,581.037,"Newburgh"
+"1459","KSYR","Syracuse Hancock International Airport","NY","E","y",43.12,-76.12,403.871,"Syracuse"
+"1460","KUCA","Utica, Oneida County Airport","NY","E","y",43.16,-75.38,711.942,NA
+"1461","KAKR","Akron Fulton International Airport","OH","E","y",41.033,-81.467,1043.96,NA
+"1462","KAOH","Lima Allen County Airport","OH","E","y",40.71,-84.03,971.129,NA
+"1463","KBJJ","Wooster, Wayne County Airport","OH","E","y",40.87,-81.89,1135.17,NA
+"1464","KBKL","Cleveland/Burke Lakefront","OH","E","y",41.52,-81.68,597.113,NA
+"1465","KCAK","Akron-Canton Regional Airport","OH","E","y",40.93,-81.43,1208.01,"Akron"
+"1466","KCGF","Cleveland / Cuyahoga","OH","E","y",41.58,-81.48,902.231,NA
+"1467","KCLE","Cleveland-Hopkins International Airport","OH","E","y",41.42,-81.85,813.976,"Cleveland"
+"1468","KCMH","Port Columbus International Airport","OH","E","y",40.01,-82.88,833.005,"Columbus"
+"1469","KDAY","Cox Dayton International Airport","OH","E","y",39.91,-84.2,1026.9,"Dayton"
+"1470","KDFI","Defiance Memorial Airport","OH","E","y",41.34,-84.43,718.504,NA
+"1471","KFDY","Findlay Airport","OH","E","y",41.03,-83.67,799.869,NA
+"1472","KFFO","Dayton / Wright-Patterson Air Force Base","OH","E","y",39.84,-84.05,819.882,NA
+"1473","KHAO","Hamilton, Butler County Regional Airport","OH","E","y",39.36,-84.52,633.202,NA
+"1474","KHZY","Ashtabula County Airport","OH","E","y",41.779,-80.697,921.916,NA
+"1475","KILN","Wilmington, Airborne Airpark Airport","OH","E","y",39.43,-83.8,1077.1,NA
+"1476","KLCK","Rickenbacker Air National Guard Base","OH","E","y",39.83,-82.93,754.921,"Columbus"
+"1477","KLHQ","Lancaster, Fairfield County Airport","OH","E","y",39.75,-82.67,866.142,NA
+"1478","KLPR","Lorain County Regional Airport","OH","E","y",41.346,-82.179,793.963,NA
+"1479","KLUK","Cincinnati Municipal Airport Lunken Field","OH","E","y",39.1,-84.42,490.157,NA
+"1480","KMFD","Mansfield Lahm Municipal Airport","OH","E","y",40.83,-82.52,1301.84,NA
+"1481","KMGY","Dayton General Airport South Airport","OH","E","y",39.59,-84.22,961.286,NA
+"1482","KMNN","Marion Municipal Airport","OH","E","y",40.62,-83.06,994.094,NA
+"1483","KMWO","Hook Field Municipal Airport","OH","E","y",0,0,NA,NA
+"1484","KOSU","Columbus, Ohio State University Airport","OH","E","y",40.09,-83.07,928.478,NA
+"1485","KPHD","New Philadelphia, Harry Clever Field","OH","E","y",40.47,-81.42,892.388,NA
+"1486","KSGH","Springfield-Beckley Municipal Airport","OH","E","y",39.833,-83.833,1060.04,NA
+"1487","KTDZ","Toledo, Metcalf Field","OH","E","y",41.56,-83.48,620.079,NA
+"1488","KTOL","Toledo Express Airport","OH","E","y",41.61,-83.8,668.963,"Toledo"
+"1489","KTZR","Columbus, Bolton Field Airport","OH","E","y",39.9,-83.13,918.635,NA
+"1490","KVTA","Newark Heath Airport","OH","E","y",40.023,-82.462,882.546,NA
+"1491","KYNG","Youngstown-Warren Regional Airport","OH","E","y",41.27,-80.67,1180.12,NA
+"1492","KZZV","Zanesville Municipal Airport","OH","E","y",39.96,-81.9,879.921,NA
+"1493","K1F0","Ardmore Downtown Executive Airport","OK","C","y",34.15,-97.12,843.176,NA
+"1494","K4O4","Mc Curtain County Regional Airport","OK","C","y",33.9,-94.867,472.441,NA
+"1495","KADH","Ada Municipal Airport","OK","C","y",34.804,-96.671,1017.06,NA
+"1496","KADM","Ardmore Municipal","OK","C","y",34.3,-97.02,761.155,NA
+"1497","KAQR","Atoka Municipal Airport","OK","C","y",34.4,-96.15,589.895,NA
+"1498","KAVK","Alva Regional Airport","OK","C","y",36.77,-98.67,1473.1,NA
+"1499","KAXS","Altus/Quartz Mountain Regional Airport","OK","C","y",34.7,-99.333,1433.73,NA
+"1500","KBKN","Blackwell-Tonkawa Municipal Airport","OK","C","Y",36.7451,-97.3496,1030,NA
+"1501","KBVO","Bartlesville Municipal Airport","OK","C","y",36.76,-96.01,715.223,NA
+"1502","KCHK","Chickasha Municipal Airport","OK","C","y",35.1,-97.97,1151.57,NA
+"1503","KCLK","Clinton Regional Airport","OK","C","y",35.533,-98.933,1614.17,NA
+"1504","KCQB","Chandler Municipal Airport","OK","C","y",35.72,-96.82,984.252,NA
+"1505","KCSM","Clinton-Sherman Airport","OK","C","y",35.36,-99.2,1922.57,NA
+"1506","KCUH","Cushing Municipal Airport","OK","C","y",35.95,-96.767,915.354,NA
+"1507","KDKR","Houston County Airport","OK","C","y",31.3069,-95.4036,NA,NA
+"1508","KDUA","Durant/Eaker Field Airport","OK","C","y",33.94,-96.39,698.819,NA
+"1509","KDUC","Duncan/Halliburton Field Airport","OK","C","y",34.47,-97.96,1112.2,NA
+"1510","KEND","Vance Air Force Base / Enid","OK","C","y",36.333,-97.917,1338.58,NA
+"1511","KFDR","Frederick Municipal Airport","OK","C","y",34.35,-98.98,1236.88,NA
+"1512","KFSI","Fort Sill","OK","C","y",34.65,-98.383,1204.07,NA
+"1513","KGAG","Gage Airport","OK","C","y",36.3,-99.77,2190.95,NA
+"1514","KGCM","Claremore Regional Airport","OK","C","y",36.29,-95.48,725.066,NA
+"1515","KGMJ","Grove Municipal Airport","OK","C","y",36.605,-94.738,833.333,NA
+"1516","KGOK","Guthrie-Edmond Regional Airport","OK","C","y",35.85,-97.42,1072.83,NA
+"1517","KGUY","Guymon / Guymon Municipal Airport","OK","C","y",36.69,-101.51,3123.36,NA
+"1518","KHBR","Hobart Municipal Airport","OK","C","y",35.01,-99.05,1569.88,NA
+"1519","KJSV","Sallisaw Municipal Airport","OK","C","y",35.44,-94.8,528.215,NA
+"1520","KJWG","Watonga Airport","OK","C","y",35.86,-98.42,1548.56,NA
+"1521","KLAW","Lawton-Fort Sill Regional Airport","OK","C","y",34.57,-98.42,1108.92,"Lawton"
+"1522","KLTS","Altus Air Force Base","OK","C","y",34.8,-99,1357.94,NA
+"1523","KMKO","Muskogee, Davis Field","OK","C","y",35.66,-95.36,610.236,NA
+"1524","KMLC","McAlester Regional Airport","OK","C","y",34.89,-95.78,759.843,NA
+"1525","KOJA","Thomas P Stafford Airport","OK","C","y",35.5448,-98.6685,1605,NA
+"1526","KOKC","Oklahoma City, Will Rogers World Airport","OK","C","y",35.41,-97.6,1279.86,"Oklahoma City"
+"1527","KOKM","Okmulgee Regional Airport","OK","C","y",35.67,-95.95,721.785,NA
+"1528","KOUN","Norman / Max Westheimer","OK","C","y",35.246,-97.472,1184.38,NA
+"1529","KPNC","Ponca City Municipal Airport","OK","C","y",36.73,-97.1,999.016,NA
+"1530","KPVJ","Pauls Valley Municipal Airport","OK","C","y",34.711,-97.223,967.848,NA
+"1531","KPWA","Oklahoma City, Wiley Post Airport","OK","C","y",35.54,-97.65,1299.21,NA
+"1532","KRCE","Clarence E Page Municipal Airport","OK","C","Y",35.4881,-97.8236,1354,NA
+"1533","KRKR","Poteau/Robert S. Kerr Airport","OK","C","y",35.022,-94.621,452.756,NA
+"1534","KRQO","El Reno Municipal Air Park","OK","C","y",35.4725,-98.0056,NA,NA
+"1535","KRVS","Tulsa, Jones Jr. Airport","OK","C","y",36.04,-95.98,633.202,NA
+"1536","KSNL","Shawnee Municipal Airport","OK","C","y",35.36,-96.94,1072.83,NA
+"1537","KSRE","Seminole Municipal Airport","OK","C","y",35.2744,-96.675,1024,NA
+"1538","KSWO","Stillwater Regional Airport","OK","C","y",36.16,-97.09,1010.5,"Stillwater"
+"1539","KTIK","Tinker Air Force Base","OK","C","y",35.417,-97.383,1259.84,NA
+"1540","KTQH","Tahlequah Municipal Airport","OK","C","y",35.93,-95,872.703,NA
+"1541","KTUL","Tulsa International Airport","OK","C","y",36.2,-95.88,649.934,"Tulsa"
+"1542","KWDG","Enid / Woodring Municipal","OK","C","y",36.39,-97.8,1167.98,NA
+"1543","KWWR","West Woodward","OK","C","y",36.44,-99.52,2188.32,NA
+"1544","K2SL","Sea Lion Caves","OR","P","y",0,0,NA,NA
+"1545","K3CL","Clatsop Spit","OR","P","y",0,0,NA,NA
+"1546","K4BK","Brookings","OR","P","y",42.05,-124.283,45.932,NA
+"1547","K5J0","John Day State Arpt","OR","P","y",44.42,-118.95,3697.51,NA
+"1548","K92S","Cape Blanco (cgs)","OR","P","y",42.833,-124.567,187.008,NA
+"1549","KAST","Astoria/Clatsop","OR","P","y",46.16,-123.88,9.843,NA
+"1550","KBKE","Baker Municipal","OR","P","y",44.84,-117.82,3368.11,NA
+"1551","KBNO","Burns Muni (amos)","OR","P","y",43.58,-118.95,4169.95,NA
+"1552","KBOK","Brookings Airport","OR","P","y",42.083,-124.283,459.318,NA
+"1553","KCVO","Corvallis Muni Awos","OR","P","y",44.51,-123.29,252.625,NA
+"1554","KCZK","Cascade Locks State","OR","P","y",45.69,-121.88,150.919,NA
+"1555","KDLS","The Dalles Muni","OR","P","y",45.62,-121.15,240.157,NA
+"1556","KEUG","Eugene/Mahlon Sweet","OR","P","y",44.12,-123.22,354.987,"Eugene"
+"1557","KFCG","Florence","OR","P","y",0,0,NA,NA
+"1558","KGAR","Garibaldi","OR","P","y",0,0,NA,NA
+"1559","KGCD","Grant County Regional Airport/Ogilvie Field","OR","P","y",44.4029,-118.968,3703,NA
+"1560","KHIO","Portland/Hillsboro","OR","P","y",45.54,-122.95,203.412,NA
+"1561","KHRI","Hermiston (was S22)","OR","P","y",45.826,-119.261,639.764,NA
+"1562","KJNW","Newport","OR","P","y",44.583,-124.067,157.48,NA
+"1563","KLGD","La Grande (awos)","OR","P","y",45.283,-118,2712.93,NA
+"1564","KLKV","Lakeview (awos)","OR","P","y",42.19,-120.35,4727.69,NA
+"1565","KLMT","Klamath Falls/Kings","OR","P","y",42.16,-121.73,4083.99,NA
+"1566","KMEH","Meacham (amos)","OR","P","y",45.51,-118.4,3723.1,NA
+"1567","KMFR","Medford/Jackson Co.","OR","P","y",42.38,-122.87,1299.87,"Medford"
+"1568","KMMV","Mcminnville Municipal Airport","OR","P","y",45.19,-123.14,167.323,NA
+"1569","KONO","Ontario Municipal","OR","M","y",44.02,-117.01,2189.96,NA
+"1570","KONP","Newport Municip","OR","P","y",44.58,-124.05,140.092,NA
+"1571","KOTH","North Bend (awos)","OR","P","y",43.43,-124.25,5.906,"North Bend"
+"1572","KPDT","Pendleton Municipal","OR","P","y",45.69,-118.85,1493.11,NA
+"1573","KPDX","Portland Intl Arpt","OR","P","y",45.58,-122.6,39.042,"Portland"
+"1574","KRBG","Roseburg Municipal","OR","P","y",43.23,-123.35,524.934,NA
+"1575","KRDM","Redmond (awos)","OR","P","y",44.28,-121.15,3050.85,"Redmond"
+"1576","KREO","Rome","OR","M","y",42.58,-117.89,4049.87,NA
+"1577","KS47","Tillamook Municipal Airport","OR","P","y",45.417,-123.817,36.089,NA
+"1578","KSLE","Salem/Mcnary","OR","P","y",44.93,-123.02,200.131,NA
+"1579","KSPB","Scappoose Industrial Apk (1s4)","OR","P","y",45.769,-122.862,52.493,NA
+"1580","KSXT","Sexton Summit(amos)","OR","P","y",42.62,-123.37,3832.02,NA
+"1581","KTTD","Portland/Troutdale","OR","P","y",45.55,-122.4,36.089,NA
+"1582","KUAO","Aurora State","OR","P","y",45.25,-122.77,196.85,NA
+"1583","KABE","Allentown Lehigh Valley International Airport","PA","E","y",40.66,-75.43,390.092,"Allentown"
+"1584","KAFJ","Washington Automatic Weather Observing / Reporting","PA","E","y",40.14,-80.29,1184.38,NA
+"1585","KAGC","Pittsburgh, Allegheny County Airport","PA","E","y",40.36,-79.94,1248.03,NA
+"1586","KAOO","Altoona-Blair County Airport","PA","E","y",40.3,-78.32,1479.99,NA
+"1587","KAVP","Wilkes-Barre / Scranton Intl Airport","PA","E","y",41.33,-75.73,930.118,"Wilkes-Barre"
+"1588","KBFD","Bradford Regional Airport","PA","E","y",41.8,-78.64,2117.13,NA
+"1589","KBTP","Butler County Automatic Weather Observing / Report","PA","E","y",40.79,-79.95,1246.72,NA
+"1590","KBVI","Beaver Falls Airport","PA","E","y",40.76,-80.33,1253.28,NA
+"1591","KCXY","Harrisburg, Capital City Airport","PA","E","y",40.23,-76.85,348.097,NA
+"1592","KDUJ","DuBois Regional Airport","PA","E","y",41.19,-78.9,1813.98,NA
+"1593","KDYL","Doylestown Airport","PA","E","y",40.33,-75.12,393.701,NA
+"1594","KERI","Erie International Airport","PA","E","y",42.08,-80.18,729.987,"Erie"
+"1595","KFIG","Clearfield-Lawrence Airport","PA","E","y",41.047,-78.412,1515.75,NA
+"1596","KFKL","Franklin Automatic Weather Observing / Reporting","PA","E","y",41.39,-79.87,1541.99,NA
+"1597","KGKJ","Port Meadville Airport","PA","E","y",41.62,-80.21,1400.92,NA
+"1598","KIDI","Indiana / Stewart Field","PA","E","y",40.63,-79.1,1407.48,NA
+"1599","KIPT","Williamsport-Lycoming County Airport","PA","E","y",41.26,-76.92,520.013,"Williamsport"
+"1600","KJST","Johnstown-Cambria County Airport","PA","E","y",40.33,-78.83,2279.86,NA
+"1601","KLBE","Latrobe/Westmoreland","PA","E","y",40.29,-79.4,1213.91,"Latrobe"
+"1602","KLNS","Lancaster Airport","PA","E","y",40.12,-76.3,413.386,NA
+"1603","KLOM","Wings Field Airport","PA","E","y",40.138,-75.265,301.837,NA
+"1604","KMDT","Harrisburg International Airport","PA","E","y",40.21,-76.77,303.15,"Harrisburg"
+"1605","KMPO","Pocono Mountains Municipal Airport","PA","C","y",41.14,-75.38,1916.01,NA
+"1606","KMUI","Muir Army Air Field / Indiantown","PA","E","y",40.44,-76.57,501.969,NA
+"1607","KNXX","Willow Grove, Naval Air Station","PA","E","y",40.19,-75.13,334.974,NA
+"1608","KPHL","Philadelphia International Airport","PA","E","y",39.87,-75.23,4.921,"Philadelphia"
+"1609","KPIT","Pittsburgh International Airport","PA","E","y",40.51,-80.22,1149.93,"Pittsburgh"
+"1610","KPNE","Northeast Philadelphia Airport","PA","E","y",40.09,-75.02,100.066,NA
+"1611","KPTW","Pottstown Limerick Airport","PA","E","y",40.24,-75.56,291.995,NA
+"1612","KRDG","Reading Regional/Carl A. Spaatz Field Airport","PA","E","y",40.39,-75.97,340.879,NA
+"1613","KRYT","Krout Airport","PA","E","y",0,0,NA,NA
+"1614","KSEG","Selinsgrove, Penn Valley Airport","PA","E","y",40.82,-76.86,443.898,NA
+"1615","KTHV","York Airport","PA","E","y",39.92,-76.87,472.441,NA
+"1616","KUCP","New Castle Municipal Airport","PA","E","Y",41.0254,-80.4134,1070,NA
+"1617","KUKT","Quakertown Airport","PA","E","y",40.435,-75.382,524.934,NA
+"1618","KUNV","State College","PA","E","y",40.86,-77.83,1240.16,"State College"
+"1619","NTAA","Tahiti-Faaa","PF","H","n",-17.55,-149.617,9.843,NA
+"1620","TDPD","Melville Hall Airport","PR","A","n",15.533,-61.3,45.932,NA
+"1621","TFFR","La Raizet Guadeloupe","PR","A","n",16.267,-61.6,26.247,NA
+"1622","TJBQ","Aquadilla (Boriquen)","PR","A","n",18.5,-67.13,236.22,"Aguadilla"
+"1623","TJMZ","Mayaguez","PR","A","n",18.27,-67.15,29.528,NA
+"1624","TJNR","Roosevelt Roads Naval Station","PR","A","n",18.25,-65.633,38.058,NA
+"1625","TJPS","Ponce","PR","A","n",18.02,-66.57,26.247,"Ponce"
+"1626","TJSJ","Luis Muñoz Marín International Airport","PR","A","n",18.43,-66,8.858,"San Juan / Carolina"
+"1627","TNCB","Bonaire/Flamingo","PR","A","n",12.15,-68.283,22.966,NA
+"1628","TNCC","Curacao/Aeropuerto Hato","PR","A","n",12.2,-68.967,29.528,NA
+"1629","TNCE","St. Eustatius/F.D.Roosevelt","PR","A","n",17.483,-62.983,131.234,NA
+"1630","TNCM","St. Maarten/Princess Juliana","PR","A","n",18.033,-63.117,13.123,NA
+"1631","TXKF","Burmuda","PR","A","n",32.367,-64.683,20.013,NA
+"1632","PTKR","Koror","PW","U","n",7.27,134.45,98.425,NA
+"1633","PTRO","Babelthuap/Koror","PW","U","n",7.33,134.48,94.16,NA
+"1634","KBID","Block Island Automatic Weather Observing / Report","RI","E","y",41.18,-71.58,108.268,"Block Island"
+"1635","KOQU","North Kingstown/Quonset State","RI","E","y",41.61,-71.42,19.685,NA
+"1636","KPVD","Providence, Green State Airport","RI","E","y",41.73,-71.43,65.945,"Providence"
+"1637","KSFZ","Smithfield","RI","E","y",41.91,-71.4,439.633,NA
+"1638","KUUU","Newport State Airport","RI","E","y",41.54,-71.28,170.604,NA
+"1639","KWST","Westerly State Airport","RI","E","y",41.35,-71.8,78.74,"Westerly"
+"1640","KAND","Anderson County Airport","SC","E","y",34.51,-82.72,759.843,NA
+"1641","KCAE","Columbia Metropolitan Airport","SC","E","y",33.96,-81.12,212.927,"Columbia"
+"1642","KCEU","Clemson-Oconee County Airport","SC","E","y",34.667,-82.867,889.108,NA
+"1643","KCHS","Charleston Air Force Base","SC","E","y",32.91,-80.03,59.055,"Charleston"
+"1644","KCKI","Williamsburg Regional Airport","SC","E","y",33.7172,-79.857,67,NA
+"1645","KCRE","North Myrtle Beach, Grand Strand Airport","SC","E","y",33.81,-78.72,33.136,NA
+"1646","KCUB","Jim Hamilton-L.B.Owens Airport","SC","E","y",33.99,-81,211.942,NA
+"1647","KDYB","Summerville Airport","SC","E","Y",33.0634,-80.2793,56,NA
+"1648","KFLO","Florence Regional Airport","SC","E","y",34.19,-79.72,145.997,"Florence"
+"1649","KGGE","Georgetown County Airport","SC","E","y",33.3114,-79.3203,40,NA
+"1650","KGMU","Greenville Downtown Airport","SC","E","y",34.85,-82.35,1047.9,NA
+"1651","KGRD","Greenwood County Airport","SC","E","y",34.233,-82.15,629.921,NA
+"1652","KGSP","Greer, Greenville-Spartanburg Airport","SC","E","y",34.91,-82.22,957.021,"Greenville"
+"1653","KGYH","Donaldson Center Airport","SC","E","y",34.75,-82.367,954.724,NA
+"1654","KHVS","Hartsville Regional Airport","SC","E","Y",34.4031,-80.1192,364,NA
+"1655","KHXD","Hilton Head Airport","SC","E","y",32.232,-80.7,0,"Hilton Head"
+"1656","KHYW","Conway-Horry County Airport","SC","E","y",33.8285,-79.1222,35,NA
+"1657","KMAO","Marion County Airport","SC","E","y",34.1812,-79.3347,92,NA
+"1658","KMMT","McEntire Air National Guard Weather Facility Base","SC","E","y",33.93,-80.8,243.11,NA
+"1659","KMYR","Myrtle Beach International Airport","SC","E","y",33.69,-78.93,25.919,"Myrtle Beach"
+"1660","KNBC","Beaufort, Marine Corps Air Station","SC","E","y",32.48,-80.72,48.885,NA
+"1661","KOGB","Orangeburg Municipal Airport","SC","E","y",33.47,-80.85,196.85,NA
+"1662","KSSC","Shaw Air Force Base","SC","E","y",33.98,-80.47,243.11,NA
+"1663","KUDG","Darlington County Jetport Airport","SC","E","y",34.45,-79.883,193.57,NA
+"1664","KUZA","Rock Hill - York County Airport","SC","E","y",34.984,-81.056,669.291,NA
+"1665","K2WX","Buffalo","SD","M","y",45.57,-103.53,2890.42,NA
+"1666","K8D3","Sisseton Municipal Airport","SD","C","y",45.67,-97,1161.42,NA
+"1667","K9V9","Chamberlain Municipal Airport","SD","C","y",43.8,-99.32,1738.84,NA
+"1668","KABR","Aberdeen Regional Airport","SD","C","y",45.46,-98.43,1306.1,"Aberdeen"
+"1669","KATY","Watertown Municipal Airport","SD","C","y",44.92,-97.16,1746.06,"Watertown"
+"1670","KBKX","Brookings Automatic Weather Observing / Reporting","SD","C","y",44.3,-96.8,1646.98,NA
+"1671","KCUT","Custer County Airport","SD","M","y",43.733,-103.618,5600.39,NA
+"1672","KD07","Faith","SD","M","y",45.04,-102.02,2582.02,NA
+"1673","KEFC","Belle Fourche Municipal Airport","SD","M","y",44.71,-103.8,269.029,NA
+"1674","KFSD","Sioux Falls, Foss Field","SD","C","y",43.59,-96.74,1434.06,"Sioux Falls"
+"1675","KHON","Huron Regional Airport","SD","C","y",44.39,-98.22,1280.84,NA
+"1676","KICR","Winner Regional Airport","SD","C","y",43.38,-99.85,2040.68,NA
+"1677","KIEN","Pine Ridge Airport","SD","M","y",43.01,-102.51,3330.05,NA
+"1678","KMBG","Mobridge Municipal Airport","SD","C","y",45.55,-100.41,1666.67,NA
+"1679","KMDS","Madison Municipal Airport","SD","C","y",44.0164,-97.0856,1718,NA
+"1680","KMHE","Mitchell Municipal Airport","SD","C","y",43.77,-98.04,1302.49,NA
+"1681","KPHP","Philip Airport","SD","M","y",44.05,-101.6,2208,NA
+"1682","KPIR","Pierre Regional Airport","SD","C","y",44.39,-100.28,1723.1,"Pierre"
+"1683","KRAP","Rapid City Regional Airport","SD","M","y",44.05,-103.07,3160.1,"Rapid City"
+"1684","KRCA","Ellsworth Air Force Base","SD","M","y",44.15,-103.1,3214.9,NA
+"1685","KSPF","Black Hills Airport-Clyde Ice Field","SD","M","y",44.4803,-103.783,3931,NA
+"1686","KYKN","Yankton Automatic Weather Observing/Reporting Sys","SD","C","y",42.92,-97.38,1338.58,NA
+"1687","KBNA","Nashville International Airport","TN","C","y",36.12,-86.68,581.037,"Nashville"
+"1688","KCHA","Chattanooga, Lovell Field","TN","E","y",35.04,-85.2,688.976,"Chattanooga"
+"1689","KCKV","Outlaw Field Airport","TN","C","y",36.6219,-87.4149,550,NA
+"1690","KCSV","Crossville Memorial-Whitson Field Airport","TN","C","y",35.96,-85.08,1867.13,NA
+"1691","KDYR","Dyersburg Automatic Weather Observing / Reporting","TN","C","y",36.03,-89.4,336.942,NA
+"1692","KMEM","Memphis International Airport","TN","C","y",35.04,-89.98,282.152,"Memphis"
+"1693","KMKL","Jackson, McKellar-Sipes Regional Airport","TN","C","y",35.61,-88.92,433.071,NA
+"1694","KMQY","Smyrna","TN","C","y",36.01,-86.5,557.743,NA
+"1695","KMRX","Morristown Nexrad","TN","E","y",36.167,-83.4,1433.73,NA
+"1696","KNQA","Millington Municipal Airport","TN","C","y",35.36,-89.87,294.948,NA
+"1697","KOQT","Oak Ridge","TN","E","y",36.02,-84.23,910.105,NA
+"1698","KTRI","Tri-Cities Airport","TN","E","y",36.48,-82.4,1500,"Tri-Cities"
+"1699","KTYS","Knoxville, McGhee Tyson Airport","TN","E","y",35.81,-83.98,961.942,"Knoxville"
+"1700","NFTF","Fau Amotu","TO","T","n",-21.233,-175.15,134.514,NA
+"1701","NFTV","Vavu International","TO","T","n",-18.583,-173.95,242.782,NA
+"1702","TTCP","Crown Pt./Scarborou","TT","A","n",11.15,-60.833,36.089,NA
+"1703","TTPP","Piarco Intl Airport/Trinidad","TT","A","n",10.617,-61.35,49.213,NA
+"1704","NGFU","Funafuti","TV","R","n",-8.533,179.217,6.89,NA
+"1705","K0F2","Bowie Municipal Airport","TX","C","y",33.6017,-97.7756,1101,NA
+"1706","K11R","Brenham Municipal Airport","TX","C","y",30.219,-96.374,308.399,NA
+"1707","K2R8","Mustang Beach Airport","TX","C","y",27.817,-97.083,6.562,NA
+"1708","K3R0","Beeville Municipal Airport","TX","C","y",28.36,-97.79,NA,NA
+"1709","K3T5","La Grange","TX","C","y",29.91,-96.95,324.803,NA
+"1710","K6R3","Liberty County","TX","C","Y",30.214,-95.005,150,NA
+"1711","K6R6","Dryden Terrell County Airport","TX","C","y",30.422,-102.278,2319.55,NA
+"1712","KABI","Abilene Regional Airport","TX","C","y",32.43,-99.68,1790.03,"Abilene"
+"1713","KACT","Waco Regional Airport","TX","C","y",31.62,-97.22,577.1,"Waco"
+"1714","KADS","Dallas / Addison Airport","TX","C","y",32.98,-96.83,643.045,NA
+"1715","KAFW","Fort Worth Alliance Airport","TX","C","y",32.98,-97.32,741.47,NA
+"1716","KALI","Alice International Airport","TX","C","y",27.74,-98.04,172.9,NA
+"1717","KAMA","Rick Husband Amarillo Intl Airport","TX","C","y",35.23,-101.7,3585.96,"Amarillo"
+"1718","KAPY","Zapata County Airport","TX","C","Y",26.9688,-99.2489,422,NA
+"1719","KAQO","Llano Municipal Airport","TX","C","y",30.7837,-98.662,1102,NA
+"1720","KARM","Wharton Regional Airport","TX","C","y",29.25,-96.117,101.706,NA
+"1721","KASL","Marshall, TX","TX","C","y",32.52,-94.31,357,NA
+"1722","KATT","Camp Mabry / Austin City","TX","C","y",30.32,-97.77,621.063,NA
+"1723","KAUS","Austin-Bergstrom International Airport","TX","C","y",30.2,-97.68,662.73,"Austin"
+"1724","KBAZ","New Braunfels Municipal Airport","TX","C","y",29.709,-98.045,646.325,NA
+"1725","KBBD","Curtis Field Airport","TX","C","y",31.183,-99.317,1827.43,NA
+"1726","KBEA","Beeville Municipal Airport","TX","C","y",28.3619,-97.791,268,NA
+"1727","KBGD","Borger, Hutchinson County Airport","TX","C","y",35.71,-101.4,3054.46,NA
+"1728","KBKD","Stephens County Airport","TX","C","y",32.719,-98.891,1284,NA
+"1729","KBKS","Brooks County Airport","TX","C","y",27.207,-98.121,111.549,NA
+"1730","KBMQ","Burnet Municipal Craddock Field","TX","C","y",30.74,-98.23,1282.81,NA
+"1731","KBPC","Mesa Vista Ranch Airport","TX","C","Y",35.8893,-101.03,2772,NA
+"1732","KBPG","Big Spring","TX","C","y",32.213,-101.522,2572.18,NA
+"1733","KBPT","Beaumont/Port Arthur, SE Texas Regional Airport","TX","C","y",29.95,-94.02,16.076,"Beaumont"
+"1734","KBRO","Brownsville / South Padre Island Intl Airport","TX","C","y",25.9,-97.43,19.029,"Brownsville"
+"1735","KBWD","Brownwood","TX","C","y",31.8,-98.95,1384.51,NA
+"1736","KBYY","Bay City","TX","C","y",28.973,-95.863,45.932,NA
+"1737","KCDS","Childress Municipal Airport","TX","C","y",34.44,-100.28,1951.11,NA
+"1738","KCLL","College Station, Easterwood Field","TX","C","y",30.58,-96.37,313.976,"College Station"
+"1739","KCOM","Coleman Municipal Airport","TX","C","y",31.8411,-99.4036,1697,NA
+"1740","KCOT","Cotulla-La Salle County Airport","TX","C","y",28.45,-99.22,462.927,NA
+"1741","KCPT","Cleburne Municipal Airport","TX","C","y",32.35,-97.433,853.018,NA
+"1742","KCRP","Corpus Christi International Airport","TX","C","y",27.77,-97.5,43.963,"Corpus Christi"
+"1743","KCRS","Campbell Field-Corsicana Municipal Airport","TX","C","y",32.03,-96.4,446.194,NA
+"1744","KCWC","Kickapoo Downtown Airport","TX","C","y",33.858,-98.49,998,NA
+"1745","KCXO","Conroe, Montgomery County Airport","TX","C","y",30.36,-95.41,252.625,NA
+"1746","KDAL","Dallas Love Field","TX","C","y",32.86,-96.85,439.961,"Dallas"
+"1747","KDFW","Dallas / Fort Worth International Airport","TX","C","y",32.91,-97.03,560.039,"Dallas"
+"1748","KDHT","Dalhart Municipal Airport","TX","C","y",36.03,-102.55,3990.16,NA
+"1749","KDLF","Laughlin Air Force Base Auxiliary Airfield","TX","C","y",29.367,-100.783,1073.16,NA
+"1750","KDRT","Del Rio International Airport","TX","C","y",29.38,-100.92,999.016,NA
+"1751","KDTO","Denton Municipal Airport","TX","C","y",33.2,-97.18,646.325,NA
+"1752","KDUX","Moore County Airport","TX","C","y",35.85,-102.017,3704.07,NA
+"1753","KDWH","Houston, Hooks Memorial Airport","TX","C","y",30.07,-95.55,150.919,NA
+"1754","KDYS","Abilene, Dyess Air Force Base","TX","C","y",32.417,-99.85,1791.01,NA
+"1755","KE11","Andrews County Airport","TX","C","y",32.3311,-102.53,3174,NA
+"1756","KE38","Casparis Municipal Airport","TX","C","y",30.384,-103.684,4514.44,NA
+"1757","KEBG","Edinburg Intl Airport","TX","C","y",26.442,-98.129,78.74,NA
+"1758","KECU","Edwards County Airport","TX","C","y",29.95,-100.167,2372.05,NA
+"1759","KEDC","Austin Executive Airport","TX","C","y",30.3975,-97.5664,620,NA
+"1760","KEFD","Houston / Ellington","TX","C","y",29.62,-95.17,39.042,NA
+"1761","KELP","El Paso International Airport","TX","M","y",31.8,-106.4,3917,"El Paso"
+"1762","KERV","Kerrville","TX","C","y",29.98,-99.08,1617.45,NA
+"1763","KF05","Vernon","TX","C","y",34.226,-99.284,1266.4,NA
+"1764","KF39","Sherman-Denison","TX","C","y",33.717,-96.667,748.031,NA
+"1765","KFST","Fort Stockton-Pecos County Airport","TX","C","y",30.91,-102.91,3087.27,NA
+"1766","KFTW","Fort Worth, Meacham International Airport","TX","C","y",32.83,-97.35,687.008,NA
+"1767","KFWS","Fort Worth Spinks Airport","TX","C","y",32.51,-97.3,764.436,NA
+"1768","KGDJ","Granbury Municipal Airport","TX","C","y",32.444,-97.817,777.559,NA
+"1769","KGDP","Pine Springs, Guadalupe Mountains National Park","TX","C","y",31.83,-104.8,5456.04,NA
+"1770","KGGG","East Texas Regional Airport","TX","C","y",32.38,-94.71,406.824,"Longview"
+"1771","KGKY","Arlington Municipal Airport","TX","C","y",32.664,-97.096,629.921,NA
+"1772","KGLE","Gainesville Municipal Airport","TX","C","y",33.652,-97.2,839.895,NA
+"1773","KGLS","Galveston, Scholes Field","TX","C","y",29.27,-94.87,6,NA
+"1774","KGNC","Gaines County Airport","TX","C","y",32.667,-102.65,3313.65,NA
+"1775","KGOP","Gatesville","TX","C","y",31.417,-97.783,905.512,NA
+"1776","KGPM","Grand Prairie Municipal Airport","TX","C","y",32.699,-97.047,590.551,NA
+"1777","KGRK","Killeen - Robert Gray International Airport","TX","C","y",31.067,-97.833,1023.95,"Killeen"
+"1778","KGTU","Georgetown Automatic Weather Observing / Reporting","TX","C","y",30.69,-97.69,787.402,NA
+"1779","KGVT","Greenville / Majors","TX","C","y",33.08,-96.07,534.777,NA
+"1780","KGYB","Giddings-Lee County Airport","TX","C","y",30.1693,-96.98,485,NA
+"1781","KGYI","North Texas Regional Airport","TX","C","y",33.73,-96.67,748.031,NA
+"1782","KHBV","Jim Hogg County Airport","TX","C","y",27.333,-98.733,662.73,NA
+"1783","KHDO","Hondo Municipal Airport","TX","C","y",29.36,-99.16,919.948,NA
+"1784","KHHF","Hemphill County Airport","TX","C","y",35.895,-100.404,2395.01,NA
+"1785","KHLR","Fort Hood","TX","C","y",31.15,-97.717,918.963,NA
+"1786","KHOU","Houston Hobby Airport","TX","C","y",29.65,-95.28,84.974,"Houston"
+"1787","KHQZ","Mesquite Metro Airport","TX","C","y",32.747,-96.53,446.194,NA
+"1788","KHRL","Harlingen, Rio Grande Valley International Airport","TX","C","y",26.23,-97.67,34.121,"Harlingen"
+"1789","KHRX","Hereford Municipal Airport","TX","C","y",34.86,-102.33,3785,NA
+"1790","KHYI","San Marcos Municipal Airport","TX","C","y",29.9,-97.87,597.113,NA
+"1791","KIAH","Houston Intercontinental Airport","TX","C","y",29.97,-95.35,95.144,"Houston"
+"1792","KILE","Killeen - Skylark Field","TX","C","y",31.09,-97.69,846.457,NA
+"1793","KINJ","Hillsboro Municipal Airport","TX","C","y",32.083,-97.097,685.696,NA
+"1794","KINK","Winkler County Airport","TX","C","y",31.79,-103.2,2807.09,NA
+"1795","KJAS","Jasper","TX","C","y",30.89,-94.03,213.255,NA
+"1796","KJCT","Junction, Kimble County Airport","TX","C","y",30.5,-99.77,1709.97,NA
+"1797","KJDD","Wood County Airport","TX","C","y",32.742,-95.496,434,NA
+"1798","KJSO","Cherokee County Airport","TX","C","y",31.869,-95.217,675.853,NA
+"1799","KJWY","Midlothian-Waxahachie Midway Airport","TX","C","y",32.456,-96.912,711.942,NA
+"1800","KJXI","Fox Stephens Field - Gilmer Municipal Airport","TX","C","y",32.699,-94.948,415,NA
+"1801","KLBB","Lubbock International Airport","TX","C","y",33.66,-101.82,3214.9,"Lubbock"
+"1802","KLBR","Clarksville","TX","C","y",33.593,-95.064,439.633,NA
+"1803","KLBX","Angleton / Lake Jackson, Brazoria County Airport","TX","C","y",29.12,-95.47,26.247,NA
+"1804","KLFK","Lufkin, Angelina County Airport","TX","C","y",31.23,-94.75,280.84,NA
+"1805","KLHB","Hearne Municipal Airport","TX","C","y",30.872,-96.622,285.433,NA
+"1806","KLNC","Lancaster Airport","TX","C","y",32.579,-96.719,501.969,NA
+"1807","KLRD","Laredo International Airport","TX","C","y",27.54,-99.47,508.53,"Laredo"
+"1808","KLUD","Decatur Municipal Airport","TX","C","y",33.255,-97.581,1046.59,NA
+"1809","KLVJ","Pearland Regional Airport","TX","C","y",29.519,-95.242,42.651,NA
+"1810","KLZZ","Lampasas Airport","TX","C","y",31.1062,-98.1959,1215,NA
+"1811","KMAF","Midland International Airport","TX","C","y",31.95,-102.18,2861.88,"Midland / Odessa"
+"1812","KMDD","Midland Airpark","TX","C","y",32.033,-102.1,2801.84,NA
+"1813","KMFE","McAllen, Miller International Airport","TX","C","y",26.18,-98.24,100.066,"McAllen"
+"1814","KMKN","Comanche County Airport","TX","C","y",31.917,-98.6,1387.8,NA
+"1815","KMNZ","Hamilton Municipal Airport","TX","C","y",31.6659,-98.1486,1299,NA
+"1816","KMRF","Marfa","TX","C","y",30.38,-104.02,4833,NA
+"1817","KMWL","Mineral Wells Airport","TX","C","y",32.79,-98.07,930.118,NA
+"1818","KNFW","Fort Worth, Naval Air Station","TX","C","y",32.767,-97.45,607.94,NA
+"1819","KNGP","Corpus Christi, Naval Air Station","TX","C","y",27.683,-97.283,20.013,NA
+"1820","KNQI","Kingsville, Naval Air Station","TX","C","y",27.5,-97.817,56.102,NA
+"1821","KOCH","Nacogdoches Automatic Weather Observing/Reporting","TX","C","y",31.57,-94.7,354.331,NA
+"1822","KODO","Odessa-Schlemeyer Field","TX","C","y",31.921,-102.392,2959.32,NA
+"1823","KORG","Orange County Airport","TX","C","y",30.067,-93.8,13.123,NA
+"1824","KOSA","Mount Pleasant","TX","C","y",33.096,-94.962,364.173,NA
+"1825","KOZA","Ozona Municipal Airport","TX","C","Y",30.7353,-101.203,2381,NA
+"1826","KPEQ","Pecos Municipal Airport","TX","C","y",31.383,-103.5,2611.55,NA
+"1827","KPEZ","Pleasanton Municipal Airport","TX","C","y",28.95,-98.52,430,NA
+"1828","KPIL","Port Isabel-Cameron County Airport","TX","C","y",26.159,-97.338,19.029,NA
+"1829","KPKV","Calhoun County Airport","TX","C","y",28.65,-96.667,29.528,NA
+"1830","KPPA","Perry Lefors Field","TX","C","y",35.613,-100.996,3244.75,NA
+"1831","KPRX","Paris / Cox Field","TX","C","y",33.64,-95.45,561.024,NA
+"1832","KPSN","Palestine Municipal Airport","TX","C","y",31.78,-95.706,423.228,NA
+"1833","KPSX","Palacios Municipal Airport","TX","C","y",28.72,-96.25,16.076,NA
+"1834","KPVW","Hale County Airport","TX","C","y",34.168,-101.717,3372.7,NA
+"1835","KPWG","Mc Gregor Automatic Weather Observing / Reporting","TX","C","y",31.49,-97.32,590.551,NA
+"1836","KPYX","Perryton","TX","C","y",36.414,-100.75,2919.95,NA
+"1837","KRAS","Mustang Beach Airport","TX","C","y",27.817,-97.083,6.562,NA
+"1838","KRBD","Dallas Executive Airport","TX","C","y",32.69,-96.87,659.449,NA
+"1839","KRBO","Nueces County Airport","TX","C","y",27.779,-97.691,78.74,NA
+"1840","KRFI","Rusk County Airport","TX","C","y",32.1417,-94.8517,442,NA
+"1841","KRKP","Rockport, Aransas County Airport","TX","C","y",28.09,-97.05,26.247,NA
+"1842","KRND","Randolph Air Force Base","TX","C","y",29.533,-98.283,754.921,NA
+"1843","KRPE","Sabine Pass","TX","C","y",29.7,-93.95,9.843,NA
+"1844","KRPH","Graham Municipal Airport","TX","C","y",33.11,-98.555,1122.05,NA
+"1845","KRWV","Caldwell Municipal Airport","TX","C","y",30.517,-96.7,1279.53,NA
+"1846","KSAT","San Antonio International Airport","TX","C","y",29.54,-98.47,809.055,"San Antonio"
+"1847","KSEP","Stephenville / Clark Field Municipal Airport","TX","C","y",32.215,-98.178,1308.07,NA
+"1848","KSGR","Houston, Sugar Land Municipal / Hull Field Airport","TX","C","y",29.62,-95.65,82.021,NA
+"1849","KSJT","San Angelo, Mathis Field","TX","C","y",31.37,-100.5,1916.01,"San Angelo"
+"1850","KSKF","Port San Antonio","TX","C","y",29.383,-98.583,682.087,NA
+"1851","KSLR","Sulphur Springs Municipal Airport","TX","C","y",33.167,-95.617,488.845,NA
+"1852","KSNK","Winston Field Airport","TX","C","y",32.693,-100.95,2431.1,NA
+"1853","KSOA","Sonora Municipal Airport","TX","C","y",30.583,-100.65,2139.11,NA
+"1854","KSPL","South Padre Island Heliport","TX","C","y",26.0706,-97.1572,10,NA
+"1855","KSPS","Wichita Falls, Sheppard Air Force Base","TX","C","y",33.98,-98.48,1026.9,"Wichita Falls"
+"1856","KSSF","San Antonio, Stinson Municipal Airport","TX","C","y",29.33,-98.47,577.428,NA
+"1857","KSWW","Sweetwater","TX","C","y",32.47,-100.47,2385.17,NA
+"1858","KT43","T P McCampbell Airport","TX","C","y",27.91,-97.21,NA,NA
+"1859","KT47","Kickapoo Downtown Airport","TX","C","y",33.858,-98.49,998,NA
+"1860","KT65","Weslaco","TX","C","y",26.167,-97.967,68.898,NA
+"1861","KT82","Fredericksburg","TX","C","y",30.244,-98.91,1696.19,NA
+"1862","KTFP","T P McCampbell Airport","TX","C","y",27.91,-97.21,NA,NA
+"1863","KTKI","Collin County Regional Airport","TX","C","y",33.18,-96.59,577.428,NA
+"1864","KTPL","Temple / Miller Automatic Weather Observing/Report","TX","C","y",31.15,-97.42,698.819,NA
+"1865","KTRL","Terrell Municipal Airport","TX","C","y",32.71,-96.27,472.441,NA
+"1866","KTYR","Tyler Pounds Field","TX","C","y",32.35,-95.4,533.136,"Tyler"
+"1867","KUTS","Huntsville Municipal Airport","TX","C","y",30.74,-95.59,364.173,NA
+"1868","KUVA","Garner Field Airport","TX","C","y",29.211,-99.744,964.567,NA
+"1869","KVCT","Victoria Regional Airport","TX","C","y",28.86,-96.92,115.157,NA
+"1870","KXBP","Bridgeport Municipal Airport","TX","C","y",33.167,-97.833,853.018,NA
+"1871","K4BL","Blanding","UT","M","y",37.62,-109.47,6040.03,NA
+"1872","K4HV","Hanksville","UT","M","y",38.38,-110.72,4308.07,NA
+"1873","KBCE","Bryce Canyon","UT","M","y",37.71,-112.16,7586.94,NA
+"1874","KCDC","Cedar City Regional Airport","UT","M","y",37.7,-113.1,5586.94,"Cedar City"
+"1875","KCNY","Moab/Canyonlands","UT","M","y",38.75,-109.75,4553.81,"Moab"
+"1876","KDPG","Dugway Prvg Ground","UT","M","y",40.21,-112.93,4347.11,NA
+"1877","KDXZ","St George Municipal Airport","UT","M","y",37.0364,-113.51,2884,NA
+"1878","KENV","Wendover (aut)","UT","M","y",40.73,-114.03,4238.85,NA
+"1879","KHIF","Ogden/Hill AFB","UT","M","y",41.12,-111.97,4799.87,NA
+"1880","KLGU","Logan-Cache Airport","UT","M","y",41.79,-111.85,4455.38,NA
+"1881","KMLF","Milford Municipal","UT","M","y",38.43,-113.02,5039.04,NA
+"1882","KOGD","Ogden-Hinckley Muni","UT","M","y",41.2,-112.01,4439.96,"Ogden"
+"1883","KPUC","Price/Carbon County","UT","M","y",39.62,-110.75,5902.23,NA
+"1884","KPVU","Provo Muni (awos)","UT","M","y",40.23,-111.72,4491.47,"Provo"
+"1885","KSGU","Saint George (awos)","UT","M","y",37.09,-113.6,2939.63,"St. George"
+"1886","KSLC","Salt Lake City International","UT","M","y",40.79,-111.97,4222.11,"Salt Lake City"
+"1887","KT62","Tooele","UT","M","y",40.317,-112.3,5341.21,NA
+"1888","KU24","Delta","UT","M","y",39.34,-112.59,4639.11,NA
+"1889","KU28","Green River Range","UT","M","y",39.01,-110.15,4071.52,NA
+"1890","KVEL","Vernal","UT","M","y",40.44,-109.51,5275.59,"Vernal"
+"1891","KAKQ","Wakefield Municipal Airport","VA","E","y",36.99,-77,209.974,NA
+"1892","KAVC","South Hill, Mecklenburg-Brunswick Regional Airport","VA","E","y",36.69,-78.05,1410.76,NA
+"1893","KBCB","Virginia Tech Airport","VA","E","y",37.208,-80.408,2132.55,NA
+"1894","KCHO","Charlottesville-Albemarle Airport","VA","E","y",38.14,-78.45,623.031,"Charlottesville"
+"1895","KCJR","Culpeper County Airport","VA","E","y",38.53,-77.86,311.68,NA
+"1896","KCPK","Chesapeake Municipal Airport","VA","E","y",36.66,-76.32,19.685,NA
+"1897","KDAA","Fort Belvoir","VA","E","y",38.73,-77.18,88.911,NA
+"1898","KDAN","Danville Regional Airport","VA","E","y",36.58,-79.33,577.1,NA
+"1899","KDCA","Washington DC, Reagan National Airport","VA","E","y",38.86,-77.03,16.076,"Washington, D.C. / Arlington County"
+"1900","KEMV","Emporia-Greensville Reg Airport","VA","E","y",36.69,-77.48,127.953,NA
+"1901","KFAF","Fort Eustis / Felker","VA","E","y",37.14,-76.62,22.966,NA
+"1902","KFKN","Franklin / J B Rose","VA","E","y",36.7,-76.9,39.042,NA
+"1903","KFVX","Farmville","VA","E","y",37.35,-78.43,410.105,NA
+"1904","KFYJ","Middle Peninsula Regional Airport","VA","E","y",37.517,-76.767,22.966,NA
+"1905","KHEF","Manassas Municipal Automatic Weather Observing","VA","E","y",38.72,-77.52,193.57,NA
+"1906","KHLX","Hillsville","VA","E","y",36.77,-80.82,2736.22,NA
+"1907","KHSP","Hot Springs / Ingalls","VA","E","y",37.96,-79.82,3792.65,NA
+"1908","KIAD","Washington-Dulles International Airport","VA","E","y",38.96,-77.45,290.026,"Washington, D.C. / Dulles / Chantilly"
+"1909","KJFZ","Richlands Tazewell County Airport","VA","E","y",37.064,-81.798,2650.92,NA
+"1910","KJGG","Williamsburg-Jamestown Airport","VA","E","y",37.233,-76.717,49.213,NA
+"1911","KJYO","Leesburg / Godfrey","VA","E","y",39.08,-77.57,390.42,NA
+"1912","KLFI","Langley Air Force Base","VA","E","y",37.09,-76.35,9.843,NA
+"1913","KLKU","Louisa County / Freeman Field Airport","VA","E","y",38.011,-77.978,492.126,NA
+"1914","KLNP","Wise / Lonesome Pine","VA","E","y",36.98,-82.53,2680.45,NA
+"1915","KLYH","Lynchburg Regional Airport","VA","E","y",37.34,-79.2,939.961,"Lynchburg"
+"1916","KMFV","Melfa / Accomack Airport","VA","E","y",37.65,-75.77,49.213,NA
+"1917","KMKJ","Marion / Wytheville","VA","E","y",36.9,-81.35,2559.05,NA
+"1918","KMTV","Martinsville","VA","E","y",36.63,-80.02,941.601,NA
+"1919","KNGU","Norfolk, Naval Air Station","VA","E","y",36.94,-76.28,33.136,NA
+"1920","KNTU","Virginia Beach, Oceana, Naval Air Station","VA","E","y",36.83,-76.03,25.919,NA
+"1921","KNYG","Quantico Marine Corps Air Facility","VA","E","y",38.51,-77.3,13.123,NA
+"1922","KOFP","Ashland, Hanover County Municipal Airport","VA","E","y",37.7,-77.43,206.693,NA
+"1923","KOKV","Winchester Regional","VA","E","y",39.15,-78.15,728.346,NA
+"1924","KOMH","Orange County Airport","VA","E","y",38.247,-78.046,465.879,NA
+"1925","KORF","Norfolk International Airport","VA","E","y",36.91,-76.2,23.95,"Norfolk"
+"1926","KPHF","Newport News / Williamsburg Intl Airport","VA","E","y",37.14,-76.5,42.651,"Newport News"
+"1927","KPSK","Dublin / New River Valley","VA","E","y",37.14,-80.68,2105.97,NA
+"1928","KPTB","Petersburg Automatic Weather Observing / Reporting","VA","E","y",37.19,-77.52,196.85,NA
+"1929","KRIC","Richmond International Airport","VA","E","y",37.51,-77.31,164.042,"Richmond"
+"1930","KRMN","Stafford Regional Airport","VA","E","y",38.4,-77.45,213.255,NA
+"1931","KROA","Roanoke Regional Airport","VA","E","y",37.33,-79.97,1148.95,"Roanoke"
+"1932","KSFQ","Suffolk Municipal Airport","VA","E","y",36.68,-76.6,72.178,NA
+"1933","KSHD","Staunton / Shenandoah","VA","E","y",38.28,-78.85,1200.79,"Staunton / Waynesboro / Harrisonburg"
+"1934","KVJI","Abingdon","VA","E","y",36.68,-82.03,2070.21,NA
+"1935","KWAL","Wallops Flight Facility Airport","VA","E","y",37.94,-75.47,134.514,NA
+"1936","KXSA","Tappahannock-Essex County Airport","VA","E","y",37.8596,-76.8941,135,NA
+"1937","TVSV","Arnos Vale","VC","A","n",13.133,-61.2,42.651,NA
+"1938","KEFK","Burlington International Airport(BVT)","Ve","E","y",44.96,-72.23,732,NA
+"1939","TUPJ","Beef Island-Tortola","VG","A","n",18.45,-64.533,13.123,NA
+"1940","TIST","St Thomas-Charlotte Amalie/CyrilE King Int Airport","VI","A","n",18.33,-64.97,20.013,"Charlotte Amalie, St. Thomas"
+"1941","TISX","St Croix (Christiansted, Henry E. Rohlsen Airport)","VI","A","n",17.7,-64.8,43.963,"Christiansted, St. Croix"
+"1942","TKPK","Golden Rock-Saint Kitts-Nexus","VI","A","n",17.3,-62.683,157.48,NA
+"1943","TQPF","Wallblake","VI","A","n",18.2,-63.05,104.987,NA
+"1944","K1V4","Saint Johnsbury","VT","E","y",44.42,-72.02,700.131,NA
+"1945","K6B8","Burlington International Airport (BVT)","VT","E","y",44.54,-72.03,362,NA
+"1946","KBTV","Burlington International Airport","VT","E","y",44.48,-73.15,348.097,"Burlington"
+"1947","KCDA","Caledonia County Airport","VT","E","y",44.5691,-72.018,1188,NA
+"1948","KDDH","Bennington Morse State Airport","VT","E","y",42.89,-73.246,826.772,NA
+"1949","KFSO","Franklin County State Airport","VT","E","y",44.9403,-73.0975,228,NA
+"1950","KMPV","Barre / Montpelier, Knapp State Airport","VT","E","y",44.21,-72.57,1125.98,NA
+"1951","KMVL","Morrisville-Stowe State Airport","VT","E","y",44.53,-72.61,731.627,NA
+"1952","KRUT","Rutland-Southern Vermont Regional Airport","VT","E","y",43.54,-72.95,807.087,NA
+"1953","KVSF","Hartness State Springfield Airport","VT","E","y",43.34,-72.52,577.428,NA
+"1954","K76S","Oak Harbor Airport","WA","P","y",48.25,-122.667,190.289,NA
+"1955","KALW","Walla Walla Rgn","WA","P","y",46.09,-118.29,1147.97,"Walla Walla"
+"1956","KAWO","Arlington Muni","WA","P","y",48.17,-122.17,137.795,NA
+"1957","KBFI","Seattle/Boeing Fld","WA","P","y",47.54,-122.3,29.856,"Seattle"
+"1958","KBLI","Bellingham Intl Airport","WA","P","y",48.79,-122.54,148.95,"Bellingham"
+"1959","KBVS","Skagit Regional Airport","WA","P","y",48.467,-122.417,144.357,NA
+"1960","KCLM","Port Angeles Intl Airport","WA","P","y",48.12,-123.5,298.556,NA
+"1961","KCQV","Colville Municipal","WA","P","y",48.55,-117.89,1876.64,NA
+"1962","KDEW","Deer Park (was 07s)","WA","P","y",47.974,-117.428,2204.72,NA
+"1963","KEAT","Wenatchee/Pangborn","WA","P","y",47.41,-120.2,1243.44,"Wenatchee"
+"1964","KELN","Ellensburg/Bowers","WA","P","y",47.03,-120.53,1729,NA
+"1965","KEPH","Ephrata Municipal","WA","P","y",47.33,-119.52,1266.08,NA
+"1966","KFHR","Friday Harbor","WA","P","y",48.52,-123.02,108.268,"Friday Harbor"
+"1967","KGEG","Spokane Intl Arpt","WA","P","y",47.62,-117.53,1952.1,"Spokane"
+"1968","KGRF","Fort Lewis/Gray Aaf","WA","P","y",47.09,-122.58,301.837,NA
+"1969","KHMS","Hanford","WA","P","y",46.58,-119.58,731.627,NA
+"1970","KHQM","Hoquiam/Bowerman","WA","P","y",46.98,-123.97,12.139,NA
+"1971","KKLS","Kelso-Longview AWOS","WA","P","y",46.117,-122.9,16.076,NA
+"1972","KMWH","Moses Lake/Grant Co","WA","P","y",47.21,-119.32,1195.87,NA
+"1973","KNUW","Whidbey Island Nas","WA","P","y",48.36,-122.65,33.136,NA
+"1974","KOLM","Olympia","WA","P","y",46.98,-122.9,216.864,NA
+"1975","KOMK","Omak Airport","WA","P","y",48.46,-119.52,1253.28,NA
+"1976","KORS","Orcas Island Airport","WA","P","y",48.717,-122.917,26.247,"Eastsound"
+"1977","KPAE","Everett/Paine Field","WA","P","y",47.91,-122.28,620.079,"Everett"
+"1978","KPSC","Pasco/Tri-Cities","WA","P","y",46.27,-119.12,430.118,"Pasco"
+"1979","KPUW","Pullman/Moscow Rgnl","WA","P","y",46.76,-117.12,2552.49,"Pullman / Moscow, Idaho"
+"1980","KPWT","Bremerton Ntnl Awos","WA","P","y",47.48,-122.77,449.475,NA
+"1981","KRNT","Renton Municipal","WA","P","y",47.51,-122.22,32.808,NA
+"1982","KSEA","Seattle-Tacoma Intl Airport","WA","P","y",47.44,-122.31,383.858,"Seattle / Tacoma (SeaTac)"
+"1983","KSFF","Spokane/Felts Field","WA","P","y",47.68,-117.32,2001.31,NA
+"1984","KSHN","Shelton/Sanderson","WA","P","y",47.23,-123.15,278.871,NA
+"1985","KSKA","Fairchild AFB","WA","P","y",47.62,-117.65,2437.99,NA
+"1986","KSMP","Stampede Pass(amos)","WA","P","y",47.29,-121.33,3958,NA
+"1987","KTCM","Mc Chord AFB/Tacoma","WA","P","y",47.16,-122.48,285.105,NA
+"1988","KTDO","Toledo-Winlock Mem","WA","P","y",46.48,-122.8,370.735,NA
+"1989","KTIW","Tacoma Narrows","WA","P","y",47.28,-122.58,298.556,NA
+"1990","KUIL","Quillayute State","WA","P","y",47.96,-124.55,179.134,NA
+"1991","KVUO","Pearson Airpark Vancouver","WA","P","y",45.62,-122.66,26.247,NA
+"1992","KYKM","Yakima Air Term","WA","P","y",46.56,-120.53,1063.98,"Yakima"
+"1993","KAIG","Antigo - Lang Automatic Weather Observing / Report","WI","C","y",45.01,-89.13,1522.31,NA
+"1994","KARV","Minocqua / Woodruff","WI","C","y",45.93,-89.73,1627.3,NA
+"1995","KASX","Ashland, Kennedy Memorial Airport","WI","C","y",46.55,-90.92,823.491,NA
+"1996","KATW","Appleton / Outagamie","WI","C","y",44.26,-88.52,918.635,"Appleton"
+"1997","KAUW","Wausau Downtown Airport","WI","C","y",44.93,-89.62,1200.13,NA
+"1998","KBCK","Black River Falls Area Airport","WI","C","y",44.2507,-90.8553,836,NA
+"1999","KBUU","Burlington Municipal Airport","WI","C","y",42.691,-88.305,777.559,NA
+"2000","KC29","Middleton Municipal - Morey Field Airport","WI","E","Y",43.1143,-89.5315,928,NA
+"2001","KCLI","Clintonville Municipal Airport","WI","C","y",44.61,-88.73,823.491,NA
+"2002","KCMY","Sparta / Fort McCoy Airport","WI","C","y",43.958,-90.738,839.895,NA
+"2003","KCWA","Mosinee / Central Wisconsin","WI","C","y",44.79,-89.67,1276.25,"Mosinee"
+"2004","KDLL","Baraboo Wisconsin Dells Airport","WI","C","y",43.522,-89.771,977.69,NA
+"2005","KEAU","Eau Claire, Chippewa Valley Regional Airport","WI","C","y",44.88,-91.48,890.092,"Eau Claire"
+"2006","KEFT","Monroe Municipal Airport","WI","C","y",42.61,-89.59,1085.96,NA
+"2007","KEGV","Eagle River Union Airport","WI","C","y",45.93,-89.27,1640.42,NA
+"2008","KENW","Kenosha Regional Airport","WI","C","y",42.59,-87.94,761.155,NA
+"2009","KETB","West Bend Municipal Airport","WI","C","y",43.44,-88.13,885.827,NA
+"2010","KEZS","Shawano Municipal Airport","WI","C","Y",44.7873,-88.56,813,NA
+"2011","KFLD","Fond Du Lac County Airport","WI","C","y",43.77,-88.49,807.087,NA
+"2012","KGRB","Green Bay, Austin Straubel International Airport","WI","C","y",44.48,-88.13,699.147,"Green Bay"
+"2013","KHYR","Hayward Municipal Airport","WI","C","y",46.16,-91.45,1213.91,NA
+"2014","KISW","Wisconsin Rapids, Alexander Field So. Wood County","WI","C","y",44.36,-89.83,1010.5,NA
+"2015","KJVL","Janesville / Rock County","WI","C","y",42.62,-89.03,807.087,NA
+"2016","KLNL","Kings Land O Lakes Airport","WI","C","y",46.15,-89.217,1706.04,NA
+"2017","KLNR","Lone Rock, Tri-County Regional Airport","WI","C","y",43.21,-90.18,719.16,NA
+"2018","KLSE","La Crosse Municipal Airport","WI","C","y",43.88,-91.25,668.963,"La Crosse"
+"2019","KLUM","Menomonie Municipal Airport-Score Field","WI","C","y",44.883,-91.867,895.669,NA
+"2020","KMDZ","Medford, Taylor County Airport","WI","C","y",45.1,-90.3,1469.82,NA
+"2021","KMFI","Marshfield Municipal Airport","WI","C","y",44.63,-90.18,1276.25,NA
+"2022","KMKE","Milwaukee, General Mitchell International Airport","WI","C","y",42.96,-87.9,629.921,"Milwaukee"
+"2023","KMRJ","Mineral Point, Iowa County Airport","WI","C","y",42.89,-90.23,1177.82,NA
+"2024","KMSN","Madison, Dane County Regional-Truax Field","WI","C","y",43.14,-89.33,873.031,"Madison"
+"2025","KMTW","Manitowoc Municipal Automatic Weather Observing","WI","C","y",44.14,-87.67,649.606,NA
+"2026","KMWC","Milwaukee / Timmerman","WI","C","y",43.12,-88.05,734.908,NA
+"2027","KOCQ","J. Douglas Bake Memorial Airport","WI","C","y",44.8741,-87.9098,604,NA
+"2028","KOEO","Osceola, L O Simenstad Municipal Airport","WI","C","y",45.31,-92.69,902.231,NA
+"2029","KOSH","Oshkosh, Wittman Regional Airport","WI","C","y",44.01,-88.57,830.052,NA
+"2030","KOVS","Boscobel Airport","WI","C","y",43.16,-90.68,672.572,NA
+"2031","KPBH","Phillips / Price County","WI","C","y",45.41,-90.24,1473.1,NA
+"2032","KPCZ","Waupaca Municipal Airport","WI","C","y",44.333,-89.02,826.772,NA
+"2033","KPDC","Prairie Du Chien Municipal Airport","WI","C","y",43.02,-91.12,659.449,NA
+"2034","KPVB","Platteville Municipal Airport","WI","C","y",42.6894,-90.4444,1024,NA
+"2035","KRAC","Racine, Batten International Airport","WI","C","y",42.76,-87.81,672.572,NA
+"2036","KRCS","Ladysmith","WI","C","y",0,0,NA,NA
+"2037","KRCX","Rusk County Airport","WI","C","y",45.483,-91,1236.88,NA
+"2038","KRHI","Rhinelander-Oneida County Airport","WI","C","y",45.63,-89.47,1663.39,"Rhinelander"
+"2039","KRNH","New Richmond Municipal Airport","WI","C","y",45.148,-92.538,997.375,NA
+"2040","KRPD","Rice Lake Regl - Carls Field Airport","WI","C","y",45.51,-91.73,1138.45,NA
+"2041","KRRL","Merrill Municipal Airport","WI","C","y",45.2,-89.71,1315.62,NA
+"2042","KRYV","Watertown","WI","C","y",43.17,-88.72,833.333,NA
+"2043","KRZN","Siren, Burnett County Airport","WI","C","y",45.823,-92.373,987.533,NA
+"2044","KSBM","Sheboygan County Memorial Airport","WI","C","y",43.78,-87.85,748.031,NA
+"2045","KSTE","Stevens Point Municipal Airport","WI","C","y",44.55,-89.53,1108.92,NA
+"2046","KSUE","Sturgeon Bay","WI","C","y",44.84,-87.37,725.066,NA
+"2047","KSUW","Superior, Richard I. Bong Airport","WI","C","y",46.69,-92.095,675.853,NA
+"2048","KTKV","Tomahawk Regional Airport","WI","C","y",45.469,-89.806,1486.22,NA
+"2049","KUBE","Cumberland Municipal Airport","WI","C","y",45.506,-91.9811,1241,NA
+"2050","KUES","Waukesha County Airport","WI","C","y",43.01,-88.2,931.759,NA
+"2051","KUNU","Juneau, Dodge County Airport","WI","C","y",43.43,-88.7,935.039,NA
+"2052","KVOK","Volk / Camp Douglas","WI","C","y",43.933,-90.267,918.963,NA
+"2053","KY50","Wautoma Municipal Airport","WI","C","Y",44.0416,-89.3045,859,NA
+"2054","KY51","Viroqua Municipal Airport","WI","C","Y",43.5794,-90.8965,1292,NA
+"2055","NSFA","Faleolo Intl/Apia","WS","S","n",-13.817,-172,16.404,NA
+"2056","K3I2","Point Pleasant, Mason County Airport","WV","E","y",38.9144,-82.0983,NA,NA
+"2057","K48I","Braxton County Airport","WV","E","y",38.733,-80.65,1269.69,NA
+"2058","KBKW","Beckley, Raleigh County Memorial Airport","WV","E","y",37.79,-81.12,2503.94,NA
+"2059","KBLF","Bluefield, Mercer County Airport","WV","E","y",37.3,-81.22,2857.61,NA
+"2060","KCKB","Clarksburg Benedum Airport","WV","E","y",39.29,-80.23,1246.72,"Clarksburg"
+"2061","KCRW","Charleston, Yeager Airport","WV","E","y",38.38,-81.58,1016.08,"Charleston"
+"2062","KEKN","Elkins-Randolph County-Jennings Randolph Field","WV","E","y",38.89,-79.85,1948.16,NA
+"2063","KHLG","Wheeling Ohio County Airport","WV","E","y",40.17,-80.65,1179.13,NA
+"2064","KHTS","Huntington, Tri-State Airport","WV","E","y",38.38,-82.55,830.052,"Huntington"
+"2065","KLWB","Lewisburg / Greenbrier","WV","E","y",37.88,-80.4,2303.15,"Lewisburg"
+"2066","KMGW","Morgantown Municipal-Hart Field","WV","E","y",39.64,-79.92,1240.16,NA
+"2067","KMRB","Martinsburg, Eastern W. Virginia Reg/Shepherdstown","WV","E","y",39.41,-77.98,530.84,NA
+"2068","KPKB","Parkersburg, Mid Ohio Valley Regional Airport","WV","E","y",39.36,-81.43,831.037,NA
+"2069","KW22","Buckhannon/Upshur Co. Reg. Airport","WV","E","y",39,-80.267,1633.86,NA
+"2070","KW99","Petersburg, Grant County Airport","WV","E","y",38.983,-79.133,961.286,NA
+"2071","KARL","Arlington","WY","M","y",41.583,-106.2,7834.65,NA
+"2072","KBFU","Belle Fourche","WY","M","y",43.93,-105.44,NA,NA
+"2073","KBIT","Bittercreek","WY","M","y",41.64,-108.58,NA,NA
+"2074","KBPI","Big Piney/Marbleton Airport","WY","M","y",42.58,-110.1,6968.5,NA
+"2075","KBRX","Anonymous Wy Ob","WY","M","y",41.933,-104.55,4950.79,NA
+"2076","KBVR","Beaver Rim","WY","M","y",42.58,-108.28,NA,NA
+"2077","KBYG","Buffalo/Johnson County","WY","M","y",44.38,-106.72,4967.19,NA
+"2078","KCMS","Cemetary Separation","WY","M","y",41.53,-109.46,NA,NA
+"2079","KCOD","Cody/Yellowstone Regional Airport","WY","M","y",44.53,-109.02,5095.14,"Cody"
+"2080","KCPR","Casper/Natrona Intl Airport","WY","M","y",42.93,-106.47,5337.93,"Casper"
+"2081","KCTD","Continental Divide","WY","M","y",41.71,-107.78,NA,NA
+"2082","KCYS","Cheyenne/Warren AFB","WY","M","y",41.16,-104.82,6158.14,NA
+"2083","KDGW","Douglas/Converse County Airport","WY","M","y",42.8,-105.39,4927.82,NA
+"2084","KDHS","Dead Horse","WY","M","y",44.21,-106.1,NA,NA
+"2085","KDRC","Anonymous Wy Ob","WY","M","y",42.83,-105.86,NA,NA
+"2086","KEVW","Evanston/Burns","WY","M","y",41.27,-111.03,7162.07,NA
+"2087","KFIR","First Divide","WY","M","y",41.29,-110.77,NA,NA
+"2088","KGCC","Gillette","WY","M","y",44.36,-105.53,4035.43,"Gillette"
+"2089","KGEY","Greybull/S Big Horn Airport","WY","M","y",44.52,-108.08,3933.73,NA
+"2090","KHLD","Hiland","WY","M","y",43.09,-107.32,NA,NA
+"2091","KIDV","I-25 Divide","WY","M","y",43.94,-106.64,NA,NA
+"2092","KIKA","Inyan Kara","WY","M","y",44.29,-104.62,NA,NA
+"2093","KJAC","Jackson Hole Airport","WY","M","y",43.61,-110.73,6614.17,"Jackson"
+"2094","KLAR","Laramie/Gen. Brees","WY","M","y",41.33,-105.68,7266.08,"Laramie"
+"2095","KLND","Lander/Hunt Field","WY","M","y",42.83,-108.73,5557.09,NA
+"2096","KMTR","Meeteetse Rim","WY","M","y",44.27,-108.87,NA,NA
+"2097","KP60","Lake Yellowstone","WY","M","y",44.55,-110.42,7770.01,NA
+"2098","KPAT","Pathfinder Hill","WY","M","y",42.56,-106.85,NA,NA
+"2099","KPIN","Piney Creek","WY","M","y",44.53,-106.81,NA,NA
+"2100","KPNA","Ralph Wenz Field Airport","WY","M","y",42.783,-109.8,7086.61,NA
+"2101","KPUM","Pumpkin Vine","WY","M","y",41.033,-105.45,7998.69,NA
+"2102","KRIW","Riverton Regional Airport","WY","M","y",43.05,-108.45,5456.04,"Riverton"
+"2103","KRKS","Rock Springs","WY","M","y",41.61,-109.07,6741.14,"Rock Springs"
+"2104","KRWL","Rawlins Municipal","WY","M","y",41.8,-107.2,6735.89,NA
+"2105","KSHR","Sheridan Co. Arpt","WY","M","y",44.78,-106.97,3963.91,"Sheridan"
+"2106","KSIB","Sibley Peak","WY","M","y",42.433,-105.033,4888.45,NA
+"2107","KSKL","Skyline","WY","M","y",41.13,-106.57,NA,NA
+"2108","KTMH","Twenty Mile Hill","WY","M","y",43.12,-106.33,NA,NA
+"2109","KTOR","Torrington Muni","WY","M","y",42.06,-104.15,4202.76,NA
+"2110","KVDW","Vedauwoo","WY","M","y",41.15,-105.4,8343.18,NA
+"2111","KWRL","Worland Municip","WY","M","y",43.98,-107.97,4245.41,NA
+"2112","EB01","","","","",36.5,-73.5,0,NA
+"2113","EB10","","","C","",27.5,-88,0,NA
+"2114","EB31","","","","",27,-86,0,NA
+"2115","EB32","","","","",27,-84.3,0,NA
+"2116","EB33","","","A","",58.5,-141,0,NA
+"2117","EB35","","","A","",55.3,-157,0,NA
+"2118","EB36","","","","",26,-84.8,0,NA
+"2119","EB43","","","A","",59.8,-142,0,NA
+"2120","EB52","","","","",38.4,-74.3,0,NA
+"2121","EB53","","","E","",28.9,-88.3,0,NA
+"2122","EB61","","","","",26.9,-84.6,0,NA
+"2123","EB62","","","E","",29,-85.6,0,NA
+"2124","EB70","","","A","",59.5,-142.3,0,NA
+"2125","EB90","BERING SEA","","A","",47,-130.9,0,NA
+"2126","EB91","","","E","",38.4,-74.3,0,NA
+"2127","EB92","","","E","",28.5,-90,0,NA
+"2128","KDLP","WEST DELTA","","C","Y",29.121,89.547,0,NA
+"2129","KEHC","EAST CAMERON 278","","C","Y",28.642,89.794,0,NA
+"2130","KMDJ","MISSISSIPPI CANYON","","C","Y",29.478,93.638,0,NA
+"2131","KQAO","Military Site","","U","n",0,0,NA,NA
+"2132","KQUK","Military Site-Camp Bondsteel","","U","n",0,0,NA,NA
+"2133","KSCF","SOUTH MARSH 268","","C","Y",29.116,91.871,0,NA
+"2134","KVBS","SABINE 13B","","C","Y",29.478,93.638,0,NA
+"2135","KVNP","VERMILLION 26","","C","Y",29.467,92.369,0,NA
+"2136","KZKI","Military Site","","U","n",0,0,NA,NA
+"2137","KZKK","Military Site","","U","n",0,0,NA,NA
+"2138","T003","T003 Ob Site","","A","n",0,0,NA,NA
+"2139","TNMC","TNMC Ob Site","","A","n",0,0,NA,NA
