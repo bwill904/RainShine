@@ -10,36 +10,34 @@ from bs4 import BeautifulSoup as BS
 from selenium import webdriver
 from functools import reduce
 import pandas as pd
-import time,csv,sys,os
+import time,sys,os
 
-city = 'Atlanta'
-state = 'GA'
+#mainDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+#dfStations = pd.read_csv(os.path.join(mainDir, 'Data\Stations.csv'))
 
 # function to determine the 
-def getURL(city, state):
-    mainDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-    airportCodes = pd.read_csv(os.path.join(mainDir, 'Data\AirportCodes.csv'))
-    
-    airport = airportCodes.loc[(airportCodes['City']==city) & (airportCodes['StateAbbrev']==state), ['Airport']].values[0]
+def getURL(dfStations, city, state):    
+    airport = dfStations.loc[(dfStations['City']==city) & (dfStations['StateAbbrev']==state), ['Airport']].values[0]
     airport = ''.join(airport)
 
     url = ''.join(['https://www.wunderground.com/history/monthly/us/', state.lower(), '/', city.lower(), '/', airport, '/date/'])
-    
     return url
 
 # function to load wunderground data (without this it has no records to show)
 def render_page(url):
-    driver = webdriver.Chrome('C:/Users/bwill/Documents/RainShine/ChromeDriver/chromedriver')
+    mainDir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+    driver = webdriver.Chrome(os.path.join(mainDir, 'ChromeDriver\chromedriver'))
     driver.get(url)
     time.sleep(3)
     r = driver.page_source
     driver.quit()
     return r
 
-
 # function to scrape wunderground
 def scraper(page, dates):
     output = pd.DataFrame()
+    
+    if (isinstance(dates, str)): dates = [dates]
 
     for d in dates:
 
@@ -128,10 +126,8 @@ def scraper(page, dates):
 
     print('Scraper done!')
 
-    output = output[['Temp_avg', 'Temp_min', 'Dew_max', 'Dew_avg', 'Dew_min', 'Hum_max',
+    output = output[['Temp_max', 'Temp_avg', 'Temp_min', 'Dew_max', 'Dew_avg', 'Dew_min', 'Hum_max',
                      'Hum_avg', 'Hum_min', 'Wind_max', 'Wind_avg', 'Wind_min', 'Pres_max',
                      'Pres_avg', 'Pres_min', 'Precipitation', 'Date']]
 
     return output
-
-df = scraper(getURL(city, state), dates)
