@@ -1,5 +1,0 @@
-
-# converting 
-mapLocation = function(location) {
-  
-}
