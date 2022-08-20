@@ -1,7 +1,7 @@
 # function that calls classes
 #' Title Get Weather Underground Data
 #'
-#' @param pythonPath Path for Python executable file.
+#' @param chromeDir Path for chrome executable file.
 #' @param granularity Output granularity, currently only 'monthly' is available.
 #' @param state US state of desired location.
 #' @param city US city for desired location.
@@ -10,16 +10,38 @@
 #' @return Dataframe object with historical weather data.
 #' @export
 #'
-#' @examples getWUData(pythonPath = 'C:/Users/bwill/anaconda3/python.exe', granularity = 'monthly', state = 'GA', 
+#' @examples getWUDataR(pythonPath = 'C:/Users/bwill/anaconda3/python.exe', granularity = 'monthly', state = 'GA', 
 #' city = 'Atlanta', dates = as.Date(c('2021-01-01', '2021-02-01')))
-getWUData = function(pythonPath, granularity, state, city, dates) {
+
+getWUUrl <- function(granularity, station, dates) {
   
-  # setup python connection and test that it works
-  tryCatch(reticulate::use_python(pythonPath), 
-           error = function(e) message("Python path is incorrect. Make sure the path is pointing to the .exe file.")
-  )
-  Sys.setenv(PYTHONPATH = "./PythonCode")
-  reticulate::use_python(pythonPath)
+  if (tolower(granularity) == "monthly") {
+    url <- paste0("https://www.wunderground.com/history/monthly/", station, "/date/", format(dates, "%Y-%m"))
+  } else if (tolower(granularity) == "daily") {
+    url <- paste0("https://www.wunderground.com/history/daily/", station, "/date/", format(dates, "%Y-%m-%d"))
+  } else return("Please select monthly or daily granularity.")
+  
+  return(url)
+}
+
+granularity = "daily"
+state = "Georgia"
+city = "atlanta"
+dates = seq.Date(as.Date("2015-01-01"), as.Date("2015-01-01"), 'month')
+dirChrome = "C:/Program Files/Google/Chrome/Application/"
+
+getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity, state, city, dates) {
+  
+  require (dplyr)
+  
+  # setup remote driver
+  if (dir.exists(dirChrome) | "chrome.exe" %in% list.files(dirChrome)) { # check chrome is installed
+    vecDir <- list.dirs(dirChrome, recursive = FALSE, full.names = FALSE)
+    chromeDriverVersion <- max(vecDir[vecDir != "SetupMetrics"])
+  } else chromeDriverVersion <- "latest"
+  
+  driver <- RSelenium::rsDriver(browser=c("chrome"), chromever = '103.0.5060.53', check = TRUE)
+  remote_driver <- driver[["client"]]
   
   # formatting for passing to python function
   state = tolower(state)
@@ -34,33 +56,70 @@ getWUData = function(pythonPath, granularity, state, city, dates) {
   } else if (state %in% unique(dfStations$State)) {
     state = unique(dfStations$StateAbbrev[dfStations$State == state])
   }
-    
+  
   # city checking
   if (!city %in% unique(dfStations$City[dfStations$StateAbbrev == state])) {
     return("Weather data not available for input city.")
   }
   
   # dates check
-  if (!lubridate::is.Date(dates)) return("Dates provided are not in date format.")
-  if (granularity == "monthly") { # monthly data
-    dates = unique(format(dates, "%Y-%m"))
-  } else {
-    return("Only monthly data is available currently. Please define 'monthly' as the granularity.")
-  }
+  if (!inherits(dates, 'Date')) return("Dates provided are not in date format.")
+  
+  station <- dfStations$Airport[dfStations$StateAbbrev == state & dfStations$City == city]
   
   # scrape data from wunderground
-  pyScraper = reticulate::import('wunderground_scraper')
-  dfData = pyScraper$scraper(pyScraper$getURL(dfStations, city, state), dates)
+  remote_driver$navigate(url = getWUUrl(granularity, station, dates))
   
-  return(dfData)
+  if (granularity == "daily") {
+    # determine first element in table (going to be a time) 
+    htmlData <- remote_driver$findElements(using = "css", value = "tr")
+    tableColumns <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)] %>% strsplit("\\n") %>% unlist()
+    firstTableElement <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)+1] %>% unlist() %>% strsplit(., "M ")
+    firstTableElement <- paste0(firstTableElement[[1]][1], "M")
+    
+    # create data table
+    htmlData <- remote_driver$findElements(using = "css", value = "tr td")
+    vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[match(firstTableElement, .):length(.)] %>% unlist()
+    dfData <- data.frame(stat = tableColumns, value = vecData, stringsAsFactors = FALSE) %>% 
+      dplyr::mutate(period = sort(rep(1:(length(vecData)/length(tableColumns)), length(tableColumns))))
+    
+    # remove units from values and put them in metric names
+    dfData$stat <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$stat[i], 
+                                                      paste0(dfData$stat[i], " (", unlist(strsplit(dfData$value[i], " "))[2], ")")))
+    dfData$value <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$value[i], 
+                                                             unlist(strsplit(dfData$value[i], " "))[1]))
+    
+    dfData <- dfData %>% tidyr::spread(stat, value) %>% 
+      dplyr::mutate(Station = station, Date = dates) %>% dplyr::select(-period) %>% tidyr::gather(Metric, Value, -c(Station, Date, Time)) %>%
+      dplyr::select(c(Station, Date, Time, Metric, Value))
+    
+  } else if (granularity == "monthly") {
+    
+    htmlData <- remote_driver$findElements(using = "css", value = "tr td")
+    vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time", .):length(.)] %>% unlist()
+    vecColnames <- c("Date", vecData[2:(grep("\\n", vecData)[1]-1)])
+    vecData <- vecData %>% .[grepl("\\n", .)]
+    
+    dfData <- data.frame()  
+    for (i in 1:length(vecData)) {
+      vecTemp <- vecData[i] %>% strsplit("\\n") %>% unlist()
+      
+      if (vecTemp[1] == format(dates, "%b")) { # check if a date column
+        vecDate <- as.Date(paste(format(dates, "%Y"), format(dates, "%m"), vecTemp[2:length(vecTemp)], sep = "-"))
+      } else {
+        tempColnames <- vecTemp[1] %>% strsplit(" ") %>% unlist()
+        dfString <- vecTemp[-1] %>% strsplit(" ") %>% do.call(rbind, .) %>% as.numeric() %>% matrix(ncol = length(tempColnames)) %>% 
+          as.data.frame() %>% `colnames<-`(tempColnames) %>% tidyr::gather(Stat, Value) %>% 
+          dplyr::mutate(Metric = vecColnames[i], Date = rep(vecDate, length(tempColnames)))
+        dfData <- rbind(dfString, dfData)
+      }
+    }
+    dfData <- dfData %>% dplyr::mutate(Station = station) %>% dplyr::select(Station, Date, Metric, Stat, Value)
+  }
+  
+  remote_driver$close()
+  system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE) # close the port
+  
+  return(dfData) 
 }
 
-pythonPath = "C:/Users/bwill/anaconda3/python.exe"
-granularity = "monthly"
-state = "Georgia"
-city = "atlanta"
-dates = seq.Date(as.Date("2015-01-01"), as.Date("2015-12-01"), 'month')
-
-
-df = getWUData(pythonPath, granularity, state, city, dates)
-  
