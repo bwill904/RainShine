@@ -13,26 +13,9 @@
 #' @examples getWUDataR(pythonPath = 'C:/Users/bwill/anaconda3/python.exe', granularity = 'monthly', state = 'GA', 
 #' city = 'Atlanta', dates = as.Date(c('2021-01-01', '2021-02-01')))
 
-getWUUrl <- function(granularity, station, dates) {
+getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity = "monthly", state = "georgia", city = "atlanta", dates = as.Date("2015-01-01")) {
   
-  if (tolower(granularity) == "monthly") {
-    url <- paste0("https://www.wunderground.com/history/monthly/", station, "/date/", format(dates, "%Y-%m"))
-  } else if (tolower(granularity) == "daily") {
-    url <- paste0("https://www.wunderground.com/history/daily/", station, "/date/", format(dates, "%Y-%m-%d"))
-  } else return("Please select monthly or daily granularity.")
-  
-  return(url)
-}
-
-granularity = "daily"
-state = "Georgia"
-city = "atlanta"
-dates = seq.Date(as.Date("2015-01-01"), as.Date("2015-01-01"), 'month')
-dirChrome = "C:/Program Files/Google/Chrome/Application/"
-
-getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity, state, city, dates) {
-  
-  require (dplyr)
+  require(dplyr)
   
   # setup remote driver
   if (dir.exists(dirChrome) | "chrome.exe" %in% list.files(dirChrome)) { # check chrome is installed
@@ -64,62 +47,83 @@ getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/",
   
   # dates check
   if (!inherits(dates, 'Date')) return("Dates provided are not in date format.")
+  if (granularity == monthly) dates <- format(dates, "%Y-%m-01") %>% as.Date() %>% unique() # ensure no duplicates for monthly data
   
   station <- dfStations$Airport[dfStations$StateAbbrev == state & dfStations$City == city]
   
-  # scrape data from wunderground
-  remote_driver$navigate(url = getWUUrl(granularity, station, dates))
-  
-  if (granularity == "daily") {
-    # determine first element in table (going to be a time) 
-    htmlData <- remote_driver$findElements(using = "css", value = "tr")
-    tableColumns <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)] %>% strsplit("\\n") %>% unlist()
-    firstTableElement <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)+1] %>% unlist() %>% strsplit(., "M ")
-    firstTableElement <- paste0(firstTableElement[[1]][1], "M")
+  for (date in dates) {
     
-    # create data table
-    htmlData <- remote_driver$findElements(using = "css", value = "tr td")
-    vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[match(firstTableElement, .):length(.)] %>% unlist()
-    dfData <- data.frame(stat = tableColumns, value = vecData, stringsAsFactors = FALSE) %>% 
-      dplyr::mutate(period = sort(rep(1:(length(vecData)/length(tableColumns)), length(tableColumns))))
+    # nagivate to URL for selected date
+    remote_driver$navigate(url = getWUUrl(granularity, station, date))
     
-    # remove units from values and put them in metric names
-    dfData$stat <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$stat[i], 
-                                                      paste0(dfData$stat[i], " (", unlist(strsplit(dfData$value[i], " "))[2], ")")))
-    dfData$value <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$value[i], 
-                                                             unlist(strsplit(dfData$value[i], " "))[1]))
-    
-    dfData <- dfData %>% tidyr::spread(stat, value) %>% 
-      dplyr::mutate(Station = station, Date = dates) %>% dplyr::select(-period) %>% tidyr::gather(Metric, Value, -c(Station, Date, Time)) %>%
-      dplyr::select(c(Station, Date, Time, Metric, Value))
-    
-  } else if (granularity == "monthly") {
-    
-    htmlData <- remote_driver$findElements(using = "css", value = "tr td")
-    vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time", .):length(.)] %>% unlist()
-    vecColnames <- c("Date", vecData[2:(grep("\\n", vecData)[1]-1)])
-    vecData <- vecData %>% .[grepl("\\n", .)]
-    
-    dfData <- data.frame()  
-    for (i in 1:length(vecData)) {
-      vecTemp <- vecData[i] %>% strsplit("\\n") %>% unlist()
+    if (granularity == "daily") {
+      # determine first element in table (going to be a time) 
+      htmlData <- remote_driver$findElements(using = "css", value = "tr")
+      tableColumns <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)] %>% strsplit("\\n") %>% unlist()
+      firstTableElement <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)+1] %>% unlist() %>% strsplit(., "M ")
+      firstTableElement <- paste0(firstTableElement[[1]][1], "M")
       
-      if (vecTemp[1] == format(dates, "%b")) { # check if a date column
-        vecDate <- as.Date(paste(format(dates, "%Y"), format(dates, "%m"), vecTemp[2:length(vecTemp)], sep = "-"))
-      } else {
-        tempColnames <- vecTemp[1] %>% strsplit(" ") %>% unlist()
-        dfString <- vecTemp[-1] %>% strsplit(" ") %>% do.call(rbind, .) %>% as.numeric() %>% matrix(ncol = length(tempColnames)) %>% 
-          as.data.frame() %>% `colnames<-`(tempColnames) %>% tidyr::gather(Stat, Value) %>% 
-          dplyr::mutate(Metric = vecColnames[i], Date = rep(vecDate, length(tempColnames)))
-        dfData <- rbind(dfString, dfData)
+      # create data table
+      htmlData <- remote_driver$findElements(using = "css", value = "tr td")
+      vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[match(firstTableElement, .):length(.)] %>% unlist()
+      dfData <- data.frame(stat = tableColumns, value = vecData, stringsAsFactors = FALSE) %>% 
+        dplyr::mutate(period = sort(rep(1:(length(vecData)/length(tableColumns)), length(tableColumns))))
+      
+      # remove units from values and put them in metric names
+      dfData$stat <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$stat[i], 
+                                                               paste0(dfData$stat[i], " (", unlist(strsplit(dfData$value[i], " "))[2], ")")))
+      dfData$value <- sapply(1:nrow(dfData), function(i) ifelse(dfData$stat[i] %in% c("Time", "Condition", "Wind"), dfData$value[i], 
+                                                                unlist(strsplit(dfData$value[i], " "))[1]))
+      
+      dfData <- dfData %>% tidyr::spread(stat, value) %>% 
+        dplyr::mutate(Station = station, Date = date) %>% dplyr::select(-period) %>% tidyr::gather(Metric, Value, -c(Station, Date, Time)) %>%
+        dplyr::select(c(Station, Date, Time, Metric, Value))
+      
+    } else if (granularity == "monthly") {
+      
+      htmlData <- remote_driver$findElements(using = "css", value = "tr td")
+      vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time", .):length(.)] %>% unlist()
+      vecColnames <- c("Date", vecData[2:(grep("\\n", vecData)[1]-1)])
+      vecData <- vecData %>% .[grepl("\\n", .)]
+      
+      dfData <- data.frame()  
+      for (i in 1:length(vecData)) {
+        vecTemp <- vecData[i] %>% strsplit("\\n") %>% unlist()
+        
+        if (vecTemp[1] == format(date, "%b")) { # check if a date column
+          vecDate <- as.Date(paste(format(date, "%Y"), format(date, "%m"), vecTemp[2:length(vecTemp)], sep = "-"))
+        } else {
+          tempColnames <- vecTemp[1] %>% strsplit(" ") %>% unlist()
+          dfString <- vecTemp[-1] %>% strsplit(" ") %>% do.call(rbind, .) %>% as.numeric() %>% matrix(ncol = length(tempColnames)) %>% 
+            as.data.frame() %>% `colnames<-`(tempColnames) %>% tidyr::gather(Stat, Value) %>% 
+            dplyr::mutate(Metric = vecColnames[i], Date = rep(vecDate, length(tempColnames)))
+          dfData <- rbind(dfString, dfData)
+        }
       }
+      dfData <- dfData %>% dplyr::mutate(Station = station) %>% dplyr::select(Station, Date, Metric, Stat, Value)
     }
-    dfData <- dfData %>% dplyr::mutate(Station = station) %>% dplyr::select(Station, Date, Metric, Stat, Value)
+    
+    if (date == dates[1]) {
+      dfOutput <- dfData
+    } else dfOutput <- rbind(dfOutput, dfData)
+    
   }
   
   remote_driver$close()
   system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE) # close the port
   
-  return(dfData) 
+  return(dfOutput) 
 }
+
+getWUUrl <- function(granularity, station, date) {
+  
+  if (tolower(granularity) == "monthly") {
+    url <- paste0("https://www.wunderground.com/history/monthly/", station, "/date/", format(date, "%Y-%m"))
+  } else if (tolower(granularity) == "daily") {
+    url <- paste0("https://www.wunderground.com/history/daily/", station, "/date/", format(date, "%Y-%m-%d"))
+  } else return("Please select monthly or daily granularity.")
+  
+  return(url)
+}
+
 
