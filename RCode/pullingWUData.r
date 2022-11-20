@@ -2,7 +2,7 @@
 #' Title Get Weather Underground Data
 #'
 #' @param chromeDir Path for chrome executable file.
-#' @param granularity Output granularity, currently only 'monthly' is available.
+#' @param granularity Output granularity, either 'daily' or 'hourly'
 #' @param state US state of desired location.
 #' @param city US city for desired location.
 #' @param dates Desired date vector. Must be in date format.
@@ -10,12 +10,15 @@
 #' @return Dataframe object with historical weather data.
 #' @export
 #'
-#' @examples getWUDataR(pythonPath = 'C:/Users/bwill/anaconda3/python.exe', granularity = 'monthly', state = 'GA', 
+#' @examples getWUDataR(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity = 'daily', state = 'GA', 
 #' city = 'Atlanta', dates = as.Date(c('2021-01-01', '2021-02-01')))
 
-getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity = "monthly", state = "georgia", city = "atlanta", dates = as.Date("2015-01-01")) {
+getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/", granularity = "daily", state = "GA", 
+                      city = "Atlanta", dates = as.Date("2015-01-01")) {
   
   require(dplyr)
+  
+  invisible(system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE)) # close existing port
   
   # setup remote driver
   if (dir.exists(dirChrome) | "chrome.exe" %in% list.files(dirChrome)) { # check chrome is installed
@@ -26,7 +29,7 @@ getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/",
   driver <- RSelenium::rsDriver(browser=c("chrome"), chromever = '103.0.5060.53', check = TRUE)
   remote_driver <- driver[["client"]]
   
-  # formatting for passing to python function
+  # pulling station data
   state = tolower(state)
   city = tolower(city)
   
@@ -47,16 +50,19 @@ getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/",
   
   # dates check
   if (!inherits(dates, 'Date')) return("Dates provided are not in date format.")
-  if (granularity == monthly) dates <- format(dates, "%Y-%m-01") %>% as.Date() %>% unique() # ensure no duplicates for monthly data
+  if (granularity == "daily") dates <- format(dates, "%Y-%m-01") %>% as.Date() %>% unique() # ensure no duplicates for daily data
   
   station <- dfStations$Airport[dfStations$StateAbbrev == state & dfStations$City == city]
   
-  for (date in dates) {
+  for (i in 1:length(dates)) {
+    
+    date <- dates[i] # avoid converting date to numeric
     
     # nagivate to URL for selected date
     remote_driver$navigate(url = getWUUrl(granularity, station, date))
+    Sys.sleep(5) # ensure page has loaded
     
-    if (granularity == "daily") {
+    if (granularity == "hourly") {
       # determine first element in table (going to be a time) 
       htmlData <- remote_driver$findElements(using = "css", value = "tr")
       tableColumns <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time\nTemperature", .)] %>% strsplit("\\n") %>% unlist()
@@ -79,7 +85,7 @@ getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/",
         dplyr::mutate(Station = station, Date = date) %>% dplyr::select(-period) %>% tidyr::gather(Metric, Value, -c(Station, Date, Time)) %>%
         dplyr::select(c(Station, Date, Time, Metric, Value))
       
-    } else if (granularity == "monthly") {
+    } else if (granularity == "daily") {
       
       htmlData <- remote_driver$findElements(using = "css", value = "tr td")
       vecData <- sapply(htmlData, function(x) x$getElementText()) %>% .[grep("Time", .):length(.)] %>% unlist()
@@ -106,20 +112,19 @@ getWUData <- function(dirChrome = "C:/Program Files/Google/Chrome/Application/",
     if (date == dates[1]) {
       dfOutput <- dfData
     } else dfOutput <- rbind(dfOutput, dfData)
-    
   }
   
-  remote_driver$close()
-  system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE) # close the port
+   remote_driver$close()
+  system("taskkill /im java.exe /f", intern=FALSE, ignore.stdout=FALSE) # close existing port
   
   return(dfOutput) 
 }
 
 getWUUrl <- function(granularity, station, date) {
   
-  if (tolower(granularity) == "monthly") {
+  if (tolower(granularity) == "daily") {
     url <- paste0("https://www.wunderground.com/history/monthly/", station, "/date/", format(date, "%Y-%m"))
-  } else if (tolower(granularity) == "daily") {
+  } else if (tolower(granularity) == "hourly") {
     url <- paste0("https://www.wunderground.com/history/daily/", station, "/date/", format(date, "%Y-%m-%d"))
   } else return("Please select monthly or daily granularity.")
   
