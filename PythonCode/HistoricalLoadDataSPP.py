@@ -11,4 +11,5 @@ for year in os.listdir(strHistLoadDir):
             dfHistLoad = dfTemp
         else: dfHistLoad = pd.concat([dfHistLoad, dfTemp])
 
-dfHistLoad.to_csv('C:/Users/bwill/Documents/RainShine/Data/Load/History/HistLoadSPP.csv')
+dfHistLoad['MarketHour'] = pd.to_datetime(dfHistLoad['MarketHour'])
+dfHistLoad.to_csv('C:/Users/bwill/Documents/RainShine/Data/Load/History/HistLoadSPP.csv', index=False)
