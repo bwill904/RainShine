@@ -3,8 +3,9 @@
 from datetime import date
 from datetime import datetime, timedelta
 import pandas as pd
+import os
 
-dfHistLoad = pd.read_csv('C:/Users/bwill/Documents/RainShine/Data/Load/History/HistLoadSPP.csv')
+dfHistLoad = pd.read_csv(os.path.expanduser('~/Documents') + '/RainShine/Data/Load/History/HistLoadSPP.csv')
 dfHistLoad['MarketHour'] = pd.to_datetime(dfHistLoad['MarketHour'])
 
 lastDay = max(dfHistLoad['MarketHour']).date()
@@ -18,4 +19,4 @@ for day in pd.date_range(lastDay.strftime("%m/%d/%Y"), date.today().strftime("%m
         print('Missing historical load data for ' + str(day))
 
 dfHistLoad = dfHistLoad.round(decimals=2)
-dfHistLoad.to_csv('C:/Users/bwill/Documents/RainShine/Data/Load/History/HistLoadSPP.csv', index=False)
+dfHistLoad.to_csv(os.path.expanduser('~/Documents') + '/RainShine/Data/Load/History/HistLoadSPP.csv', index=False)

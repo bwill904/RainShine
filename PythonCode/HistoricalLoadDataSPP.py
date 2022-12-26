@@ -14,4 +14,4 @@ for year in os.listdir(strHistLoadDir):
 
 dfHistLoad['MarketHour'] = pd.to_datetime(dfHistLoad['MarketHour']) - timedelta(hours=7) # convert from GMT to CST, get data in hour beginning
 dfHistLoad = dfHistLoad.round(decimals=2)
-dfHistLoad.to_csv('C:/Users/bwill/Documents/RainShine/Data/Load/History/HistLoadSPP.csv', index=False)
+dfHistLoad.to_csv(os.path.expanduser('~/Documents') + '/RainShine/Data/Load/History/HistLoadSPP.csv', index=False)
